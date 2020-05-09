@@ -1,7 +1,7 @@
 ---
 id: te-101
-title: Token Engineering 101
-sidebar_label: Token Engineering 101
+title: TE 101 Materials
+sidebar_label: Materials
 ---
 
 ### Intro Materials

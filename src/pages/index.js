@@ -60,10 +60,10 @@ const features = [
     title: <>SourceCred</>,
     url: 'https://sourcecred.io',
     imageUrl: 'img/sourcecred-logo.png',
-    shortDescription: 'CredRank all the things',
+    shortDescription: 'A tool for communities to measure and reward value creation',
     description: (
       <>
-        A tool for communities to measure and reward value creation.
+       SourceCred allows communities to create and curate contribution networks. These networks represent how contributions are connected to other contributions, to members of the community, and to the community’s values. 
       </>
     ),
   },
@@ -74,7 +74,7 @@ const features = [
     shortDescription: 'Recognize and reward community contributions',
     description: (
       <>
-        An autonomous framework to help communities measure, recognize, and reward value creation.
+        A framework to help communities measure, recognize, and reward value creation. AraCred intends to empower communities to collaborate in a way that is positive-sum.
       </>
     ),
   },
@@ -85,7 +85,7 @@ const features = [
     shortDescription: 'A MMORPG for real life',
     description: (
       <>
-        It's super cool. Just trust us on this one.
+        MetaGame is an open-source framework for autonomous humans and decentralized organizations, to coordinate in creation and exchange of value with the least friction and most fun possible. 
       </>
     ),
   },
@@ -97,6 +97,17 @@ const features = [
     description: (
       <>
         Through community currencies people have a way to exchange goods and services and incubate new businesses.
+      </>
+    ),
+  },
+  {
+    title: <>1Hive</>,
+    url: 'https://www.1hive.org/',
+    imageUrl: 'img/1hive-logo.png',
+    shortDescription: 'Exploring novel ways to create, organize, and grow communities',
+    description: (
+      <>
+        1Hive is a community of builders driven by a desire to improve how humans collaborate online. We are explorers and pioneers blazing a trail towards a future of work which is more global, open, transparent, and fair. 
       </>
     ),
   },
