@@ -4,4 +4,6 @@ title: Token Reviews
 sidebar_label: Reviews
 ---
 
-Stuff about TE reviews goes here.
+Looking for feedback on your tokeneconomic system?
+
+Check out our [token review service](https://discord.gg/7tvGCTD)!

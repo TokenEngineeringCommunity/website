@@ -4,20 +4,17 @@ title: Token Engineering Workshops
 sidebar_label: Workshops
 ---
 
-Stuff about the TE workshops goes here.
-
 ## Upcoming Workshops and Meetups 
-- [ReadyLayerOne](https://readylayer.one/) - workshop, link agenda tba
+- [ReadyLayerOne](https://readylayer.one/)
 - [Berlin meetup group](https://www.meetup.com/de-DE/Token-Engineering/)
 - [Munich meetup group](https://www.meetup.com/de-DE/Token-Engineering-Munich/)
 
 ## Past Workshops
+- [NonCon2020 session recordings](https://www.youtube.com/playlist?list=PLp4Qsobvo_Jv561ib0n2PkVQMbvXWr96e)
 
-### Noncon
+## TEGG 
 
-> [NonCon2020 session recordings](https://www.youtube.com/playlist?list=PLp4Qsobvo_Jv561ib0n2PkVQMbvXWr96e)
-
-### TEGG 
+_Token Engineering Global Gathering._
 
 Cryptoeconomic systems will redefine the way we understand business and economics in the 21st century. However, creating such tokenized ecosystems is hard.
 
