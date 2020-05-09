@@ -4,7 +4,7 @@ module.exports = {
       [
         'about',
         'contributing',
-        'doc3'
+        'faq'
       ],
     'Token Engineering 101': 
       [

@@ -18,3 +18,14 @@ sidebar_label: Materials
 ### Other Things
 - [Token Engineering YouTube Channel](https://www.youtube.com/channel/UCDmzlpzOlaTALYV0hAwT0Tg) - 📺 A cornucopia of token engineering lectures. 
 - [BlockScience resources page](https://block.science/resources/) - 📺 📄 📕 A curation of resources related to token engineering.
+- [Token Engineering Learning Program](https://www.tannrallard.tech/token-engineering-learning-program/) - General introduction to the process and access to helpful materials.
+- [Token Engineering Wiki](http://tokenengineering.wikidot.com/) - A glorious archive of tokeneconomic treasures. 
+- [CadCAD Tutorials](https://github.com/BlockScience/cadCAD/tree/master/tutorials) - A collection of CadCAD tutorials (may or may not be up to date).
+
+> Showcase 1-3 cases covering various steps of the total process initial vision > stakeholder map > system design > selecting component > simulations > behavioral data & attack vectors > security > living digital twin. 
+
+Sebnem's Electraseed Medium article
+
+Videos:
+- https://www.youtube.com/playlist?list=PLp4Qsobvo_Jv561ib0n2PkVQMbvXWr96e
+- https://www.youtube.com/c/tokenengineering

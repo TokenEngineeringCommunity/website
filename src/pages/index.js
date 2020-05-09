@@ -57,6 +57,17 @@ const features = [
     ),
   },
   {
+    title: <>TEGG</>,
+    url: 'https://tegg.io/',
+    imageUrl: 'img/tegg-logo.png',
+    shortDescription: 'Token Engineering Global Gathering',
+    description: (
+      <>
+        TEGG is the global gathering of cryptoeconomic researchers and practitioners. Our aim is to establish a body of theory, practice, tools and a sense of responsibility for building successful and sustainable blockchain token economies.
+      </>
+    ),
+  },
+  {
     title: <>SourceCred</>,
     url: 'https://sourcecred.io',
     imageUrl: 'img/sourcecred-logo.png',
@@ -131,7 +142,7 @@ function Home() {
                 'button button--outline button--secondary button--lg',
                 styles.getStarted,
               )}
-              to={useBaseUrl('docs/doc1')}>
+              to={useBaseUrl('docs/about')}>
               Get Started
             </Link>
           </div>

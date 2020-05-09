@@ -43,6 +43,10 @@ module.exports = {
               to: 'blog',
             },
             {
+              label: '📺 YouTube',
+              href: 'https://www.youtube.com/c/TokenEngineering',
+            },
+            {
               label: '📚 Token Engineering 101',
               to: 'docs/te-101-materials',
             },
@@ -75,6 +79,10 @@ module.exports = {
             {
               label: '💬 Discord',
               href: 'https://discord.gg/gHvksh8',
+            },
+            {
+              label: '💬 Telegram',
+              href: 'https://t.me/TokenEngineering',
             },
             {
               label: '🐈 GitHub',
