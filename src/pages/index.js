@@ -123,6 +123,17 @@ const features = [
     ),
   },
   {
+    title: <>Giveth</>,
+    url: 'https://www.https://giveth.io/',
+    imageUrl: 'img/giveth-logo.png',
+    shortDescription: 'Building the Future of Giving',
+    description: (
+      <>
+        We are a community focused on making the world a better place through the use of blockchain technology.We created the Giveth Galaxy to foster a larger network of organizations that will help us Build the Future of Giving we envision.
+      </>
+    ),
+  },
+  {
     title: <>Grassroots Economics</>,
     url: 'https://www.grassrootseconomics.org/',
     imageUrl: 'img/grassroots-economics-logo.png',
