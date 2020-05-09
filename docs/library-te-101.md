@@ -15,6 +15,7 @@ sidebar_label: TE-101
 - [Towards a Practice of Token Engineering](https://blog.oceanprotocol.com/towards-a-practice-of-token-engineering-b02feeeff7ca) - TBD.
 - [Token Engineering case studies](https://blog.oceanprotocol.com/token-engineering-case-studies-b44267e68f4) - TBD.
 - [On engineering economic systems](https://medium.com/block-science/on-engineering-economic-systems-1cff055d3a5f) - TBD.
+- [On Engineering Economic Systems II](https://medium.com/block-science/on-engineering-economic-systems-ii-cec0995b3fa2) - TBD.
 - [Token Engineering 101: Why Engineering is Necessary](https://medium.com/block-science/token-engineering-101-why-engineering-is-necessary-3bac27ccb8b7) - TBD.
 - [On the Practice of Token Engineering, Part I: Enter the Token Engineer](https://medium.com/block-science/on-the-practice-of-token-engineering-part-i-c2cc2434e727) - TBD.
 - [On the Practice of Token Engineering, Part II: Engineering = {Capability, Responsibility}](https://medium.com/block-science/on-the-practice-of-token-engineering-part-ii-engineering-capability-responsibility-6307c40ff881) - TBD.
