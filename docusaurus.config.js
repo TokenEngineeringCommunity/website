@@ -3,7 +3,7 @@ module.exports = {
   tagline: 'Because tokens don\'t engineer themselves!',
   organizationName: 'te-temp',
   projectName: 'te-website',
-  baseUrl: '/',
+  baseUrl: '/te-website/',
   url: 'https://te-temp.github.io/',
   favicon: 'img/te-logo.png',
   themeConfig: {
@@ -15,7 +15,7 @@ module.exports = {
       },
       links: [
         {
-          to: 'docs/doc1',
+          to: 'docs/about',
           activeBasePath: 'docs',
           label: '📚 Library',
           position: 'left',

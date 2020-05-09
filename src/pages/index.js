@@ -46,6 +46,17 @@ const features = [
     ),
   },
   {
+    title: <>Commons Stack</>,
+    url: 'https://commonsstack.org/',
+    imageUrl: 'img/commons-stack-logo.png',
+    shortDescription: 'Realigning incentives around public goods',
+    description: (
+      <>
+        A design and engineering group creating systems that incentivize the creation and maintenance of public goods.
+      </>
+    ),
+  },
+  {
     title: <>SourceCred</>,
     url: 'https://sourcecred.io',
     imageUrl: 'img/sourcecred-logo.png',
@@ -75,6 +86,17 @@ const features = [
     description: (
       <>
         It's super cool. Just trust us on this one.
+      </>
+    ),
+  },
+  {
+    title: <>Grassroots Economics</>,
+    url: 'https://www.grassrootseconomics.org/',
+    imageUrl: 'img/grassroots-economics-logo.png',
+    shortDescription: 'Creating sustainable community currentices',
+    description: (
+      <>
+        Through community currencies people have a way to exchange goods and services and incubate new businesses.
       </>
     ),
   },
