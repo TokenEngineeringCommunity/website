@@ -13,6 +13,9 @@ This page will talk about:
   - and many more
 - Current TE projects you can contribute to 
   - TE landing page 
+    - Docusaurus basics 
+    - how to edit docs 
+    - GitHub basics
   - token reviews 
   - TE book 
   - TE 101 
