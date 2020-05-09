@@ -2,9 +2,9 @@ module.exports = {
   title: 'Token Engineering',
   tagline: 'Because tokens don\'t engineer themselves!',
   organizationName: 'te-temp',
-  projectName: 'te-website',
-  baseUrl: '/te-website/',
-  url: 'https://te-temp.github.io/',
+  projectName: 'tokenengineeringcommunity',
+  baseUrl: '/website/',
+  url: 'https://tokenengineeringcommunity.github.io/',
   favicon: 'img/te-logo.png',
   themeConfig: {
     navbar: {
