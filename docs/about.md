@@ -6,7 +6,7 @@ sidebar_label: About
 
 The Token Engineering Community is working to answer the following question: "What does it take to do "token engineering" and how we can do it together?" 
 
-## But what is "token engineering?"
+## So what is "token engineering?"
 
 Token engineering is a holistic engineering discipline that goes all the way from ideation to design, testing, deployment, and maintentance. It's the process of building things that work, and keep working. Just like bridges and roads need to be reliable, so do our economic systems. Our goal is to help design and create tokeneconomic systems that are robust against exploits and can empower users.
 

@@ -22,7 +22,7 @@ sidebar_label: Materials
 - [Token Engineering Wiki](http://tokenengineering.wikidot.com/) - A glorious archive of tokeneconomic treasures. 
 - [CadCAD Tutorials](https://github.com/BlockScience/cadCAD/tree/master/tutorials) - A collection of CadCAD tutorials (may or may not be up to date).
 
-> Showcase 1-3 cases covering various steps of the total process initial vision > stakeholder map > system design > selecting component > simulations > behavioral data & attack vectors > security > living digital twin. 
+> Would be great to showcase 1-3 cases covering various steps of the total process initial vision > stakeholder map > system design > selecting component > simulations > behavioral data & attack vectors > security > living digital twin. 
 
 Sebnem's Electraseed Medium article
 

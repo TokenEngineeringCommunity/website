@@ -68,6 +68,17 @@ const features = [
     ),
   },
   {
+    title: <>Ocean Protocol</>,
+    url: 'https://oceanprotocol.com/',
+    imageUrl: 'img/ocean-protocol-logo.png',
+    shortDescription: 'A New Data Economy',
+    description: (
+      <>
+        Ocean Protocol is kickstarting a Data Economy by breaking down data silos and equalizing access to data for all.
+      </>
+    ),
+  },
+  {
     title: <>WU Vienna</>,
     url: 'https://www.wu.ac.at/cryptoeconomics',
     imageUrl: 'img/wu-vienna-logo.png',
