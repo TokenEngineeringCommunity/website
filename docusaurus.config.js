@@ -41,7 +41,7 @@ module.exports = {
           items: [
             {
               label: '🦜 Twitter',
-              href: 'https://twitter.com/tokenengineering',
+              href: 'https://twitter.com/tokengineering',
             },
             {
               label: '💬 Discord',
