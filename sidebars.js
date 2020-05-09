@@ -10,5 +10,10 @@ module.exports = {
       [
         'te-101',
       ],
+    'Token Engineering Services':
+      [
+        'reviews',
+        'workshops',
+      ],
   },
 };
