@@ -39,21 +39,34 @@ module.exports = {
           title: 'Learn',
           items: [
             {
-              label: '👋 Introduction',
-              to: 'docs/introduction',
+              label: '📜 Blog',
+              to: 'blog',
             },
             {
               label: '📚 Token Engineering 101',
-              to: 'docs/installation',
+              to: 'docs/te-101-materials',
             },
             {
-              label: '📖 TE Book',
-              to: 'docs/migrating-from-v1-to-v2',
+              label: '📖 The Token Engineering Book',
+              to: 'docs/te-book',
             },
           ],
         },
         {
-          title: 'TE Channels',
+          title: 'TE Services',
+          items: [
+            {
+              label: '💱 Token Reviews',
+              to: 'feedback',
+            },
+            {
+              label: '⚙️ Workshops',
+              to: 'docs/next/support',
+            },
+          ],
+        },
+        {
+          title: 'TE Community',
           items: [
             {
               label: '🦜 Twitter',
@@ -64,25 +77,8 @@ module.exports = {
               href: 'https://discord.gg/gHvksh8',
             },
             {
-              label: '📜 Blog',
-              to: 'blog',
-            },
-            {
               label: '🐈 GitHub',
               href: 'https://github.com/tokenengineeringcommunity',
-            },
-          ],
-        },
-        {
-          title: 'Other',
-          items: [
-            {
-              label: '🔁 Feedback',
-              to: 'feedback',
-            },
-            {
-              label: '🆘 Help',
-              to: 'docs/next/support',
             },
           ],
         },
@@ -96,10 +92,6 @@ module.exports = {
             {
               label: '🆘 Help',
               to: 'docs/next/support',
-            },
-            {
-              label: '🐈 GitHub',
-              href: 'https://github.com/tokenengineeringcommunity',
             },
           ],
         },

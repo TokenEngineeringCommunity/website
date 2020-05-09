@@ -113,7 +113,6 @@ const features = [
   },
 ];
 
-
 function Home() {
   const context = useDocusaurusContext();
   const {siteConfig = {}} = context;
