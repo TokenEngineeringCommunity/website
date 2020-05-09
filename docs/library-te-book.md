@@ -1,5 +1,5 @@
 ---
-id: te-book
+id: library-te-book
 title: TE Book
 sidebar_label: TE Book
 ---

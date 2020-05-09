@@ -1,5 +1,5 @@
 ---
-id: workshops
+id: services-workshops
 title: Token Engineering Workshops
 sidebar_label: Workshops
 ---

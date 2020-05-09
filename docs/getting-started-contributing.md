@@ -1,6 +1,6 @@
 ---
-id: contributing
-title: Contributing
+id: getting-started-contributing
+title: Contributing to the Token Engineering community
 sidebar_label: Contributing
 ---
 

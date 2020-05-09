@@ -2,18 +2,21 @@ module.exports = {
   someSidebar: {
     'Getting Started': 
       [
-        'about',
-        'contributing',
-        'faq'
+        'getting-started-welcome',
+        'getting-started-faq',
+        'getting-started-contributing',
       ],
-    'Token Engineering 101': 
+    'Library': 
       [
-        'te-101',
+        'library-welcome',
+        'library-te-101',
+        'library-te-book',
       ],
-    'Token Engineering Services':
+    'Services':
       [
-        'reviews',
-        'workshops',
+        'services-welcome',
+        'services-reviews',
+        'services-workshops',
       ],
   },
 };

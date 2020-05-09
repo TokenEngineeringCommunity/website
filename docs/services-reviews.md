@@ -1,5 +1,5 @@
 ---
-id: reviews
+id: services-reviews
 title: Token Reviews
 sidebar_label: Reviews
 ---

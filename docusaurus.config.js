@@ -15,9 +15,15 @@ module.exports = {
       },
       links: [
         {
-          to: 'docs/about',
+          to: 'docs/library-welcome',
           activeBasePath: 'docs',
           label: '📚 Library',
+          position: 'left',
+        },
+        {
+          to: 'docs/services-welcome',
+          activeBasePath: 'docs',
+          label: '🤝 Services',
           position: 'left',
         },
         {
@@ -25,52 +31,13 @@ module.exports = {
           label: '📰 Blog',
           position: 'left'
         },
-        {
-          href: 'https://github.com/facebook/docusaurus',
-          label: 'GitHub',
-          position: 'right',
-        },
       ],
     },
     footer: {
       style: 'dark',
       links: [
         {
-          title: 'Learn',
-          items: [
-            {
-              label: '📜 Blog',
-              to: 'blog',
-            },
-            {
-              label: '📺 YouTube',
-              href: 'https://www.youtube.com/c/TokenEngineering',
-            },
-            {
-              label: '📚 Token Engineering 101',
-              to: 'docs/te-101-materials',
-            },
-            {
-              label: '📖 The Token Engineering Book',
-              to: 'docs/te-book',
-            },
-          ],
-        },
-        {
-          title: 'TE Services',
-          items: [
-            {
-              label: '💱 Token Reviews',
-              to: 'feedback',
-            },
-            {
-              label: '⚙️ Workshops',
-              to: 'docs/next/support',
-            },
-          ],
-        },
-        {
-          title: 'TE Community',
+          title: 'Community',
           items: [
             {
               label: '🦜 Twitter',
@@ -91,15 +58,36 @@ module.exports = {
           ],
         },
         {
-          title: 'Placeholder',
+          title: 'Library',
           items: [
             {
-              label: '🔁 Feedback',
-              to: 'feedback',
+              label: '📜 Blog',
+              to: 'blog',
             },
             {
-              label: '🆘 Help',
-              to: 'docs/next/support',
+              label: '📺 YouTube',
+              href: 'https://www.youtube.com/c/TokenEngineering',
+            },
+            {
+              label: '📚 Token Engineering 101',
+              to: 'docs/library-te-101',
+            },
+            {
+              label: '📖 The Token Engineering Book',
+              to: 'docs/library-te-book',
+            },
+          ],
+        },
+        {
+          title: 'Services',
+          items: [
+            {
+              label: '💱 Token Reviews',
+              to: 'docs/services-token-reviews',
+            },
+            {
+              label: '⚙️ Workshops',
+              to: 'docs/services-workshops',
             },
           ],
         },
