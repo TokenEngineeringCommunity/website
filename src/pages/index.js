@@ -137,7 +137,7 @@ const features = [
     title: <>Grassroots Economics</>,
     url: 'https://www.grassrootseconomics.org/',
     imageUrl: 'img/grassroots-economics-logo.png',
-    shortDescription: 'Creating sustainable community currentices',
+    shortDescription: 'Creating sustainable community currencies',
     description: (
       <>
         Through community currencies people have a way to exchange goods and services and incubate new businesses.
