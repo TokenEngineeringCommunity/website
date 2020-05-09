@@ -1,8 +1,8 @@
 module.exports = {
   title: 'Token Engineering',
   tagline: 'Because tokens don\'t engineer themselves!',
-  organizationName: 'te-temp',
-  projectName: 'tokenengineeringcommunity',
+  organizationName: 'tokenengineeringcommunity',
+  projectName: 'website',
   baseUrl: '/website/',
   url: 'https://tokenengineeringcommunity.github.io/',
   favicon: 'img/te-logo.png',
