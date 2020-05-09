@@ -68,6 +68,17 @@ const features = [
     ),
   },
   {
+    title: <>WU Vienna</>,
+    url: 'https://www.wu.ac.at/cryptoeconomics',
+    imageUrl: 'img/wu-vienna-logo.png',
+    shortDescription: 'A research institute for crypto-economics',
+    description: (
+      <>
+        Tokens can develop into the “killer applications” of blockchain, but these applications are still at an early stage. We are developing a taxonomy for tokens - from a business, technological and legal point of view. as well as modeling, forecasting and evaluation tools. 
+      </>
+    ),
+  },
+  {
     title: <>SourceCred</>,
     url: 'https://sourcecred.io',
     imageUrl: 'img/sourcecred-logo.png',
