@@ -155,6 +155,17 @@ const features = [
       </>
     ),
   },
+  {
+    title: <>Curve Labs</>,
+    url: 'https://www.curvelabs.eu/',
+    imageUrl: 'img/curve-labs-logo.png',
+    shortDescription: 'Architecting distributed solutions for the future economy',
+    description: (
+      <>
+        Curve Labs is a team of design interventionists who research and implement tokeneconomic building blocks to create proofs of concept. 
+      </>
+    ),
+  },
 ];
 
 function Home() {
