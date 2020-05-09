@@ -25,4 +25,6 @@ This page will talk about:
   - SouceCred / AraCred 
   - how/why to minimize governance
 
+> Also mention that there's a [TE Commons DAO](https://mainnet.aragon.org/#/tecommons/) that we might do something with.
 
+- https://github.com/TokenEngineeringCommunity/TEdao
