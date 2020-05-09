@@ -1,26 +1,30 @@
 module.exports = {
-  title: 'My Site',
-  tagline: 'The tagline of my site',
-  url: 'https://your-docusaurus-test-site.com',
+  title: 'Token Engineering',
+  tagline: 'Because tokens don\'t engineer themselves!',
+  organizationName: 'te-temp',
+  projectName: 'te-website',
   baseUrl: '/',
-  favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  url: 'https://te-temp.github.io/',
+  favicon: 'img/te-logo.png',
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'Token Engineering',
       logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        alt: 'Token Engineering Logo',
+        src: 'img/te-logo.png',
       },
       links: [
         {
           to: 'docs/doc1',
           activeBasePath: 'docs',
-          label: 'Docs',
+          label: '📚 Library',
           position: 'left',
         },
-        {to: 'blog', label: 'Blog', position: 'left'},
+        {
+          to: 'blog',
+          label: '📰 Blog',
+          position: 'left'
+        },
         {
           href: 'https://github.com/facebook/docusaurus',
           label: 'GitHub',
@@ -32,50 +36,80 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'Learn',
           items: [
             {
-              label: 'Style Guide',
-              to: 'docs/doc1',
+              label: '👋 Introduction',
+              to: 'docs/introduction',
             },
             {
-              label: 'Second Doc',
-              to: 'docs/doc2',
+              label: '📚 Token Engineering 101',
+              to: 'docs/installation',
+            },
+            {
+              label: '📖 TE Book',
+              to: 'docs/migrating-from-v1-to-v2',
             },
           ],
         },
         {
-          title: 'Community',
+          title: 'TE Channels',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: '🦜 Twitter',
+              href: 'https://twitter.com/tokenengineering',
             },
             {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              label: '💬 Discord',
+              href: 'https://discord.gg/gHvksh8',
             },
             {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
-            },
-          ],
-        },
-        {
-          title: 'More',
-          items: [
-            {
-              label: 'Blog',
+              label: '📜 Blog',
               to: 'blog',
             },
             {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              label: '🐈 GitHub',
+              href: 'https://github.com/tokenengineeringcommunity',
+            },
+          ],
+        },
+        {
+          title: 'Other',
+          items: [
+            {
+              label: '🔁 Feedback',
+              to: 'feedback',
+            },
+            {
+              label: '🆘 Help',
+              to: 'docs/next/support',
+            },
+          ],
+        },
+        {
+          title: 'Placeholder',
+          items: [
+            {
+              label: '🔁 Feedback',
+              to: 'feedback',
+            },
+            {
+              label: '🆘 Help',
+              to: 'docs/next/support',
+            },
+            {
+              label: '🐈 GitHub',
+              href: 'https://github.com/tokenengineeringcommunity',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      logo: {
+        alt: 'Token Engineering Logo',
+        src: '/img/te-logo.png',
+        href: 'https://tokens.engineering',
+      },
+      copyright: `Copyright © ${new Date().getFullYear()} Token Engineering. <br> <a href="https://docusaurus.io/">🦖 Built with Docusaurus</a>!`,
     },
   },
   presets: [
