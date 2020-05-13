@@ -166,6 +166,17 @@ const features = [
       </>
     ),
   },
+  {
+    title: <>Freeelio</>,
+    url: 'https://www.freeel.io/',
+    imageUrl: 'img/freeelio-logo.png',
+    shortDescription: 'Everyone will have access to < free > electricity',
+    description: (
+      <>
+        A multi-dimensional & multi-disciplinary research collective of autonomous peers, forming a novel type of organization connected through purpose and the internet
+      </>
+    ),
+  },
 ];
 
 function Home() {
