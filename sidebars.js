@@ -12,11 +12,5 @@ module.exports = {
         'library-te-101',
         'library-te-book',
       ],
-    'Services':
-      [
-        'services-welcome',
-        'services-reviews',
-        'services-workshops',
-      ],
   },
 };
