@@ -21,12 +21,6 @@ module.exports = {
           position: 'left',
         },
         {
-          to: 'docs/services-welcome',
-          activeBasePath: 'docs',
-          label: '🤝 Services',
-          position: 'left',
-        },
-        {
           to: 'blog',
           label: '📰 Blog',
           position: 'left'
@@ -75,19 +69,6 @@ module.exports = {
             {
               label: '📖 The Token Engineering Book',
               to: 'docs/library-te-book',
-            },
-          ],
-        },
-        {
-          title: 'Services',
-          items: [
-            {
-              label: '💱 Token Reviews',
-              to: 'docs/services-token-reviews',
-            },
-            {
-              label: '⚙️ Workshops',
-              to: 'docs/services-workshops',
             },
           ],
         },
