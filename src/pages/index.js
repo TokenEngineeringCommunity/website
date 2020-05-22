@@ -81,7 +81,7 @@ const features = [
     {
     title: <>ZIP</>,
     url: 'https://zip.outlierventures.io/',
-    imageUrl: 'img/ZIP Logo.png',
+    imageUrl: 'img/zip-logo.png',
     shortDescription: 'One credit you use across all blockchains, with no price volatility.',
     description: (
       <>
