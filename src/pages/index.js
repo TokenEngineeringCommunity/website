@@ -78,6 +78,17 @@ const features = [
       </>
     ),
   },
+    {
+    title: <>ZIP</>,
+    url: 'https://zip.outlierventures.io/',
+    imageUrl: 'img/ZIP Logo.png',
+    shortDescription: 'One credit you use across all blockchains, with no price volatility.',
+    description: (
+      <>
+        Zip works across blockchain networks, so you can build on Ethereum today, and Fetch.AI tomorrow, or both at the same time. One credit, all blockchains. 
+      </>
+    ),
+  },
   {
     title: <>WU Vienna</>,
     url: 'https://www.wu.ac.at/cryptoeconomics',
