@@ -21,6 +21,12 @@ module.exports = {
           position: 'left',
         },
         {
+          to: 'docs/events-welcome',
+          activeBasePath: 'docs',
+          label: '🌎 Events',
+          position: 'left',
+        },
+        {
           to: 'blog',
           label: '📰 Blog',
           position: 'left'
