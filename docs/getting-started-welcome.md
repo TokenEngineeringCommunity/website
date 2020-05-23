@@ -12,23 +12,25 @@ Token engineering is a crossdisciplinary field that draws from established pract
 
 ![](img/static/Interdisciplinary_venn.jpg)
 
-### Define system goals
+## How does it work?
 
-Token engineering design starts with understanding the desired goals of a given system, and then working backwards to determine the properties and mechanisms required to achieve those goals. What does success look like for your tokeneconomic system?
+### Define system goals & properties
 
-### Identify mechanisms
+Token engineering design starts with understanding the desired goals of a given system, and then working backwards to determine the properties and structure required to achieve those goals. This is carried out in a baseline assessment, including system mapping as described by Stephen Young in this great article on the [token engineering process](https://medium.com/@stephen_yo/a-token-engineering-process-16687f3b9a74).
 
-As an engineer, you want to design mechanisms where certain properties hold under all conditions. You know you have a mechanism when it cannot be broken down further.
+### Model system & identify necessary mechanisms
+
+The next step in the token engineering process is to produce stock & flow diagrams representing the states of your system and how they change relative to each other. As an engineer, you want to design mechanisms where certain properties hold under all conditions. You know you have a mechanism when it cannot be broken down further.
 
 ### Compose mechanisms into design patterns
 
 Design patterns are a series of actions that will produce consistent and reproducible results. Often this is state dependent.
 
-### Model & simulate your system
+### Simulate & test your system
 
-It's important to model, validate, test and iterate your system with tools like [cadCAD](https://www.cadCAD.org) before deploying your code to production.
+It's important to model, validate, test and iterate your system with tools like [cadCAD](https://www.cadCAD.org) before deploying your code to production. As discussed in this article by Jeff Emmett on [open token engineering tools](https://medium.com/commonsstack/establishing-open-token-engineering-tools-standards-9584b40dfe30), this step can include A/B testing, parameter sweeps, Monte Carlo analyses and more.
 
-### Test IRL
+### Test IRL & iterate your model
 
-Theory only gets us so far. We need to start dogfooding the system in controlled and low-risk experiments.
+As in all engineering disciplines, theory only gets us so far. We need to implement & dogfood the designed system in controlled and low-risk environments, and iterate our model with new learnings from deployment. Ultimately, the engineering process does not promise perfect results every time, but it does provide replicable models that we can continually improve.
 
