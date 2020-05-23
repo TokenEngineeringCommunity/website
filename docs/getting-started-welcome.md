@@ -8,7 +8,7 @@ The Token Engineering Community is here to answer the following question: "What 
 
 ## So what is "token engineering?"
 
-Token engineering is a holistic engineering discipline that draws from established practices in systems, electrical, robotics & controls engineering, and more. It goes all the way from ideation to design, modeling, simulation, testing, deployment, and maintentance. It's the process of building cryptoeconomic systems that work, and keep working. Just like other public infrastructure like bridges and power grids, our future economic systems also need to be rigorously designed to be reliable. The goal of token engineering is to design and create tokeneconomic systems that are robust against exploits and cascade failure, to protect and empower users.
+Token engineering is a crossdisciplinary field that draws from established practices in systems, electrical, robotics & controls engineering, and more. It also draws from fields as diverse as Behavioural & Ecological Economics, Operations Research, AI & Optimization. It is a methodology that goes all the way from ideation to design, modeling, simulation, testing, deployment, and maintentance. It's the process of building cryptoeconomic systems that work, and keep working. Just like other public infrastructure like bridges and power grids, our future economic systems also need to be rigorously designed to be reliable. The goal of token engineering is to design and create tokeneconomic systems that are robust against exploits and cascade failure, to protect and empower users. 
 
 ![](img/static/Interdisciplinary_venn.jpg)
 
