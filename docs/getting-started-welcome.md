@@ -16,15 +16,21 @@ Token engineering is a crossdisciplinary field that draws from established pract
 
 ### Define system goals & properties
 
-Token engineering design starts with understanding the desired goals of a given system, and then working backwards to determine the properties and structure required to achieve those goals. This is carried out in a baseline assessment, including system mapping as described by Stephen Young in this great article on the [token engineering process](https://medium.com/@stephen_yo/a-token-engineering-process-16687f3b9a74).
+Token engineering design starts with understanding the desired goals of a given system, and then working backwards to determine the properties and structure required to achieve those goals. This is carried out in a baseline assessment, including system mapping & canvassing as described by Stephen Young in this article on the [token engineering process](https://medium.com/@stephen_yo/a-token-engineering-process-16687f3b9a74). The good folks at the [Platform Design Toolkit](https://platformdesigntoolkit.com/) have a suite of tools that are useful for this stage of the design process.
 
-### Model system & identify necessary mechanisms
+### Model system & identify necessary mechanisms 
 
-The next step in the token engineering process is to produce stock & flow diagrams representing the states of your system and how they change relative to each other. As an engineer, you want to design mechanisms where certain properties hold under all conditions. You know you have a mechanism when it cannot be broken down further.
+The next step in the token engineering process is to produce stock & flow diagrams representing the states of your system and how they change relative to each other. This diagram can be considered like a 'circuit diagram' of your system, that tracks flows of tokens that could represent funds, governance, reputation, and more.
+<stock & flow diagram to include>
 
-### Compose mechanisms into design patterns
+### Identify useful mechanisms & compose them into design patterns
 
-Design patterns are a series of actions that will produce consistent and reproducible results. Often this is state dependent.
+As an engineer, mechanisms should be designed where certain properties hold under all conditions. This is possible through mathematical formalization as found in the [research of Dr. Michael Zargham & the Institute for Cryptoeconomics at the Vienna University of Economics & Business](https://epub.wu.ac.at/7381/1/zargham_shorish_paruch.pdf).  Understanding the difficulty of this process, teams such as the [Commons Stack](www.commonsstack.org) are working to produce a toolkit of mechanisms & design patterns that can be customized & reused by various projects to reduce the barriers to adoption.
+
+### Draw system flows & state transitions into a differential specification
+Understanding the states, mechanisms and behaviours of your system and the agents interacting with it, 
+<diff spec diagram to include>
+
 
 ### Simulate & test your system
 
