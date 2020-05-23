@@ -33,7 +33,6 @@ Understanding the states, mechanisms and behaviours of your system and the agent
 
 <diff spec diagram to include>
 
-
 ### Simulate & test your system
 
 It's important to model, validate, test and iterate your system with tools like [cadCAD](https://www.cadCAD.org) before deploying your code to production. As discussed in this article by Jeff Emmett on [open token engineering tools](https://medium.com/commonsstack/establishing-open-token-engineering-tools-standards-9584b40dfe30), this step can include A/B testing, parameter sweeps, Monte Carlo analyses and more.
