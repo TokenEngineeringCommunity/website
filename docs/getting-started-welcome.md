@@ -4,7 +4,7 @@ title: Welcome to the Token Engineering community!
 sidebar_label: Welcome
 ---
 
-The Token Engineering Community is here to answer the following question: "What does it take to do token engineering, and how we can do it together?" 
+The Token Engineering Community is here to answer the following question: "What does it take to do token engineering, and how can we forward this nascent discipline together?" 
 
 ## So what is "token engineering?"
 
@@ -20,15 +20,17 @@ Token engineering design starts with understanding the desired goals of a given 
 
 ### Model system & identify necessary mechanisms 
 
-The next step in the token engineering process is to produce stock & flow diagrams representing the states of your system and how they change relative to each other. This diagram can be considered like a 'circuit diagram' of your system, that tracks flows of tokens that could represent funds, governance, reputation, and more.
+The next step in the token engineering process is to produce stock & flow diagrams representing the states of your system and how they change relative to each other. This diagram can be considered like a 'circuit diagram' of your system, that tracks flows of tokens that could represent funds, governance, reputation, and more. These systems can be complex and non-linear, which is explored in this article by Brandon Ramirez on [cryptoeconomic protocols as complex systems](https://thegraph.com/blog/modeling-cryptoeconomic-protocols-as-complex-systems-part-1).
+
 <stock & flow diagram to include>
 
 ### Identify useful mechanisms & compose them into design patterns
 
-As an engineer, mechanisms should be designed where certain properties hold under all conditions. This is possible through mathematical formalization as found in the [research of Dr. Michael Zargham & the Institute for Cryptoeconomics at the Vienna University of Economics & Business](https://epub.wu.ac.at/7381/1/zargham_shorish_paruch.pdf).  Understanding the difficulty of this process, teams such as the [Commons Stack](www.commonsstack.org) are working to produce a toolkit of mechanisms & design patterns that can be customized & reused by various projects to reduce the barriers to adoption.
+As an engineer, mechanisms should be designed where certain properties hold under all conditions. This is possible through mathematical formalization as found in the [research of Dr. Michael Zargham & the Institute for Cryptoeconomics at the Vienna University of Economics & Business](https://epub.wu.ac.at/7381/1/zargham_shorish_paruch.pdf).  Understanding the difficulty of this process, teams such as the [Commons Stack](https://www.commonsstack.org) are working to produce a toolkit of mechanisms & design patterns that can be customized & reused by various projects to reduce the barriers to adoption.
 
 ### Draw system flows & state transitions into a differential specification
-Understanding the states, mechanisms and behaviours of your system and the agents interacting with it, 
+Understanding the states, mechanisms and behaviours of your system and the agents interacting with it, the next step is to map your system flows into a differential specification diagram, which will inform your cadCAD wiring in the next step of the process. The differential specification diagram takes into account system policies, agent behaviours, and exogenous processes (i.e. random external events), and the complex interaction patterns existing between them.
+
 <diff spec diagram to include>
 
 
