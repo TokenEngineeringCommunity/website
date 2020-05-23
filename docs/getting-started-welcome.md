@@ -4,11 +4,11 @@ title: Welcome to the Token Engineering community!
 sidebar_label: Welcome
 ---
 
-The Token Engineering Community is working to answer the following question: "What does it take to do "token engineering" and how we can do it together?" 
+The Token Engineering Community is here to answer the following question: "What does it take to do token engineering, and how we can do it together?" 
 
 ## So what is "token engineering?"
 
-Token engineering is a holistic engineering discipline that goes all the way from ideation to design, testing, deployment, and maintentance. It's the process of building things that work, and keep working. Just like bridges and roads need to be reliable, so do our economic systems. Our goal is to help design and create tokeneconomic systems that are robust against exploits and can empower users.
+Token engineering is a holistic engineering discipline that draws from established practices in systems, electrical, robotics & controls engineering, and more. It goes all the way from ideation to design, modeling, simulation, testing, deployment, and maintentance. It's the process of building cryptoeconomic systems that work, and keep working. Just like other public infrastructure like bridges and power grids, our future economic systems also need to be rigorously designed to be reliable. The goal of token engineering is to design and create tokeneconomic systems that are robust against exploits and cascade failure, to protect and empower users.
 
 ### Define design goals
 
