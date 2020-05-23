@@ -12,21 +12,21 @@ Token engineering is a holistic engineering discipline that draws from establish
 
 ![](img/static/Interdisciplinary_venn.jpg)
 
-### Define design goals
+### Define system goals
 
-What do you want to have happen? What does success look like for your tokeneconomic system?
+Token engineering design starts with understanding the desired goals of a given system, and then working backwards to determine the properties and mechanisms required to achieve those goals. What does success look like for your tokeneconomic system?
 
 ### Identify mechanisms
 
-You want to design mechanisms where certain properties hold under all conditions. You know you have a mechanism when it cannot be broken down further.
+As an engineer, you want to design mechanisms where certain properties hold under all conditions. You know you have a mechanism when it cannot be broken down further.
 
 ### Compose mechanisms into design patterns
 
 Design patterns are a series of actions that will produce consistent and reproducible results. Often this is state dependent.
 
-### Model your system
+### Model & simulate your system
 
-It's much easier to test and iterate in python before getting a security audit and deploying your code to production.
+It's important to model, validate, test and iterate your system with tools like [cadCAD](https://www.cadCAD.org) before deploying your code to production.
 
 ### Test IRL
 
