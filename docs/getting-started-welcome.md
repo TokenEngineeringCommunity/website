@@ -8,7 +8,7 @@ The Token Engineering Community is here to answer the following question: "What 
 
 ## So what is "token engineering?"
 
-Token engineering is a crossdisciplinary field that draws from established practices in systems, electrical, robotics & controls engineering, and more. It also draws from fields as diverse as Behavioural & Ecological Economics, Operations Research, AI & Optimization. It is a methodology that goes all the way from ideation to design, modeling, simulation, testing, deployment, and maintentance. It's the process of building cryptoeconomic systems that work, and keep working. Just like other public infrastructure like bridges and power grids, our future economic systems also need to be rigorously designed to be reliable. The goal of token engineering is to design and create tokeneconomic systems that are robust against exploits and cascade failure, to protect and empower users. 
+Token engineering is a crossdisciplinary field that draws from established practices in systems, electrical, robotics & controls engineering, and more. It also draws from fields as diverse as Behavioural & Ecological Economics, Operations Research, AI & Optimization, as explored by Shermin Voshmgir & Michael Zargham in this paper on the [Foundations of Cryptoeconomic Systems](https://epub.wu.ac.at/7309/8/Foundations%20of%20Cryptoeconomic%20Systems.pdf). It is a methodology that goes all the way from ideation to design, modeling, simulation, testing, deployment, and maintentance. It's the process of building cryptoeconomic systems that work, and keep working. Just like other public infrastructure like bridges and power grids, our future economic systems also need to be rigorously designed to be reliable under widely varying conditions. The goal of token engineering is to design and create tokeneconomic systems that are robust against exploits, unintended consequences and cascade failures, in order to protect and empower users. 
 
 ![](img/static/Interdisciplinary_venn.jpg)
 
@@ -36,6 +36,8 @@ Understanding the states, mechanisms and behaviours of your system and the agent
 ### Simulate & test your system
 
 It's important to model, validate, test and iterate your system with tools like [cadCAD](https://www.cadCAD.org) before deploying your code to production. As discussed in this article by Jeff Emmett on [open token engineering tools](https://medium.com/commonsstack/establishing-open-token-engineering-tools-standards-9584b40dfe30), this step can include A/B testing, parameter sweeps, Monte Carlo analyses and more.
+
+<simulation notebook diagram to include>
 
 ### Test IRL & iterate your model
 
