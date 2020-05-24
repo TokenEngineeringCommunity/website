@@ -15,9 +15,9 @@ module.exports = {
       },
       links: [
         {
-          to: 'docs/library-welcome',
+          to: 'docs/getting-started-welcome',
           activeBasePath: 'docs',
-          label: '📚 Library',
+          label: '🏁 Start Here',
           position: 'left',
         },
         {
@@ -27,9 +27,10 @@ module.exports = {
           position: 'left',
         },
         {
-          to: 'blog',
-          label: '📰 Blog',
-          position: 'left'
+          to: 'docs/library-welcome',
+          activeBasePath: 'docs',
+          label: '📚 Library',
+          position: 'left',
         },
       ],
     },
