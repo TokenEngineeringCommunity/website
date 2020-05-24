@@ -3,8 +3,8 @@ module.exports = {
     'Getting Started': 
       [
         'getting-started-welcome',
-        'getting-started-faq',
         'getting-started-contributing',
+        'events-welcome',
       ],
     'Library': 
       [

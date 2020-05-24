@@ -1,7 +1,7 @@
 ---
 id: events-welcome
 title: TokenEngineering Events Calendar
-sidebar_label: Welcome
+sidebar_label: Events
 ---
 
 ## June 2020
