@@ -7,7 +7,7 @@ sidebar_label: Academy
 ## TokenEngineering Academy
 
 The TokenEngineering Academy offers lectures, workshops and seminars for everyone interested in this emerging engineering field and aiming to put it into practice.  
-Please find below our current program, including details on the course agenda, timelines, registrations and costs.
+Please find below our current program including details on the course agenda, timelines, registrations and costs.
 If you have any further questions, don't hesitate to [contact us](a.kreitenweis@conectopia.io).
 
 ## Introduction to Token Engineering
