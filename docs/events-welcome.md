@@ -5,6 +5,11 @@ sidebar_label: Events
 ---
 
 ## June 2020
+📆 Monday, June 29, 2020 - 7:00 PM CET  
+**[TokenEngineering Initiatives @Gitcoin Grants](https://www.meetup.com/Token-Engineering/events/270027567/)**  
+**Token Engineering Global**  
+Online Meetup   
+
 📆 Thursday, June 4, 2020 - 6:20 PM CET    
 **[Token Bonding Curves Demystified - Introduction to Real-World Applications](https://www.eventbrite.de/e/token-bonding-curves-demystified-introduction-to-real-world-applications-tickets-104194566754)**   
 **Token Engineering Switzerland**  
