@@ -37,7 +37,7 @@ xxx
 **Process: < Ecosystem Design** - Economic Mechanisms/Patterns - Modeling & Simulations - Implementation - Monitoring >   
 **Date:** July 23 - 26, 2020 (Thursday - Sunday, 4 days, full time)  
 **Location:** online/live  
-**Fee:** 150 EUR, scholarships available (see application form)  
+**Fee:** DAI 150.00 (EUR 140.00), scholarships available (see application form)  
 **Number of participants:** up to 15  
 **Registration:** (link)  
 
