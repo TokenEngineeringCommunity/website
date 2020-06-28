@@ -22,7 +22,7 @@ This two hours session provides an introduction to Token Engieering. It covers t
 
 **Level:** < **Beginner** / Advanced / Special Skills >  
 **Process: < Ecosystem Design - Economic Mechanisms/Patterns - Modeling & Simulations - Implementation - Monitoring >**  
-**Date:** July - further details tbd, we plan to offer this course on a monthly base  
+**Date:** July - further details tba, we'll offer this course on a monthly base  
 **Location:** online/live  
 **Fee:** free  
 **Number of participants:** up to 20  
