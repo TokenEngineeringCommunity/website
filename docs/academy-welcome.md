@@ -29,7 +29,7 @@ This two hours session provides an introduction to Token Engieering. It covers t
 **Registration:** opens in July, further details tbd  
 
 
-## Token Model Generation (Ecosystem Value Flows)
+## Ecosystem Value Flows
 
 xxx
 
@@ -39,7 +39,7 @@ xxx
 **Location:** online/live  
 **Fee:** DAI 150.00 (EUR 140.00), scholarships available (see application form)  
 **Number of participants:** up to 15  
-**Registration:** (link)  
+**Registration:** The number of participants for this course is limited. To participate, please apply UNTIL JULY 09, 2020 via this form: https://forms.gle/JYThPtAHuJdKkrtq8 
 
 
 
