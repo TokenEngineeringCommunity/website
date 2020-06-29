@@ -31,7 +31,14 @@ This two hours session provides an introduction to Token Engieering. It covers t
 
 ## Ecosystem Value Flows
 
-xxx
+This interactive online course picks up where "[Business Model Generation](https://en.wikipedia.org/wiki/Business_Model_Canvas#cite_note-Osterwalder2010-3)" ends. The first phase in Token Model Generation consists of analyzing and specifying the value network of organizations and individuals to be tokenized. We start with [canvases](https://github.com/villeeloranta/ecosystem-design-toolkit) that are familiar to business and product architects, with adaptations to help us focus on motivations in order to analyze value flows and as inputs for incentive [mechanism design](https://en.wikipedia.org/wiki/Mechanism_design). The description of the value network is then carried out in a visual language similar to [stock & flows](https://systemic2016.wordpress.com/system-dynamics-stock-and-flow-modelling/). The course has the following structure:
+
+- Day 1: Ecosystem Purpose & Members
+- Day 2: Stakeholder Stories & Motives
+- Day 3: Value Flows & Constraints
+- Day 4: Value Network Specification
+
+With this output, you will be ready for the next phases of Token Model Generation: applying existing cryptoeconomic patterns, adaptations, and new mechanisms. You or your technical counterpart can then specify the dynamic model further using [Differential Specification Syntax](https://community.cadcad.org/t/differential-specification-syntax-key/31) and simulate using [cadCAD](https://cadcad.org/). If you are not familiar with systems modeling and systems dynamics, this course is a prerequisite. 
 
 **Level:** < **Beginner** / Advanced / Special Skills >  
 **Process: < Ecosystem Design** - Economic Mechanisms/Patterns - Modeling & Simulations - Implementation - Monitoring >   
