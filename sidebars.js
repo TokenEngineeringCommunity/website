@@ -1,14 +1,15 @@
 module.exports = {
   someSidebar: {
-    'Getting Started': 
+    'Getting Started':
       [
         'getting-started-welcome',
         'getting-started-contributing',
         'events-welcome',
       ],
-    'Library': 
+    'Library':
       [
         'library-welcome',
+        'academy-welcome',
         'library-te-101',
         'library-te-book',
       ],
