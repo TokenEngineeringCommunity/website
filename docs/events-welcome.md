@@ -4,6 +4,19 @@ title: TokenEngineering Events Calendar
 sidebar_label: Events
 ---
 
+
+## July 2020
+📆 Thursday-Sunday, July 23-26, 2020 [tba]  
+**[Ecosystem Value Flows](https://tokenengineeringcommunity.github.io/website/docs/academy-welcome/#ecosystem-value-flows)**  
+**TE Academy**  
+Online interactive course, participation limited, applications until July 9 via this form: https://forms.gle/JYThPtAHuJdKkrtq8   
+
+📆 Thursday, July 20, 2020 [tba]    
+**[Introduction to Token Engineering](https://tokenengineeringcommunity.github.io/website/docs/academy-welcome/#introduction-to-token-engineering)**   
+**TE Academy**  
+Online/live   
+
+
 ## June 2020
 📆 Monday, June 29, 2020 - 7:00 PM CET  
 **[TokenEngineering Initiatives @Gitcoin Grants](https://www.meetup.com/Token-Engineering/events/270027567/)**  
