@@ -21,6 +21,12 @@ module.exports = {
           position: 'left',
         },
         {
+          to: 'docs/academy-welcome',
+          activeBasePath: 'docs',
+          label: '🏛️ TE Academy',
+          position: 'left',
+        },
+        {
           to: 'docs/events-welcome',
           activeBasePath: 'docs',
           label: '🌎 Events',
