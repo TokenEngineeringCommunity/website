@@ -5,8 +5,12 @@ module.exports = {
         'getting-started-welcome',
         'getting-started-contributing',
         'events-welcome',
-        'academy-welcome',
       ],
+    'Academy':
+      [
+        'academy-welcome’,
+        'academy-tmg1-ecosystem',
+      ],    
     'Library':
       [
         'library-welcome',
