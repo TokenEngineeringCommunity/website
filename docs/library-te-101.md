@@ -30,6 +30,7 @@ sidebar_label: TE-101
 
 ### Long Form Content
 - [Engineering for a safer world](http://sunnyday.mit.edu/safer-world.pdf) - 📕 Probably the best starting point for anyone entering token engineering to think about governance and automation in the same stream.
+- [Token Ecosystem Creation](https://outlierventures.io/wp-content/uploads/2019/05/Token-Ecosystem-Creation-Outlier-Ventures-PDF.pdf) - 📕 A strategic process to architect and engineer viable token economies
 
 ### Other Things
 - [Token Engineering wiki](http://tokenengineering.wikidot.com/) - Will soon be updated and moved somewhere more accessible.
