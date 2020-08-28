@@ -10,7 +10,7 @@ module.exports = {
       [
         'academy-welcome',
         'academy-tmg1-ecosystem',
-      ],    
+      ],
     'Library':
       [
         'library-welcome',
