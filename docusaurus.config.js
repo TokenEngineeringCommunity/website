@@ -13,7 +13,7 @@ module.exports = {
         alt: 'Token Engineering Logo',
         src: 'img/te-logo.png',
       },
-      links: [
+      items: [
         {
           to: 'docs/getting-started-welcome',
           activeBasePath: 'docs',
