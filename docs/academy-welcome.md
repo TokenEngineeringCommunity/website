@@ -18,17 +18,14 @@ Part 1: Ecosystem Purpose & Members
 Part 2: Stakeholder Interactions & Motives  
 Part 3: Games & Governance  
 Part 4: Value Network Specification (adapted Stock & Flow)  
-With this output, you will be ready for the next phases of the Token Model Generation: applying existing cryptoeconomic patterns, adaptations, and new mechanisms. You or your technical counterpart can then specify the dynamic model further using [Differential Specification Syntax](https://community.cadcad.org/t/differential-specification-syntax-key/31) and simulate using [cadCAD](https://cadcad.org/). If you are not familiar with systems modeling and systems dynamics, this course is a prerequisite.  
- 
-**Level: Beginner** / Advanced / Special Skills  
-**TE Process Steps covered: Ecosystem Design** - Dynamic/Economic Model - Digital Twin - Simulation & Verification - Implementation - Operation   
+With this output, you will be ready for the next phases of the Token Model Generation: applying existing cryptoeconomic patterns, adaptations, and new mechanisms. You or your technical counterpart can then specify the dynamic model further using [Differential Specification Syntax](https://community.cadcad.org/t/differential-specification-syntax-key/31) and simulate using [cadCAD](https://cadcad.org/). If you are not familiar with systems modeling and systems dynamics, this course is a prerequisite.     
 
 **Start date:** Monday, Oct 12, 2020  
 **End date:** Friday, Oct 30, 2020  
 **Schedule:**  
-a) part-time, time invest on average 2 hours per day to work on your case  
-b) 2 weeks in total to work on a token economy case (work in teams, bring your own case or work on a 3rd party case, see "Fees"), plus office hours for Q&A and feedback 
-c) lectures on Fridays and Saturdays (4 hours each)  
++ part-time, time invest on average 2 hours per day to work on your case  
++ 2 weeks in total to work on a token economy case (work in teams, bring your own case or work on a 3rd party case, see "Fees"), plus office hours for Q&A and feedback 
++ lectures on Fridays and Saturdays (4 hours each)  
 
 **Location:** online course, live sessions  
 **Number of participants:** up to 20  
@@ -51,9 +48,7 @@ This 90 minutes session provides an introduction to Token Engineering. It covers
 - Practical application
 - Becoming a token engineer
 - Token Engineering community overview
-
-**Level:**  
-**Beginner** / Advanced / Special Skills  
+  
 **Dates:**  
 a) Monday, September 14, 2020, 7:00 PM CEST or  
 b) Monday, October 12, 2020, 7:00 PM CEST  
