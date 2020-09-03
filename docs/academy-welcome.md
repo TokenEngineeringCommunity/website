@@ -26,15 +26,16 @@ With this output, you will be ready for the next phases of the Token Model Gener
 **Start date:** Monday, Oct 12, 2020  
 **End date:** Friday, Oct 30, 2020  
 **Schedule:**  
-- part-time, time invest on average 2 hours per day to work on your case  
-- lectures on Fridays and Saturdays (4 hours each)  
-- 2 weeks in total to work on a token economy case (work in teams, bring your own case or work on a 3rd party case, see "Fees"), plus office hours for Q&A and feedback  
+> part-time, time invest on average 2 hours per day to work on your case  
+> lectures on Fridays and Saturdays (4 hours each)  
+> 2 weeks in total to work on a token economy case (work in teams, bring your own case or work on a 3rd party case, see "Fees"), plus office hours for Q&A and feedback  
+
 **Location:** online course, live sessions  
 **Number of participants:** up to 20  
 
 **Fees:**  
-- Ticket A: DAI 375.00 (EUR 320.00) + VAT, for students who apply with their own project  
-- Ticket B: DAI 200.00 (EUR 175.00) + VAT, for students without an own project, willing to work on a 3rd party case, scholarships available  
+> Ticket A: DAI 375.00 (EUR 320.00) + VAT, for students who apply with their own project  
+> Ticket B: DAI 200.00 (EUR 175.00) + VAT, for students without an own project, willing to work on a 3rd party case, scholarships available  
 
 **Registration:** The number of participants for this course is limited, participants need to apply, please fill the following form https://forms.gle/Z3GvKpNq1ZReP5yK8  
 **Application deadline: Thursday, Sept 17, 2020, 6:00 PM CEST**  
@@ -51,10 +52,11 @@ This 90 minutes session provides an introduction to Token Engineering. It covers
 - Becoming a token engineer
 - Token Engineering community overview
 
-**Level:Beginner**  / Advanced / Special Skills  
-**Dates:**   
-- Monday, September 14, 2020, 7:00 PM CEST or  
-- Monday, October 12, 2020, 7:00 PM CEST  
+**Level:**  
+**Beginner** / Advanced / Special Skills  
+**Dates:**  
+> Monday, September 14, 2020, 7:00 PM CEST or  
+> Monday, October 12, 2020, 7:00 PM CEST  
 **Location:** online course, live  
 **Registration:** https://www.eventbrite.de/e/te-academy-introduction-to-token-engineering-tickets-119400846145  
 **Fee:** free  
