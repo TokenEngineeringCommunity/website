@@ -28,7 +28,7 @@ With this output, you will be ready for the next phases of the Token Model Gener
 + time invest on average 2 hours per day to work on your case (bring your own case or work on a 3rd party case, see "Fees")
 + lectures on Fridays and Saturdays (4 hours each), plus office hours for feedback and support 
 
-**Location:** online course, live
+**Location:** online course, live  
 **Number of participants:** up to 20  
 
 **Fees:**  
