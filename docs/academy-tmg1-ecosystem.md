@@ -12,7 +12,7 @@ This course is for individuals or project teams who are
 + in the process of further developing a viable tokenized economy, e.g., based on an initial white paper  
 + looking for tools and a structured process to collaboratively iterate on the system design e.g., with developers, advisors, and the community  
 
-For all details on the schedule, fees, and application process, please check the [course details](https://tokenengineeringcommunity.github.io/website/docs/academy-welcome/), and don't forget to **apply by Thursday, Sept 17, 2020, 6:00 PM CEST.**
+For all details on the schedule, fees, and application process, please check the [course details](https://tokenengineeringcommunity.github.io/website/docs/academy-welcome/), and don't forget to **apply by Thursday, Sept 17, 2020, 6:00 PM CEST via this form: https://forms.gle/Z3GvKpNq1ZReP5yK8**
 
 The first phase of Ecosystem Value Flow design consists of analyzing and specifying the value network of organizations and individuals. We start with canvases that are familiar to business and platform architects. For the purpose of token engineering design, we adapted these frameworks to help us focus on value flows and motivations as inputs for incentive mechanism design. We'll train to consciously take the macro and micro perspective, and will apply various methods for value flow visualization and specification. Finally, the value network description will be carried out in [Stocks & Flows](https://systemic2016.wordpress.com/system-dynamics-stock-and-flow-modelling/) diagrams.
 
