@@ -22,12 +22,13 @@ With this output, you will be ready for the next phases of the Token Model Gener
 
 **Start date:** Monday, Oct 12, 2020  
 **End date:** Friday, Oct 30, 2020  
-**Schedule:**  
-+ part-time, time invest on average 2 hours per day to work on your case  
-+ 2 weeks in total to work on a token economy case (work in teams, bring your own case or work on a 3rd party case, see "Fees"), plus office hours for Q&A and feedback 
-+ lectures on Fridays and Saturdays (4 hours each)  
 
-**Location:** online course, live sessions  
+**Schedule:**  
++ part-time, 3 weeks in total  
++ time invest on average 2 hours per day to work on your case (bring your own case or work on a 3rd party case, see "Fees")
++ lectures on Fridays and Saturdays (4 hours each), plus office hours for feedback and support 
+
+**Location:** online course, live
 **Number of participants:** up to 20  
 
 **Fees:**  
