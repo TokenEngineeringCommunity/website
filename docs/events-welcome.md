@@ -3,7 +3,32 @@ id: events-welcome
 title: TokenEngineering Events Calendar
 sidebar_label: Events
 ---
+## Weekly TokenEngineering Calls  
+We host weekly working group calls that are open to anyone interested.  
+Feel free to just drop by!  
+https://calendar.google.com/calendar/embed?src=5mkep1ad1j860k6g7i7fr8plq0%40group.calendar.google.com&ctz=Europe%2FBerlin
 
+## October 2020  
+📆 Monday, October 12-30, 2020  
+**[Ecosystem Value Flows](https://tokenengineeringcommunity.github.io/website/docs/academy-welcome)**  
+**TE Academy**  
+3 weeks part-time education program, participation limited, applications until Sept 17 via this form: https://forms.gle/Z3GvKpNq1ZReP5yK8   
+
+📆 Monday, October 12, 2020 - 7:00 PM CEST  
+**[Introduction to Token Engineering](https://www.eventbrite.de/e/te-academy-introduction-to-token-engineering-tickets-119400846145)**  
+**TE Academy**  
+Online/live  
+
+## September 2020
+📆 Wed, September 30, 2020 - 6:00 PM CEST   
+**[Stable Coins Demystified: The Why, How, and Where](https://www.eventbrite.de/e/stable-coins-demystified-the-why-how-and-where-tickets-112754975166)**   
+**Token Engineering Switzerland**  
+Online Meetup 
+
+📆 Monday, September 14, 2020 - 7:00 PM CEST  
+**[Introduction to Token Engineering](https://www.eventbrite.de/e/te-academy-introduction-to-token-engineering-tickets-119400846145)**  
+**TE Academy**  
+Online/live  
 
 ## July 2020
 📆 Thursday-Sunday, July 23-26, 2020 [tba]  
