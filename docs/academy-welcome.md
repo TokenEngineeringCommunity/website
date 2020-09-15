@@ -7,7 +7,10 @@ sidebar_label: Academy
 ## TokenEngineering Academy
 
 The TokenEngineering Academy offers lectures, workshops, and seminars for everyone interested in this emerging field and putting it into practice.
-We welcome crypto teams who aim to establish a proper token engineering practice. Please get in touch if you'd like to bring your team to TE Academy or collaborate with our students: <angela@tokenengineering.net>.
+We welcome crypto teams who aim to establish a proper token engineering practice. Please get in touch if you'd like to bring your team to TE Academy or collaborate with our students: <angela@tokenengineering.net>.  
+
+🤖🧠📺👀
+**Looking for more courses, such as system simulations, or on cryptoeconomic patterns? Contribute to our [Gitcoin Grant](https://gitcoin.co/grants/517/tokenengineering-community) and co-fund our education program!**
 
 
 ## Ecosystem Value Flows
