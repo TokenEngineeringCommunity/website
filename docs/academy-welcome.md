@@ -39,8 +39,8 @@ a) Ticket A: DAI 375.00 (EUR 320.00) + VAT, for students who apply with their ow
 b) Ticket B: DAI 200.00 (EUR 175.00) + VAT, for students without an own project, willing to work on a 3rd party case, scholarships available  
 
 **Registration:** The number of participants for this course is limited, participants need to apply, please fill the following form https://forms.gle/Z3GvKpNq1ZReP5yK8  
-**Application deadline: Thursday, Sept 17, 2020, 6:00 PM CEST**  
-**Applications confirmed:** Sunday, Sept 20, 2020  
+**Application deadline: NEW Thursday, Sept 24, 2020, 6:00 PM CEST**  
+**Applications confirmed:** Batch1 (you applied by Sept 17) Sunday, Sept 20, 2020  / Batch2 (you applied by Sept 24) Sunday, Sept 27, 2020
 
 
 ## Introduction to Token Engineering
