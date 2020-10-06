@@ -30,7 +30,8 @@ With this output, you will be ready for the next phases of the Token Model Gener
 **Location:** online course, live  
 **Number of participants:** up to 20   
 
-**Registration: Applications for October are closed - in case you are interested to take part in the next round,  
+**Registration:  
+Applications for October are closed - in case you are interested to take part in the next round,  
 please let us know via this form: https://forms.gle/FPNkNmMAyjDzNRsa9**
 
 ## Introduction to Token Engineering
