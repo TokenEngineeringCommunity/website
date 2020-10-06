@@ -9,10 +9,6 @@ sidebar_label: Academy
 The TokenEngineering Academy offers lectures, workshops, and seminars for everyone interested in this emerging field and putting it into practice.
 We welcome crypto teams who aim to establish a proper token engineering practice. Please get in touch if you'd like to bring your team to TE Academy or collaborate with our students: <angela@tokenengineering.net>.  
 
-🤖🧠📺👀
-**Looking for more courses, such as system simulations, or on cryptoeconomic patterns? Contribute to our [Gitcoin Grant](https://gitcoin.co/grants/517/tokenengineering-community) and co-fund our education program!**
-
-
 ## Ecosystem Value Flows
 
 This course picks up where "[Business Model Generation](https://en.wikipedia.org/wiki/Business_Model_Canvas#cite_note-Osterwalder2010-3)" ends. The first phase in Token Model Generation consists of analyzing and specifying the value network of organizations and individuals to be tokenized. We'll start with canvases familiar to business and product architects, with adaptations to help us focus on value flows and motivations as inputs for incentive [mechanism design](https://en.wikipedia.org/wiki/Mechanism_design). We'll train to consciously take the macro and micro perspective, and will apply various methods for value flow visualization and specification. Finally, the value network description will be carried out in [Stocks & Flows](https://systemic2016.wordpress.com/system-dynamics-stock-and-flow-modelling/) diagrams.  
@@ -32,16 +28,10 @@ With this output, you will be ready for the next phases of the Token Model Gener
 + lectures on Fridays and Saturdays (4 hours each), plus office hours for feedback and support 
 
 **Location:** online course, live  
-**Number of participants:** up to 20  
+**Number of participants:** up to 20   
 
-**Fees:**  
-a) Ticket A: DAI 375.00 (EUR 320.00) + VAT, for students who apply with their own project  
-b) Ticket B: DAI 200.00 (EUR 175.00) + VAT, for students without an own project, willing to work on a 3rd party case, scholarships available  
-
-**Registration:** The number of participants for this course is limited, participants need to apply, please fill the following form https://forms.gle/Z3GvKpNq1ZReP5yK8  
-**Application deadline: NEW Thursday, Sept 24, 2020, 6:00 PM CEST**  
-**Applications confirmed:** Batch1 (you applied by Sept 17) Sunday, Sept 20, 2020  / Batch2 (you applied by Sept 24) Sunday, Sept 27, 2020
-
+**Registration: Applications for October are closed - in case you are interested to take part in the next round,  
+please let us know via this form: https://forms.gle/FPNkNmMAyjDzNRsa9**
 
 ## Introduction to Token Engineering
 
