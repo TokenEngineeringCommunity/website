@@ -32,7 +32,7 @@ like Trent McConaghy, Ocean Protocol Founder
 Kick-off: November 18, 2020  
 Duration: 3 weeks  
 **Location:** online  
-**Registration:** form  
+**Registration:** https://forms.gle/MCFTR5aWxika2Bke7  
 **Fee:** free  
 **Number of participants:** up to 12  
 
