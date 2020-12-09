@@ -35,13 +35,24 @@ const features = [
     ),
   },
   {
-    title: <>CadCAD</>,
+    title: <>cadCAD</>,
     url: 'https://cadcad.org/',
     imageUrl: 'img/cadcad-logo.png',
     shortDescription: 'Complex systems modeling toolkit',
     description: (
       <>
         An open-source Python package that assists in the processes of designing, testing and validating complex systems through simulation.
+      </>
+    ),
+  },
+  {
+    title: <>cadCAD Edu</>,
+    url: 'https://cadcad.education/',
+    imageUrl: 'img/cadcadedu-logo.png',
+    shortDescription: 'cadCAD education course and materials',
+    description: (
+      <>
+        Our mission is to grow the adoption of cadCAD as the leading open-source Web 3 modeling tool by creating beginner friendly online courses.
       </>
     ),
   },
