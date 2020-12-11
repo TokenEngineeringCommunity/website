@@ -55,10 +55,10 @@ This 90 minutes session provides an introduction to Token Engineering. It covers
 - TokenEngineering Community overview
   
 **Dates:**  
-a) Wednesday, November 18, 2020, 12:00 PM CET  
-b) Tuesday, December 08, 2020, 09:00 AM CET  
+a) Friday, January 08, 2021, 06:00 PM CET  
+b) Wednesday, February 10, 2021, 09:00 AM CET  
 **Location:** online course, live  
-**Registration:** https://www.eventbrite.de/e/te-academy-introduction-to-token-engineering-tickets-127437899187  
+**Registration:** https://www.eventbrite.de/e/te-academy-introduction-to-token-engineering-tickets-132541187259  
 **Fee:** free  
 **Number of participants:** up to 20  
 
