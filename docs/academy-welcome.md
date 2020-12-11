@@ -6,35 +6,42 @@ sidebar_label: Academy
 
 ## TokenEngineering Academy
 
-The TokenEngineering Academy offers lectures, workshops, and seminars for everyone interested in this emerging field and putting it into practice.
-We welcome crypto teams who aim to establish a proper token engineering practice. Please get in touch if you'd like to bring your team to TE Academy or collaborate with our students: <angela@tokenengineering.net>.  
+The TokenEngineering Academy offers lectures, workshops, and seminars for everyone interested in this emerging field.
+We welcome crypto teams who aim to establish a proper token engineering practice. Please get in touch if you'd like to bring your team to TE Academy or collaborate with our students: <contact@tokenengineering.net>.  
 
-## Token System Deep Dive: Ocean Protocol
+## Hacking cadCAD Models
 
-[Ocean Protocol V3](https://blog.oceanprotocol.com/ocean-v3-is-now-live-b47c0e73f52a) is life and we’ll take the opportunity to explore the Ocean token system in a dedicated study group.
+cadCAD is an open-source Python package for designing, testing, and validating cryptoeconomic systems. With a growing number of open-source models available, it provides a comprehensive toolset for Token Engineering.
+Computational models enable crypto projects to analyse particular scenarios, detect weaknesses, and stress-test a system design through simulations.
 
-We’ll analyse the various parts of the token system:
-- Ecosystem value flows and sustainability loops
-- Ocean data marketplace and data tokens
-- Balancer data pool staking mechnisms
-- Ocean’s token design and verification approach
+**We’d like to inspire you to become computational explorers!**  
+This course will train you to work with models.
+You will learn how easy it is to experiment and modify cadCAD models, understand the rationale of a model design, develop alternatives – and how this fits into the Token Engineering iterative process.
 
-We'll discuss 
+**The schedule (tentative):**  
+**Introduction**  
+Introduction to Model Recycling: An ode towards the Computational Explorer.  
+**Part I:**  
+Why build simple models from scratch if we can complexify existing ones? A showcase of what we have right now.  
+Complexifying the Prey and Predator Model.  
+**Part II:**  
+Complicating existing models through stochastic processes  
+Introducing Human Error on the Uniswap model.  
+**Part III:**  
+Building an Internet of Models through IoT and web scraping  
+Making a social oracle with the Conviction Voting model  
+**Part IV:**  
+Plugging model parametrizations with Machine Learning  
+Predicting atmosphere dynamics with cadCAD  
+**Presentations:**  
+Final project presentations  
 
-- benefits and risks of the token mechanisms chosen
-- alternative application cases 
-- new research questions
+**Location:** online course, live  
+**Number of participants:** up to 30  
 
-We’ll work together over approximately 3 weeks, and will have online sessions with amazing guests
-like Trent McConaghy, Ocean Protocol Founder
+This course is going to take place in Feb/March 2021. In case you are interested in taking part, please register here, and we’ll inform you once the course is live: https://forms.gle/jK8AxoqqDkcGQdB59  
+ 
 
-**Dates:**  
-Kick-off: November 18, 2020  
-Duration: 3 weeks  
-**Location:** online  
-**Registration:** https://forms.gle/MCFTR5aWxika2Bke7  
-**Fee:** free  
-**Number of participants:** up to 12  
 
 ## Introduction to Token Engineering
 
@@ -65,21 +72,15 @@ Part 3: Games & Governance
 Part 4: Value Network Specification (adapted Stock & Flow)  
 With this output, you will be ready for the next phases of the Token Model Generation: applying existing cryptoeconomic patterns, adaptations, and new mechanisms. You or your technical counterpart can then specify the dynamic model further using [Differential Specification Syntax](https://community.cadcad.org/t/differential-specification-syntax-key/31) and simulate using [cadCAD](https://cadcad.org/). If you are not familiar with systems modeling and systems dynamics, this course is a prerequisite.     
 
-**Start date:** Monday, Oct 12, 2020  
-**End date:** Friday, Oct 30, 2020  
+**Start date/End date:**  
+To be announced  
 
-**Schedule:**  
-+ part-time, 3 weeks in total  
-+ time invest on average 2 hours per day to work on your case (bring your own case or work on a 3rd party case, see "Fees")  
-+ lectures on Fridays and Saturdays (4 hours each), plus office hours for feedback and support   
+**Registration:  
+The next cohort of Ecosystem Value Flows will start in Feb/March 2021. We'll open applications around 4 weeks beforehand. 
+If you are interested in taking part, please register here: https://forms.gle/FPNkNmMAyjDzNRsa9**
 
 **Location:** online course, live  
 **Number of participants:** up to 20   
-
-**Registration:  
-Applications for October are closed - in case you are interested to take part in the next round,  
-please let us know via this form: https://forms.gle/FPNkNmMAyjDzNRsa9**
-
 
 
 
