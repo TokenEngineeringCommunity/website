@@ -49,10 +49,10 @@ const features = [
     title: <>cadCAD Edu</>,
     url: 'https://cadcad.education/',
     imageUrl: 'img/cadcadedu-logo.png',
-    shortDescription: 'cadCAD education course and materials',
+    shortDescription: 'cadCAD Online Education',
     description: (
       <>
-        Our mission is to grow the adoption of cadCAD as the leading open-source Web 3 modeling tool by creating beginner friendly online courses.
+        Our mission is to grow the adoption of cadCAD as the leading open-source Web 3 modeling tool by creating beginner-friendly online courses.
       </>
     ),
   },
