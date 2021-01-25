@@ -5,9 +5,9 @@ sidebar_label: Our Community
 ---
 
 ## Meet the Token Engineering Community
-Our Discord channel is the place to be: meet community members, follow the current discussions, and stay-up-to-date.  
+Our Discord channel is the place to be: Meet community members, follow the current discussions, and stay up to date.
 Join our Discord here: https://discord.gg/mFcqFwGhpy  
-We host weekly calls that are open to everyone, just check out our [community calendar](https://calendar.google.com/calendar/embed?src=5mkep1ad1j860k6g7i7fr8plq0%40group.calendar.google.com&ctz=Europe%2FBerlin). Feel free to drop-by and say hello! 
+We host weekly calls that are open to everyone. Just check out our [community calendar](https://calendar.google.com/calendar/embed?src=5mkep1ad1j860k6g7i7fr8plq0%40group.calendar.google.com&ctz=Europe%2FBerlin), and feel free to drop by and say hello!
 
 ## Our community channels:
 * [Token Engineering Discord](https://discord.gg/mFcqFwGhpy) - 💬 Discord server with numerous channels for various topics related to token engineering.
