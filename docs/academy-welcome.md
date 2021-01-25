@@ -3,10 +3,48 @@ id: academy-welcome
 title: TokenEngineering Academy
 sidebar_label: Academy
 ---
-
 ## TokenEngineering Academy
 
 The TokenEngineering Academy (TE Academy) offers lectures, workshops, and seminars for anyone interested in this new, emerging field. We invite individuals and teams to learn, collaborate, and put token engineering into practice. Please get in touch if you'd like to bring your team to TE Academy: <contact@tokenengineering.net>.  
+
+
+## Research Group: Computer-Aided Governance of Gitcoin Grants
+
+*A collaboration of Gitcoin, BlockScience and TE Academy*
+
+Measuring peoples' aggregated preferences to steer [public goods funding](https://vitalik.ca/general/2019/12/07/quadratic.html) is a challenge that can't be solved by traditional voting systems or markets.  
+Quadratic Voting combines signals of individual preference *and* influence for an aggregated voting result - and thus is much better suited to make public decisions.
+No wonder it captured the hearts of the web3 space after being re-introduced by the [Radical xChange movement](https://www.radicalxchange.org/).
+
+[Gitcoin Grants](https://gitcoin.co/grants/) builds on the same principle by leveraging a powerful algorithmic policy called [Quadratic Funding](https://wtfisqf.com/?grant=&grant=&grant=&grant=&match=1000) (QF) to allocate sponsor funds via matching community donations to grants submitted through the Gitcoin Grants program. 
+
+While QF is very powerful, it is sensitive to [Sybil Attacks](https://en.wikipedia.org/wiki/Quadratic_voting#Sybil_Attacks) and collusion strategies. Furthermore, like many social systems, it has been observed to exhibit the [Matthew Effect](https://en.wikipedia.org/wiki/Matthew_effect), a runaway effect of 'the rich get richer', which needs careful consideration in sustainable systems design.
+
+This is why Gitcoin and [BlockScience](https://block.science/), a leading engineering, R&D, and analytics firm specializing in complex systems, started a collaboration to [investigate the design of data-driven policy tools](https://medium.com/block-science/towards-computer-aided-governance-of-gitcoin-grants-730de7bcdbef) that can better sense and respond to [sensitivities](https://medium.com/block-science/colluding-communities-or-new-markets-f64194a1b754) of Quadratic Funding.
+
+**In this research group, you'll**
+* gain a deep understanding of QF and Gitcoin Grants
+* define and work on your own research goal
+* analyze QF user behavior and social dynamics based on real user data
+* attend academics and hacking sessions with BlockScience and Gitcoin
+* get feedback and input from key researchers in the field
+
+We are looking for participants from a wide range of backgrounds: economics, sociology, math, physics, statistics, and computer science.
+For more information, please check out our [FAQs](). 
+If you are keen to contribute to the progress of Quadratic Funding, don't miss this chance and apply now!  
+
+**Start:** February 10, 2021  
+**End:** April 2, 2021  
+**Duration:** 7.5 weeks  
+**Time Investment:** ~10 hours per week (for lectures, workshops, and self-contained research)  
+
+**Required skills:** Python, [cadCAD](https://cadcad.org/), Math, and Statistics (advanced undergraduate level)  
+
+**Location:** online course, live  
+**Registration:** applications will open on January 28th  
+**Application deadline:** Friday, February 5, 2021  
+**Fee:** free - stake on participation  
+**Number of participants:**  max. 12 / min. 8  
 
 ## Hacking cadCAD Models
 
