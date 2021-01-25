@@ -5,8 +5,32 @@ sidebar_label: Events
 ---
 ## Weekly TokenEngineering Calls  
 We host weekly working group calls that are open to anyone interested.  
-Feel free to just drop by!  
-https://calendar.google.com/calendar/embed?src=5mkep1ad1j860k6g7i7fr8plq0%40group.calendar.google.com&ctz=Europe%2FBerlin
+Feel free to drop by!  
+https://calendar.google.com/calendar/embed?src=5mkep1ad1j860k6g7i7fr8plq0%40group.calendar.google.com&ctz=Europe%2FBerlin  
+
+## February 2021 
+📆 Wednesday, Feb 10, 2021 - 9:00 AM CET
+**[Introduction to Token Engineering](https://www.eventbrite.de/e/te-academy-introduction-to-token-engineering-tickets-132541187259)**  
+**TE Academy**  
+Online/live 
+
+## January 2021 
+📆 Friday, Jan 8, 2021 - 6:00 PM CET
+**[Introduction to Token Engineering](https://www.eventbrite.de/e/te-academy-introduction-to-token-engineering-tickets-132541187259)**  
+**TE Academy**  
+Online/live  
+
+## December 2020  
+📆 Tuesday, Dec 08, 2020 - 09:00 AM CET
+**[Introduction to Token Engineering](https://www.eventbrite.de/e/te-academy-introduction-to-token-engineering-tickets-127437899187)**  
+**TE Academy**  
+Online/live  
+
+## November 2020  
+📆 Wednesday, Nov 18, 2020 - 12:00 noon CEST 
+**[Introduction to Token Engineering](https://www.eventbrite.de/e/te-academy-introduction-to-token-engineering-tickets-127437899187)**  
+**TE Academy**  
+Online/live  
 
 ## October 2020  
 📆 Monday, October 12-30, 2020  
