@@ -6,8 +6,7 @@ sidebar_label: Academy
 
 ## TokenEngineering Academy
 
-The TokenEngineering Academy offers lectures, workshops, and seminars for everyone interested in this emerging field.
-We welcome crypto teams who aim to establish a proper token engineering practice. Please get in touch if you'd like to bring your team to TE Academy or collaborate with our students: <contact@tokenengineering.net>.  
+The TokenEngineering Academy (TE Academy) offers lectures, workshops, and seminars for anyone interested in this new, emerging field. We invite individuals and teams to learn, collaborate, and put token engineering into practice. Please get in touch if you'd like to bring your team to TE Academy: <contact@tokenengineering.net>.  
 
 ## Hacking cadCAD Models
 
