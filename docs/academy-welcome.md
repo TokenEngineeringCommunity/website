@@ -10,7 +10,7 @@ The TokenEngineering Academy (TE Academy) offers lectures, workshops, and semina
 
 ## Research Group: Computer-Aided Governance of Gitcoin Grants
 
-*A collaboration of Gitcoin, BlockScience and TE Academy*
+*A collaboration of [Gitcoin](https://gitcoin.co/), [BlockScience](https://block.science/), [TE Commons](https://tecommons.org/) and TE Academy*  
 
 Measuring peoples' aggregated preferences to steer [public goods funding](https://vitalik.ca/general/2019/12/07/quadratic.html) is a challenge that can't be solved by traditional voting systems or markets.  
 Quadratic Voting combines signals of individual preference *and* influence for an aggregated voting result - and thus is much better suited to make public decisions.
@@ -30,7 +30,7 @@ This is why Gitcoin and [BlockScience](https://block.science/), a leading engine
 * get feedback and input from key researchers in the field
 
 We are looking for participants from a wide range of backgrounds: economics, sociology, math, physics, statistics, and computer science.
-For more information, please check out our [FAQs](). 
+For more information, please check out our [FAQs]().  
 If you are keen to contribute to the progress of Quadratic Funding, don't miss this chance and apply now!  
 
 **Start:** February 10, 2021  
