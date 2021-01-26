@@ -20,12 +20,13 @@ No wonder it captured the hearts of the web3 space after being re-introduced by 
 
 While QF is very powerful, it is sensitive to [Sybil Attacks](https://en.wikipedia.org/wiki/Quadratic_voting#Sybil_Attacks) and collusion strategies. Furthermore, like many social systems, it has been observed to exhibit the [Matthew Effect](https://en.wikipedia.org/wiki/Matthew_effect), a runaway effect of 'the rich get richer', which needs careful consideration in sustainable systems design.
 
-This is why Gitcoin and [BlockScience](https://block.science/), a leading engineering, R&D, and analytics firm specializing in complex systems, started a collaboration to [investigate the design of data-driven policy tools](https://medium.com/block-science/towards-computer-aided-governance-of-gitcoin-grants-730de7bcdbef) that can better sense and respond to [sensitivities](https://medium.com/block-science/colluding-communities-or-new-markets-f64194a1b754) of Quadratic Funding.
+This is why Gitcoin and [BlockScience](https://block.science/), a leading engineering, R&D, and analytics firm specializing in complex systems, started a collaboration. The goal is to [investigate the design of data-driven policy tools](https://medium.com/block-science/towards-computer-aided-governance-of-gitcoin-grants-730de7bcdbef) that can better respond to [QF sensitivities](https://medium.com/block-science/colluding-communities-or-new-markets-f64194a1b754).  
+Moreover, the project aims to analyze emergent social dynamics and network formation to develop new algorithmic governance designs to secure the Gitcoin Grants ecosystem's healthiness.
 
 **In this research group, you'll**
 * gain a deep understanding of QF and Gitcoin Grants
 * define and work on your own research goal
-* analyze QF user behavior and social dynamics based on real user data
+* analyze user behavior and social dynamics based on real user data
 * attend academics and hacking sessions with BlockScience and Gitcoin
 * get feedback and input from key researchers in the field
 
