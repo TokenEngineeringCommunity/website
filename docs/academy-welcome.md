@@ -3,12 +3,55 @@ id: academy-welcome
 title: TokenEngineering Academy
 sidebar_label: Academy
 ---
-
-## TokenEngineering Academy
+# TokenEngineering Academy
 
 The TokenEngineering Academy (TE Academy) offers lectures, workshops, and seminars for anyone interested in this new, emerging field. We invite individuals and teams to learn, collaborate, and put token engineering into practice. Please get in touch if you'd like to bring your team to TE Academy: <contact@tokenengineering.net>.  
 
-## Hacking cadCAD Models
+
+# Research Group: Computer-Aided Governance of Gitcoin Grants
+
+> A collaboration of  
+> **[Gitcoin](https://gitcoin.co/), [BlockScience](https://block.science/), [TE Commons](https://tecommons.org/) and TE Academy**  
+
+Measuring peoples' aggregated preferences to steer [public goods funding](https://vitalik.ca/general/2019/12/07/quadratic.html) is a challenge that can't be solved by traditional voting systems or markets.  
+Quadratic Voting combines signals of individual preference *and* influence for an aggregated voting result - and thus is much better suited to make public decisions.
+No wonder it captured the hearts of the web3 space after being re-introduced by the [Radical xChange movement](https://www.radicalxchange.org/).
+
+[Gitcoin Grants](https://gitcoin.co/grants/) builds on the same principle by leveraging a powerful algorithmic policy called [Quadratic Funding](https://wtfisqf.com/?grant=&grant=&grant=&grant=&match=1000) (QF) to allocate sponsor funds via matching community donations to grants submitted through the Gitcoin Grants program. 
+
+While QF is very powerful, it is sensitive to [Sybil Attacks](https://en.wikipedia.org/wiki/Quadratic_voting#Sybil_Attacks) and collusion strategies. Furthermore, like many social systems, it has been observed to exhibit the [Matthew Effect](https://en.wikipedia.org/wiki/Matthew_effect), a runaway effect of 'the rich get richer', which needs careful consideration in sustainable systems design.
+
+This is why Gitcoin and [BlockScience](https://block.science/), a leading engineering, R&D, and analytics firm specializing in complex systems, started a collaboration. The goal is to [investigate the design of data-driven policy tools](https://medium.com/block-science/towards-computer-aided-governance-of-gitcoin-grants-730de7bcdbef) that can better respond to [QF sensitivities](https://medium.com/block-science/colluding-communities-or-new-markets-f64194a1b754).  
+Moreover, the project aims to analyze emergent social dynamics and network formation to develop new algorithmic governance designs to secure the Gitcoin Grants ecosystem's healthiness.
+
+**In this research group, you'll**
+* start with a structured onboarding program
+* define and work on your own research question
+* analyze user behavior and social dynamics based on real user data
+* attend [Gitcoin Modelling Co-Lab](https://www.notion.so/Gitcoin-Modelling-Co-Lab-TL-DR-dba6e25863a1413a81e75f989f4a1f67) sessions with BlockScience and Gitcoin
+* get feedback and input from key researchers in the field
+
+We are looking for participants from a wide range of backgrounds: economics, sociology, math, physics, statistics, and computer science.
+If you are keen to contribute to the progress of Quadratic Funding, don't miss this chance and apply now!  
+
+**Start:** February 10, 2021  
+**End:** April 2, 2021  
+**Duration:** 8 weeks  
+**Time Investment:** ~10 hours per week (for lectures, workshops, and self-contained research)  
+
+**Required skills:** Python, [cadCAD](https://cadcad.org/), Math, and Statistics (advanced undergraduate level)  
+
+**Location:** online course, live  
+**Registration:** [Please apply via this form](https://forms.gle/6epoz6x1XfWs1wUH9)  
+**Application deadline:** Friday, February 5, 2021  
+**Fee:** free - stake on participation  
+**Number of participants:**  max. 12 / min. 8  
+
+**AMA Session:**  
+You are interested and have some questions? Don't miss the **AMA Session**  
+on Feb 4, 2021, 05:30 PM CET! [Add to your Calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=MmhvNnRmbXZqbzhlZHZzZGc5bG41MWsxNjYgNW1rZXAxYWQxajg2MGs2ZzdpN2ZyOHBscTBAZw&tmsrc=5mkep1ad1j860k6g7i7fr8plq0%40group.calendar.google.com)
+
+# Hacking cadCAD Models
 
 cadCAD is an open-source Python package for designing, testing, and validating cryptoeconomic systems. With a growing number of open-source models available, it provides a comprehensive toolset for Token Engineering.
 Computational models enable crypto projects to analyse particular scenarios, detect weaknesses, and stress-test a system design through simulations.
@@ -42,7 +85,7 @@ This course is going to take place in Feb/March 2021. In case you are interested
  
 
 
-## Introduction to Token Engineering
+# Introduction to Token Engineering
 
 This 90 minutes session provides an introduction to Token Engineering. It covers the following topics:  
 - Why Token Engineering?
@@ -61,7 +104,7 @@ b) Wednesday, February 10, 2021, 09:00 AM CET
 **Fee:** free  
 **Number of participants:** up to 20  
 
-## Ecosystem Value Flows
+# Ecosystem Value Flows
 
 This course picks up where "[Business Model Generation](https://en.wikipedia.org/wiki/Business_Model_Canvas#cite_note-Osterwalder2010-3)" ends. The first phase in Token Model Generation consists of analyzing and specifying the value network of organizations and individuals to be tokenized. We'll start with canvases familiar to business and product architects, with adaptations to help us focus on value flows and motivations as inputs for incentive [mechanism design](https://en.wikipedia.org/wiki/Mechanism_design). We'll train to consciously take the macro and micro perspective, and will apply various methods for value flow visualization and specification. Finally, the value network description will be carried out in [Stocks & Flows](https://systemic2016.wordpress.com/system-dynamics-stock-and-flow-modelling/) diagrams.  
 The course has the following structure:  
