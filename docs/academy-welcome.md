@@ -42,7 +42,7 @@ If you are keen to contribute to the progress of Quadratic Funding, don't miss t
 **Required skills:** Python, [cadCAD](https://cadcad.org/), Math, and Statistics (advanced undergraduate level)  
 
 **Location:** online course, live  
-**Registration:** applications will open on January 28th  
+**Registration:** Please apply via this [form](https://forms.gle/6epoz6x1XfWs1wUH9)  
 **Application deadline:** Friday, February 5, 2021  
 **Fee:** free - stake on participation  
 **Number of participants:**  max. 12 / min. 8  
