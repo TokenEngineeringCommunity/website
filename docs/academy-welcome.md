@@ -3,12 +3,12 @@ id: academy-welcome
 title: TokenEngineering Academy
 sidebar_label: Academy
 ---
-# TokenEngineering Academy
+## TokenEngineering Academy
 
 The TokenEngineering Academy (TE Academy) offers lectures, workshops, and seminars for anyone interested in this new, emerging field. We invite individuals and teams to learn, collaborate, and put token engineering into practice. Please get in touch if you'd like to bring your team to TE Academy: <contact@tokenengineering.net>.  
 
 
-# Research Group: Computer-Aided Governance of Gitcoin Grants
+## Research Group: Computer-Aided Governance of Gitcoin Grants
 
 > A collaboration of  
 > **[Gitcoin](https://gitcoin.co/), [BlockScience](https://block.science/), [TE Commons](https://tecommons.org/) and TE Academy**  
@@ -51,7 +51,7 @@ If you are keen to contribute to the progress of Quadratic Funding, don't miss t
 You are interested and have some questions? Don't miss the **AMA Session**  
 on Feb 4, 2021, 05:30 PM CET! [Add to your Calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=MmhvNnRmbXZqbzhlZHZzZGc5bG41MWsxNjYgNW1rZXAxYWQxajg2MGs2ZzdpN2ZyOHBscTBAZw&tmsrc=5mkep1ad1j860k6g7i7fr8plq0%40group.calendar.google.com)
 
-# Hacking cadCAD Models
+## Hacking cadCAD Models
 
 cadCAD is an open-source Python package for designing, testing, and validating cryptoeconomic systems. With a growing number of open-source models available, it provides a comprehensive toolset for Token Engineering.
 Computational models enable crypto projects to analyse particular scenarios, detect weaknesses, and stress-test a system design through simulations.
@@ -84,8 +84,7 @@ Final project presentations
 This course is going to take place in Feb/March 2021. In case you are interested in taking part, please register here, and we’ll inform you once the course is live: https://forms.gle/jK8AxoqqDkcGQdB59  
  
 
-
-# Introduction to Token Engineering
+## Introduction to Token Engineering
 
 This 90 minutes session provides an introduction to Token Engineering. It covers the following topics:  
 - Why Token Engineering?
@@ -104,7 +103,7 @@ b) Wednesday, February 10, 2021, 09:00 AM CET
 **Fee:** free  
 **Number of participants:** up to 20  
 
-# Ecosystem Value Flows
+## Ecosystem Value Flows
 
 This course picks up where "[Business Model Generation](https://en.wikipedia.org/wiki/Business_Model_Canvas#cite_note-Osterwalder2010-3)" ends. The first phase in Token Model Generation consists of analyzing and specifying the value network of organizations and individuals to be tokenized. We'll start with canvases familiar to business and product architects, with adaptations to help us focus on value flows and motivations as inputs for incentive [mechanism design](https://en.wikipedia.org/wiki/Mechanism_design). We'll train to consciously take the macro and micro perspective, and will apply various methods for value flow visualization and specification. Finally, the value network description will be carried out in [Stocks & Flows](https://systemic2016.wordpress.com/system-dynamics-stock-and-flow-modelling/) diagrams.  
 The course has the following structure:  
