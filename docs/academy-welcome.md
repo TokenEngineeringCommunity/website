@@ -3,7 +3,7 @@ id: academy-welcome
 title: TokenEngineering Academy
 sidebar_label: Academy
 ---
-## TokenEngineering Academy
+## About
 
 The TokenEngineering Academy (TE Academy) offers lectures, workshops, and seminars for anyone interested in this new, emerging field. We invite individuals and teams to learn, collaborate, and put token engineering into practice. Please get in touch if you'd like to bring your team to TE Academy: <contact@tokenengineering.net>.  
 
