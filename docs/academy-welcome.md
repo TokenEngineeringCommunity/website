@@ -31,12 +31,11 @@ Moreover, the project aims to analyze emergent social dynamics and network forma
 * get feedback and input from key researchers in the field
 
 We are looking for participants from a wide range of backgrounds: economics, sociology, math, physics, statistics, and computer science.
-For more information, please check out our [FAQs]().  
 If you are keen to contribute to the progress of Quadratic Funding, don't miss this chance and apply now!  
 
 **Start:** February 10, 2021  
 **End:** April 2, 2021  
-**Duration:** 7.5 weeks  
+**Duration:** 8 weeks  
 **Time Investment:** ~10 hours per week (for lectures, workshops, and self-contained research)  
 
 **Required skills:** Python, [cadCAD](https://cadcad.org/), Math, and Statistics (advanced undergraduate level)  
@@ -46,6 +45,10 @@ If you are keen to contribute to the progress of Quadratic Funding, don't miss t
 **Application deadline:** Friday, February 5, 2021  
 **Fee:** free - stake on participation  
 **Number of participants:**  max. 12 / min. 8  
+
+**AMA Session:**  
+You are interested and have some questions? Don't miss the **AMA Session**  
+on Feb 4, 2021, 05:30 PM CET! [Add to your Calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=MmhvNnRmbXZqbzhlZHZzZGc5bG41MWsxNjYgNW1rZXAxYWQxajg2MGs2ZzdpN2ZyOHBscTBAZw&tmsrc=5mkep1ad1j860k6g7i7fr8plq0%40group.calendar.google.com)
 
 ## Hacking cadCAD Models
 
