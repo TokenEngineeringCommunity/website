@@ -27,7 +27,7 @@ Moreover, the project aims to analyze emergent social dynamics and network forma
 * gain a deep understanding of QF and Gitcoin Grants
 * define and work on your own research goal
 * analyze user behavior and social dynamics based on real user data
-* attend academics and hacking sessions with BlockScience and Gitcoin
+* attend [Gitcoin Modelling Co-Lab](https://www.notion.so/Gitcoin-Modelling-Co-Lab-TL-DR-dba6e25863a1413a81e75f989f4a1f67) sessions with BlockScience and Gitcoin
 * get feedback and input from key researchers in the field
 
 We are looking for participants from a wide range of backgrounds: economics, sociology, math, physics, statistics, and computer science.
