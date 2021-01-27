@@ -25,8 +25,8 @@ This is why Gitcoin and [BlockScience](https://block.science/), a leading engine
 Moreover, the project aims to analyze emergent social dynamics and network formation to develop new algorithmic governance designs to secure the Gitcoin Grants ecosystem's healthiness.
 
 **In this research group, you'll**
-* gain a deep understanding of QF and Gitcoin Grants
-* define and work on your own research goal
+* start with a structured onboarding program
+* define and work on your own research question
 * analyze user behavior and social dynamics based on real user data
 * attend [Gitcoin Modelling Co-Lab](https://www.notion.so/Gitcoin-Modelling-Co-Lab-TL-DR-dba6e25863a1413a81e75f989f4a1f67) sessions with BlockScience and Gitcoin
 * get feedback and input from key researchers in the field
