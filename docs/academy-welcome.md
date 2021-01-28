@@ -8,7 +8,7 @@ sidebar_label: Academy
 The TokenEngineering Academy (TE Academy) offers lectures, workshops, and seminars for anyone interested in this new, emerging field. We invite individuals and teams to learn, collaborate, and put token engineering into practice. Please get in touch if you'd like to bring your team to TE Academy: <contact@tokenengineering.net>.  
 
 
-## Research Group: Computer-Aided Governance of Gitcoin Grants
+## Gitcoin Grants Research Group 
 
 > A collaboration of  
 > **[Gitcoin](https://gitcoin.co/), [BlockScience](https://block.science/), [TE Commons](https://tecommons.org/) and TE Academy**  
