@@ -49,7 +49,7 @@ If you are keen to contribute to the progress of Quadratic Funding, don't miss t
 
 **AMA Session:**  
 You are interested and have some questions? Don't miss the **AMA Session**  
-on Feb 4, 2021, 05:30 PM CET! [Add to your Calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=MmhvNnRmbXZqbzhlZHZzZGc5bG41MWsxNjYgNW1rZXAxYWQxajg2MGs2ZzdpN2ZyOHBscTBAZw&tmsrc=5mkep1ad1j860k6g7i7fr8plq0%40group.calendar.google.com)
+on Feb 4, 2021, 05:30 PM CET! [Add to your Calendar](https://calendar.google.com/calendar/u/0/r/eventedit/MmhvNnRmbXZqbzhlZHZzZGc5bG41MWsxNjYgNW1rZXAxYWQxajg2MGs2ZzdpN2ZyOHBscTBAZw?sf=true&pli=1)
 
 ## Hacking cadCAD Models
 
