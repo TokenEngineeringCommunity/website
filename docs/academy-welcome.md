@@ -39,9 +39,9 @@ If you are keen to contribute to the progress of Quadratic Funding, don't miss t
 **Duration:** 8 weeks  
 **Time Investment:** ~10 hours per week (for lectures, workshops, and self-contained research)  
 
-**Required skills:** Python, [cadCAD](https://cadcad.org/), Math, and Statistics (advanced undergraduate level)  
+**Required skills:** Python, Math & Statistics (advanced undergraduate level), and [cadCAD](https://cadcad.org/) - check out this [online course](https://www.cadcad.education) for beginners! 
 
-**Location:** online course, live  
+**Location:** online, live  
 **Registration:** [Please apply via this form](https://forms.gle/6epoz6x1XfWs1wUH9)  
 **Application deadline:** Friday, February 5, 2021  
 **Fee:** free - stake on participation  
