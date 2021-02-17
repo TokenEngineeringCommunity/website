@@ -42,14 +42,15 @@ If you are keen to contribute to the progress of Quadratic Funding, don't miss t
 **Required skills:** Python, Math & Statistics (advanced undergraduate level), and [cadCAD](https://cadcad.org/) - check out this [online course](https://www.cadcad.education) for beginners! 
 
 **Location:** online, live  
-**Registration:** [Please apply via this form](https://forms.gle/6epoz6x1XfWs1wUH9)  
+**Registration:** *applications are closed*    
 **Application deadline:** Friday, February 5, 2021  
 **Fee:** free - stake on participation  
 **Number of participants:**  max. 12 / min. 8  
 
-**AMA Session:**  
-You are interested and have some questions? Don't miss the **AMA Session**  
-on Feb 4, 2021, 05:00 PM CET! [Link](https://us02web.zoom.us/j/89489216873?pwd=K3QrVzBjbEd6alRyUFZqQ2Nha2pOdz09) / [Add to your Calendar](https://calendar.google.com/calendar/u/0/r/eventedit/MmhvNnRmbXZqbzhlZHZzZGc5bG41MWsxNjYgNW1rZXAxYWQxajg2MGs2ZzdpN2ZyOHBscTBAZw?sf=true&pli=1)
+**Public Research Group Sessions**  
+Public live coding and academic sessions, open to anyone interested!  
+Calendar and more information: https://www.notion.so/Gitcoin-Modelling-Co-Lab-TL-DR-Public-4e115525dbc0430289bb78d60ad79a04
+
 
 ## Hacking cadCAD Models
 
@@ -81,7 +82,7 @@ Final project presentations
 **Location:** online course, live  
 **Number of participants:** up to 30  
 
-This course is going to take place in Feb/March 2021. In case you are interested in taking part, please register here, and we’ll inform you once the course is live: https://forms.gle/jK8AxoqqDkcGQdB59  
+This course is going to take place in March/April 2021. In case you are interested in taking part, please register here, and we’ll inform you once the course is live: https://forms.gle/jK8AxoqqDkcGQdB59  
  
 
 ## Introduction to Token Engineering
@@ -96,10 +97,9 @@ This 90 minutes session provides an introduction to Token Engineering. It covers
 - TokenEngineering Community overview
   
 **Dates:**  
-a) Friday, January 08, 2021, 06:00 PM CET  
-b) Wednesday, February 10, 2021, 09:00 AM CET  
+March/April 2020 see [Event Calendar](https://tokenengineeringcommunity.github.io/website/docs/events-welcome)  
 **Location:** online course, live  
-**Registration:** https://www.eventbrite.de/e/te-academy-introduction-to-token-engineering-tickets-132541187259  
+**Registration:** https://www.eventbrite.de/e/te-academy-introduction-to-token-engineering-tickets-141944585075  
 **Fee:** free  
 **Number of participants:** up to 20  
 
@@ -117,7 +117,7 @@ With this output, you will be ready for the next phases of the Token Model Gener
 To be announced  
 
 **Registration:  
-The next cohort of Ecosystem Value Flows will start in Feb/March 2021. We'll open applications around 4 weeks beforehand. 
+The next cohort of Ecosystem Value Flows will start in April/May 2021. We'll open applications around 4 weeks beforehand.  
 If you are interested in taking part, please register here: https://forms.gle/FPNkNmMAyjDzNRsa9**
 
 **Location:** online course, live  
