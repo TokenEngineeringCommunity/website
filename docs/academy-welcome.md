@@ -21,7 +21,7 @@ No wonder it captured the hearts of the web3 space after being re-introduced by 
 
 While QF is very powerful, it is sensitive to [Sybil Attacks](https://en.wikipedia.org/wiki/Quadratic_voting#Sybil_Attacks) and collusion strategies. Furthermore, like many social systems, it has been observed to exhibit the [Matthew Effect](https://en.wikipedia.org/wiki/Matthew_effect), a runaway effect of 'the rich get richer', which needs careful consideration in sustainable systems design.
 
-This is why Gitcoin and [BlockScience](https://block.science/), a leading engineering, R&D, and analytics firm specializing in complex systems, started a collaboration. The goal is to [investigate the design of data-driven policy tools](https://medium.com/block-science/towards-computer-aided-governance-of-gitcoin-grants-730de7bcdbef) that can better respond to [QF sensitivities](https://medium.com/block-science/colluding-communities-or-new-markets-f64194a1b754).  
+This is why Gitcoin, TE Academy and [BlockScience](https://block.science/), a leading engineering, R&D, and analytics firm specializing in complex systems, started a collaboration. The goal is to [investigate the design of data-driven policy tools](https://medium.com/block-science/towards-computer-aided-governance-of-gitcoin-grants-730de7bcdbef) that can better respond to [QF sensitivities](https://medium.com/block-science/colluding-communities-or-new-markets-f64194a1b754).  
 Moreover, the project aims to analyze emergent social dynamics and network formation to develop new algorithmic governance designs to secure the Gitcoin Grants ecosystem's healthiness.
 
 **In this research group, you'll**
@@ -48,8 +48,7 @@ If you are keen to contribute to the progress of Quadratic Funding, don't miss t
 **Number of participants:**  max. 12 / min. 8  
 
 **Public Research Group Sessions**  
-Public live coding and academic sessions, open to anyone interested!  
-Calendar and more information: https://www.notion.so/Gitcoin-Modelling-Co-Lab-TL-DR-Public-4e115525dbc0430289bb78d60ad79a04
+This research group is public. We host open working group calls every Tuesday and Thursday. All materials, discussions and results are publicly available. You are welcome to join our [Discord channel](https://discord.gg/BpHaFMpmjD), just drop by and say hello!
 
 
 ## Hacking cadCAD Models
@@ -82,7 +81,7 @@ Final project presentations
 **Location:** online course, live  
 **Number of participants:** up to 30  
 
-This course is going to take place in March/April 2021. In case you are interested in taking part, please register here, and we’ll inform you once the course is live: https://forms.gle/jK8AxoqqDkcGQdB59  
+This course is going to take place in April 2021. In case you are interested in taking part, please register here, and we’ll inform you once the course is live: https://forms.gle/jK8AxoqqDkcGQdB59  
  
 
 ## Introduction to Token Engineering
