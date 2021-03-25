@@ -8,81 +8,44 @@ sidebar_label: Academy
 The TokenEngineering Academy (TE Academy) offers lectures, workshops, and seminars for anyone interested in this new, emerging field. We invite individuals and teams to learn, collaborate, and put token engineering into practice. Please get in touch if you'd like to bring your team to TE Academy: <contact@tokenengineering.net>.  
 
 
-## Gitcoin Grants Research Group 
+## Balancer Simulations Research Group
 
 > A collaboration of  
-> **[Gitcoin](https://gitcoin.co/), [BlockScience](https://block.science/), [TE Commons](https://tecommons.org/) and TE Academy**  
+> **[Balancer](https://balancer.finance/) and TE Academy**
 
-Measuring peoples' aggregated preferences to steer [public goods funding](https://vitalik.ca/general/2019/12/07/quadratic.html) is a challenge that can't be solved by traditional voting systems or markets.  
-Quadratic Voting combines signals of individual preference *and* influence for an aggregated voting result - and thus is much better suited to make public decisions.
-No wonder it captured the hearts of the web3 space after being re-introduced by the [Radical xChange movement](https://www.radicalxchange.org/).
+Since its inception in 2020, [Balancer](https://balancer.finance/) has become one of the most important building blocks in DeFi. With the launch of V2 in April 2021, Balancer keeps [pushing the boundaries](https://medium.com/balancer-protocol/balancer-v2-generalizing-amms-16343c4563ff) of programmable liquidity and customizable AMM logic. Weighted pools, stable pools, dynamically adaptive smart pools and new, resilient price oracles will enable a whole new layer of DeFi use cases.
 
-[Gitcoin Grants](https://gitcoin.co/grants/) builds on the same principle by leveraging a powerful algorithmic policy called [Quadratic Funding](https://wtfisqf.com/?grant=&grant=&grant=&grant=&match=1000) (QF) to allocate sponsor funds via matching community donations to grants submitted through the Gitcoin Grants program. 
+Balancer and TE Academy aim to establish a network of researchers to leverage the full power of Balancer Pools and AMMs in general. With this research group we contribute to open-source infrastructure and knowledge for rigorous Token Engineering in the DeFi space. We are looking for co-researchers from a wide range of backgrounds to join this group and participate in Balancer #OpenScience. 
 
-While QF is very powerful, it is sensitive to [Sybil Attacks](https://en.wikipedia.org/wiki/Quadratic_voting#Sybil_Attacks) and collusion strategies. Furthermore, like many social systems, it has been observed to exhibit the [Matthew Effect](https://en.wikipedia.org/wiki/Matthew_effect), a runaway effect of 'the rich get richer', which needs careful consideration in sustainable systems design.
+**What you can expect**
+- start with a structured onboarding to Balancer algorithms and simulations
+- choose your research question, and team up with co-researchers with complementary skills
+- get regular feedback and discuss your work with DeFi and token engineering peers
+- get access to DeFi projects and work on bounties or grants  
 
-This is why Gitcoin, TE Academy and [BlockScience](https://block.science/), a leading engineering, R&D, and analytics firm specializing in complex systems, started a collaboration. The goal is to [investigate the design of data-driven policy tools](https://medium.com/block-science/towards-computer-aided-governance-of-gitcoin-grants-730de7bcdbef) that can better respond to [QF sensitivities](https://medium.com/block-science/colluding-communities-or-new-markets-f64194a1b754).  
-Moreover, the project aims to analyze emergent social dynamics and network formation to develop new algorithmic governance designs to secure the Gitcoin Grants ecosystem's healthiness.
+**Start:** Thursday, April 29, 2021  
+**End:**  Wednesday, July 28, 2021  
+**Duration:** 12 weeks  
+**Time investment:** min. 10 hours/week  
 
-**In this research group, you'll**
-* start with a structured onboarding program
-* define and work on your own research question
-* analyze user behavior and social dynamics based on real user data
-* attend [Gitcoin Modelling Co-Lab](https://www.notion.so/Gitcoin-Modelling-Co-Lab-TL-DR-dba6e25863a1413a81e75f989f4a1f67) sessions with BlockScience and Gitcoin
-* get feedback and input from key researchers in the field
+**Skills:** Python, Math & Statistics, Balancer Pools/AMMs  
+**Background:** Ideally, you have a background in finance, economics, math, physics, machine learning or computer science. Additionally, we are open to participants from other disciplines, like social sciences. If you are keen to be part of Balancer research and development, apply!  
 
-We are looking for participants from a wide range of backgrounds: economics, sociology, math, physics, statistics, and computer science.
-If you are keen to contribute to the progress of Quadratic Funding, don't miss this chance and apply now!  
-
-**Start:** February 10, 2021  
-**End:** April 2, 2021  
-**Duration:** 8 weeks  
-**Time Investment:** ~10 hours per week (for lectures, workshops, and self-contained research)  
-
-**Required skills:** Python, Math & Statistics (advanced undergraduate level), and [cadCAD](https://cadcad.org/) - check out this [online course](https://www.cadcad.education) for beginners! 
-
-**Location:** online, live  
-**Registration:** *applications are closed*    
-**Application deadline:** Friday, February 5, 2021  
+**Location:** online/live  
+**Registration:** please apply via this [registration form](https://forms.gle/NBQLYpFL7CmbiXAE8)  
+**Application deadline: Monday, April 19, 2021 6:00 pm CEST**  
 **Fee:** free - stake on participation  
-**Number of participants:**  max. 12 / min. 8  
+**More information:**  
+We’ll host an Introduction to Balancer Simulations   
+on Monday, March 29  
+at 7pm CEST / 1pm EDT  
+Join our Discord to take part: [discord.gg/KTUPMCRZNQ](discord.gg/KTUPMCRZNQ)  
 
-**Public Research Group Sessions**  
-This research group is public. We host open working group calls every Tuesday and Thursday. All materials, discussions and results are publicly available. You are welcome to join our [Discord channel](https://discord.gg/BpHaFMpmjD), just drop by and say hello!
+**Looking for researchers to solve a challenge for your project?**  
+We invite partner projects to collaborate with researchers in the group, offer bounties, and contribute to #OpenScience in the DeFi space.
+[Let us know about your project](https://forms.gle/XU43NAJ8oza4r2yf9) and and we’ll get back to you.  
 
 
-## Hacking cadCAD Models
-
-cadCAD is an open-source Python package for designing, testing, and validating cryptoeconomic systems. With a growing number of open-source models available, it provides a comprehensive toolset for Token Engineering.
-Computational models enable crypto projects to analyse particular scenarios, detect weaknesses, and stress-test a system design through simulations.
-
-**We’d like to inspire you to become computational explorers!**  
-This course will train you to work with models.
-You will learn how easy it is to experiment and modify cadCAD models, understand the rationale of a model design, develop alternatives – and how this fits into the Token Engineering iterative process.
-
-**The schedule (tentative):**  
-**Introduction**  
-Introduction to Model Recycling: An ode towards the Computational Explorer.  
-**Part I:**  
-Why build simple models from scratch if we can complexify existing ones? A showcase of what we have right now.  
-Complexifying the Prey and Predator Model.  
-**Part II:**  
-Complicating existing models through stochastic processes  
-Introducing Human Error on the Uniswap model.  
-**Part III:**  
-Building an Internet of Models through IoT and web scraping  
-Making a social oracle with the Conviction Voting model  
-**Part IV:**  
-Plugging model parametrizations with Machine Learning  
-Predicting atmosphere dynamics with cadCAD  
-**Presentations:**  
-Final project presentations  
-
-**Location:** online course, live  
-**Number of participants:** up to 30  
-
-This course is going to take place in April 2021. In case you are interested in taking part, please register here, and we’ll inform you once the course is live: https://forms.gle/jK8AxoqqDkcGQdB59  
- 
 
 ## Introduction to Token Engineering
 
@@ -121,6 +84,51 @@ If you are interested in taking part, please register here: https://forms.gle/FP
 
 **Location:** online course, live  
 **Number of participants:** up to 20   
+
+
+## Gitcoin Grants Research Group 
+
+> A collaboration of  
+> **[Gitcoin](https://gitcoin.co/), [BlockScience](https://block.science/), [TE Commons](https://tecommons.org/) and TE Academy**  
+
+Measuring peoples' aggregated preferences to steer [public goods funding](https://vitalik.ca/general/2019/12/07/quadratic.html) is a challenge that can't be solved by traditional voting systems or markets.  
+Quadratic Voting combines signals of individual preference *and* influence for an aggregated voting result - and thus is much better suited to make public decisions.
+No wonder it captured the hearts of the web3 space after being re-introduced by the [Radical xChange movement](https://www.radicalxchange.org/).
+
+[Gitcoin Grants](https://gitcoin.co/grants/) builds on the same principle by leveraging a powerful algorithmic policy called [Quadratic Funding](https://wtfisqf.com/?grant=&grant=&grant=&grant=&match=1000) (QF) to allocate sponsor funds via matching community donations to grants submitted through the Gitcoin Grants program. 
+
+While QF is very powerful, it is sensitive to [Sybil Attacks](https://en.wikipedia.org/wiki/Quadratic_voting#Sybil_Attacks) and collusion strategies. Furthermore, like many social systems, it has been observed to exhibit the [Matthew Effect](https://en.wikipedia.org/wiki/Matthew_effect), a runaway effect of 'the rich get richer', which needs careful consideration in sustainable systems design.
+
+This is why Gitcoin, TE Academy and [BlockScience](https://block.science/), a leading engineering, R&D, and analytics firm specializing in complex systems, started a collaboration. The goal is to [investigate the design of data-driven policy tools](https://medium.com/block-science/towards-computer-aided-governance-of-gitcoin-grants-730de7bcdbef) that can better respond to [QF sensitivities](https://medium.com/block-science/colluding-communities-or-new-markets-f64194a1b754).  
+Moreover, the project aims to analyze emergent social dynamics and network formation to develop new algorithmic governance designs to secure the Gitcoin Grants ecosystem's healthiness.
+
+**In this research group, you'll**
+* start with a structured onboarding program
+* define and work on your own research question
+* analyze user behavior and social dynamics based on real user data
+* attend [Gitcoin Modelling Co-Lab](https://www.notion.so/Gitcoin-Modelling-Co-Lab-TL-DR-dba6e25863a1413a81e75f989f4a1f67) sessions with BlockScience and Gitcoin
+* get feedback and input from key researchers in the field
+
+We are looking for participants from a wide range of backgrounds: economics, sociology, math, physics, statistics, and computer science.
+If you are keen to contribute to the progress of Quadratic Funding, don't miss this chance and apply now!  
+
+**Start:** February 10, 2021  
+**End:** April 1, 2021  
+**Duration:** 8 weeks  
+**Time Investment:** ~10 hours per week (for lectures, workshops, and self-contained research)  
+
+**Required skills:** Python, Math & Statistics (advanced undergraduate level), and [cadCAD](https://cadcad.org/) - check out this [online course](https://www.cadcad.education) for beginners! 
+
+**Location:** online, live  
+**Registration:** *applications are closed*    
+**Application deadline:** Friday, February 5, 2021  
+**Fee:** free - stake on participation  
+**Number of participants:**  max. 12 / min. 8  
+
+**Public Research Group Sessions**  
+This research group is public. We host open working group calls every Tuesday and Thursday. All materials, discussions and results are publicly available. You are welcome to join our [Discord channel](https://discord.gg/BpHaFMpmjD), just drop by and say hello!
+
+ 
 
 
 
