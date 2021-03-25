@@ -39,7 +39,7 @@ Balancer and TE Academy aim to establish a network of researchers to leverage th
 We’ll host an Introduction to Balancer Simulations   
 on Monday, March 29  
 at 7pm CEST / 1pm EDT  
-Join our Discord to take part: [discord.gg/KTUPMCRZNQ](discord.gg/KTUPMCRZNQ)  
+Join our Discord to take part: [discord.gg/KTUPMCRZNQ](https://discord.gg/KTUPMCRZNQ)  
 
 **Looking for researchers to solve a challenge for your project?**  
 We invite partner projects to collaborate with researchers in the group, offer bounties, and contribute to #OpenScience in the DeFi space.
