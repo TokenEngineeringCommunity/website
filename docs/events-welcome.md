@@ -4,17 +4,22 @@ title: TokenEngineering Events Calendar
 sidebar_label: Events
 ---
 ## Weekly TokenEngineering Calls & Public Sessions
-In addition to the events listed below, we host working group calls and research sessions that are open to anyone interested.  
+In addition to the events listed below, we host [community calls and working sessions](https://calendar.google.com/calendar/embed?src=5mkep1ad1j860k6g7i7fr8plq0%40group.calendar.google.com&ctz=Europe%2FBerlin) that are open to anyone interested.  
 Feel free to drop by!  
-https://calendar.google.com/calendar/embed?src=5mkep1ad1j860k6g7i7fr8plq0%40group.calendar.google.com&ctz=Europe%2FBerlin  
+  
 
 ## April 2021  
-📆 Tuesday, April 13, 2021 - 9:00 AM CET  
+📆 Tuesday, April 13, 2021 - 9:00 AM CEST  
 **[Introduction to Token Engineering](https://www.eventbrite.de/e/te-academy-introduction-to-token-engineering-tickets-141944585075)**  
 **TE Academy**  
 Online/live 
 
 ## March 2021  
+📆 Monday, March 29, 2021 - 7:00 PM CEST  
+**[Introducing Balancer Simulations](https://discord.gg/KTUPMCRZNQ)**  
+**Balancer/TE Discord channel**  
+Online/live 
+
 📆 Wednesday, March 03, 2021 - 6:00 PM CET  
 **[Introduction to Token Engineering](https://www.eventbrite.de/e/te-academy-introduction-to-token-engineering-tickets-141944585075)**  
 **TE Academy**  
