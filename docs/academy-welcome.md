@@ -31,10 +31,11 @@ Balancer and TE Academy aim to establish a network of researchers to leverage th
 **Skills:** Python, Math & Statistics, Balancer Pools/AMMs  
 **Background:** Ideally, you have a background in finance, economics, math, physics, machine learning or computer science. Additionally, we are open to participants from other disciplines, like social sciences. If you are keen to be part of Balancer research and development, apply!  
 
-**Location:** online/live  
+**Format:** online/live  
 **Registration:** please apply via this [registration form](https://forms.gle/NBQLYpFL7CmbiXAE8)  
 **Application deadline: Monday, April 19, 2021 6:00 pm CEST**  
 **Fee:** free - stake on participation  
+
 **More information:**  
 We’ll host an Introduction to Balancer Simulations   
 on Monday, March 29  
@@ -45,6 +46,34 @@ Join our Discord to take part: [discord.gg/KTUPMCRZNQ](https://discord.gg/KTUPMC
 We invite partner projects to collaborate with researchers in the group, offer bounties, and contribute to #OpenScience in the DeFi space.
 [Let us know about your project](https://forms.gle/XU43NAJ8oza4r2yf9) and and we’ll get back to you.  
 
+## Ecosystem Value Flows
+
+This course picks up where "[Business Model Generation](https://en.wikipedia.org/wiki/Business_Model_Canvas#cite_note-Osterwalder2010-3)" ends. The first phase in Token Model Generation consists of analyzing and specifying the value network of organizations and individuals to be tokenized. We'll start with canvases familiar to business and product architects, with adaptations to help us focus on value flows and motivations as inputs for incentive [mechanism design](https://en.wikipedia.org/wiki/Mechanism_design). We'll train to consciously take the macro and micro perspective, and will apply various methods for visualization and specification. Finally, the value network description will be carried out in [value flow](https://systemic2016.wordpress.com/system-dynamics-stock-and-flow-modelling/) diagrams.  
+
+Course Structure:  
+Module 1: Ecosystem Purpose & Members  
+Module 2: Incentives  
+Module 3: Games for Token Economy Co-Creation  
+Module 4: Value Flows  
+Module 5: Governance  
+
+With this output, you will be ready for the next phases of the Token Model Generation: applying existing cryptoeconomic patterns, adaptations, and new mechanisms.  
+
+**Start date:** Thursday, May 6, 2021  
+**End date:** Friday, May 28, 2021  
+**Time investment:** 15-20 hours per week, according to to self-defined learning goals and modules selected 
+
+**Fees:**  
+**Teams:** 560 USD/DAI (come with up to 3 team members, work on your own project case)  
+**Individuals:** 280 USD/DAI (join a team, work on a 3rd party case)  
+Scholarships available, see application form  
+
+**Registration:**  
+The number of participants for this course is limited.  
+Please apply via this [application form](https://forms.gle/3MSSkkDA21ZaKNUr8).  
+**Application Deadline: Thursday, April 15, 2021 at 6:00 pm CEST**  
+
+**Format:** live sessions, online content and individual feedback rounds 
 
 
 ## Introduction to Token Engineering
@@ -63,26 +92,6 @@ March/April 2020 see [Event Calendar](https://tokenengineeringcommunity.github.i
 **Location:** online course, live  
 **Registration:** https://www.eventbrite.de/e/te-academy-introduction-to-token-engineering-tickets-141944585075  
 **Fee:** free  
-**Number of participants:** up to 20  
-
-## Ecosystem Value Flows
-
-This course picks up where "[Business Model Generation](https://en.wikipedia.org/wiki/Business_Model_Canvas#cite_note-Osterwalder2010-3)" ends. The first phase in Token Model Generation consists of analyzing and specifying the value network of organizations and individuals to be tokenized. We'll start with canvases familiar to business and product architects, with adaptations to help us focus on value flows and motivations as inputs for incentive [mechanism design](https://en.wikipedia.org/wiki/Mechanism_design). We'll train to consciously take the macro and micro perspective, and will apply various methods for value flow visualization and specification. Finally, the value network description will be carried out in [Stocks & Flows](https://systemic2016.wordpress.com/system-dynamics-stock-and-flow-modelling/) diagrams.  
-The course has the following structure:  
-Part 1: Ecosystem Purpose & Members  
-Part 2: Stakeholder Interactions & Motives  
-Part 3: Games & Governance  
-Part 4: Value Network Specification (adapted Stock & Flow)  
-With this output, you will be ready for the next phases of the Token Model Generation: applying existing cryptoeconomic patterns, adaptations, and new mechanisms. You or your technical counterpart can then specify the dynamic model further using [Differential Specification Syntax](https://community.cadcad.org/t/differential-specification-syntax-key/31) and simulate using [cadCAD](https://cadcad.org/). If you are not familiar with systems modeling and systems dynamics, this course is a prerequisite.     
-
-**Start date/End date:**  
-To be announced  
-
-**Registration:  
-The next cohort of Ecosystem Value Flows will start in April/May 2021. We'll open applications around 4 weeks beforehand.  
-If you are interested in taking part, please register here: https://forms.gle/FPNkNmMAyjDzNRsa9**
-
-**Location:** online course, live  
 **Number of participants:** up to 20   
 
 
