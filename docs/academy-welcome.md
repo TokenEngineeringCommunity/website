@@ -64,8 +64,8 @@ With this output, you will be ready for the next phases of the Token Model Gener
 **Time investment:** 15-20 hours per week, according to to self-defined learning goals and modules selected 
 
 **Fees:**  
-**Teams:** 560 USD/DAI (come with up to 3 team members, work on your own project case)  
-**Individuals:** 280 USD/DAI (join a team, work on a 3rd party case)  
+**Teams:** 560 USD/DAI + VAT (come with up to 3 team members, work on your own project case)  
+**Individuals:** 280 USD/DAI + VAT (join a team, work on a 3rd party case)  
 Scholarships available, see application form  
 
 **Registration:**  
