@@ -28,8 +28,8 @@ Balancer and TE Academy aim to establish a network of researchers to leverage th
 **Duration:** 12 weeks  
 **Time investment:** min. 10 hours/week  
 
-**Skills:** Python, Math & Statistics, Balancer Pools/AMMs  
-**Background:** Ideally, you have a background in finance, economics, math, physics, machine learning or computer science. Additionally, we are open to participants from other disciplines, like social sciences. If you are keen to be part of Balancer research and development, apply!  
+**Skills:** Python, Math & Statistics, Balancer Pools/AMMs and [cadCAD Foundations Bootcamp](https://www.cadcad.education) (free online course)  
+**Background:** Ideally, you have a background in finance, economics, math, engineering, machine learning or computer science. Additionally, we are open to participants from other disciplines, like social sciences. If you are keen to be part of Balancer research and development, apply!  
 
 **Format:** online/live  
 **Registration:** please apply via this [registration form](https://forms.gle/NBQLYpFL7CmbiXAE8)  
