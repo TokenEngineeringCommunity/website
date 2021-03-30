@@ -14,6 +14,11 @@ Feel free to drop by!
 **TE Academy**  
 Online/live 
 
+📆 Thursday, April 1, 2021 - 9:30 PM CEST  
+**[Gitcoin Grants QF Research Group Presentations](https://discord.gg/BpHaFMpmjD)**  
+**TE/Gitcoin Discord Channel**  
+Online/live
+
 ## March 2021  
 📆 Monday, March 29, 2021 - 7:00 PM CEST  
 **[Introducing Balancer Simulations](https://discord.gg/KTUPMCRZNQ)**  
