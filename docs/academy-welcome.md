@@ -13,7 +13,7 @@ The TokenEngineering Academy (TE Academy) offers lectures, workshops, and semina
 > A collaboration of  
 > **[Balancer](https://balancer.finance/) and TE Academy**
 
-Since its inception in 2020, [Balancer](https://balancer.finance/) has become one of the most important building blocks in DeFi. With the launch of V2 in April 2021, Balancer keeps [pushing the boundaries](https://medium.com/balancer-protocol/balancer-v2-generalizing-amms-16343c4563ff) of programmable liquidity and customizable AMM logic. Weighted pools, stable pools, dynamically adaptive smart pools and new, resilient price oracles will enable a whole new layer of DeFi use cases.
+Since its inception in 2020, [Balancer](https://balancer.finance/) has become one of the most important building blocks in DeFi. With the launch of V2 in April 2021, Balancer keeps [pushing the boundaries](https://medium.com/balancer-protocol/balancer-v2-generalizing-amms-16343c4563ff) of programmable liquidity and customizable AMM logic. Weighted pools, stable pools, adaptive smart pools and new, resilient price oracles will enable a whole new layer of DeFi use cases.
 
 Balancer and TE Academy aim to establish a network of researchers to leverage the full power of Balancer Pools and AMMs in general. With this research group we contribute to open-source infrastructure and knowledge for rigorous Token Engineering in the DeFi space. We are looking for co-researchers from a wide range of backgrounds to join this group and participate in Balancer #OpenScience. 
 
