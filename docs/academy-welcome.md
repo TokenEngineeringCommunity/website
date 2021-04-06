@@ -73,7 +73,7 @@ The number of participants for this course is limited.
 Please apply via this [application form](https://forms.gle/3MSSkkDA21ZaKNUr8).  
 **Application Deadline: Thursday, April 15, 2021 at 6:00 pm CEST**  
 
-**Format:** live sessions, online content and individual feedback rounds 
+**Format:** live sessions, online content, mentoring sessions & feedback rounds 
 
 
 ## Introduction to Token Engineering
