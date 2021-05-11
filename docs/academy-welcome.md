@@ -3,12 +3,12 @@ id: academy-welcome
 title: TokenEngineering Academy
 sidebar_label: Academy
 ---
-# About
+## About
 
 The TokenEngineering Academy (TE Academy) offers lectures, workshops, and seminars for anyone interested in this new, emerging field. We invite individuals and project teams to learn, collaborate, and put token engineering into practice. Please get in touch if you'd like to bring your team to TE Academy: <contact@tokenengineering.net>.  
 
 
-# Engineering dCommerce
+## Engineering dCommerce
 
 > A collaboration of  
 > **[Boson Protocol](https://bosonprotocol.io) and TE Academy**
@@ -29,7 +29,7 @@ Application deadline: MONDAY MAY 24, 2021, at 6:00 pm CEST
 Fee: free
 
 
-# Balancer Simulations Research Group
+## Balancer Simulations Research Group
 
 > A collaboration of  
 > **[Balancer](https://balancer.finance/)** and TE Academy, 
@@ -58,7 +58,7 @@ Balancer and TE Academy aim to establish a network of researchers to leverage th
 **Fee:** free - stake on participation  
 
 
-# Ecosystem Value Flows
+## Ecosystem Value Flows
 
 This course picks up where "[Business Model Generation](https://en.wikipedia.org/wiki/Business_Model_Canvas#cite_note-Osterwalder2010-3)" ends. The first phase in Token Model Generation consists of analyzing and specifying the value network of organizations and individuals to be tokenized. We'll start with canvases familiar to business and product architects, with adaptations to help us focus on value flows and motivations as inputs for incentive [mechanism design](https://en.wikipedia.org/wiki/Mechanism_design). We'll train to consciously take the macro and micro perspective, and will apply various methods for visualization and specification. Finally, the value network description will be carried out in [value flow](https://systemic2016.wordpress.com/system-dynamics-stock-and-flow-modelling/) diagrams.  
 
@@ -82,7 +82,7 @@ In case you are interested to take part in the next cohort, please [register her
 **Format:** live sessions, online content, mentoring sessions & feedback rounds 
 
 
-# Introduction to Token Engineering
+## Introduction to Token Engineering
 
 This 90 minutes session provides an introduction to Token Engineering. It covers the following topics:  
 - Why Token Engineering?
