@@ -33,7 +33,7 @@ Fee: free
 
 > A collaboration of  
 > **[Balancer](https://balancer.finance/)** and TE Academy, 
-as well as [Ocean Protocol](https://oceanprotocol.com) and [Powerpool](https://powerpool.finance) as project partners.
+as well as **[Ocean Protocol](https://oceanprotocol.com)** and **[Powerpool](https://powerpool.finance)** as project partners.
 
 Since its inception in 2020, [Balancer](https://balancer.finance/) has become one of the most important building blocks in DeFi. With the launch of V2 in April 2021, Balancer keeps [pushing the boundaries](https://medium.com/balancer-protocol/balancer-v2-generalizing-amms-16343c4563ff) of programmable liquidity and customizable AMM logic. Weighted pools, stable pools, adaptive smart pools and new, resilient price oracles will enable a whole new layer of DeFi use cases.
 
