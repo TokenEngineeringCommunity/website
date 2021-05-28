@@ -3,10 +3,50 @@ id: events-welcome
 title: TokenEngineering Events Calendar
 sidebar_label: Events
 ---
-## Weekly TokenEngineering Calls & Public Sessions
-In addition to the events listed below, we host [community calls and working sessions](https://calendar.google.com/calendar/embed?src=5mkep1ad1j860k6g7i7fr8plq0%40group.calendar.google.com&ctz=Europe%2FBerlin) that are open to anyone interested.  
+## TokenEngineering Events & Public Working Sessions
+In addition to the events listed below, we host community calls and working sessions that are open to anyone interested.  
 Feel free to drop by!  
-  
+
+## July 2021  
+📆 Tuesday, July 13, 2021 - 9:00 AM CEST  
+**[Introduction to Token Engineering](https://www.eventbrite.de/e/te-academy-introduction-to-token-engineering-tickets-157248170511)**  
+**TE Academy**  
+Online/live 
+
+## June 2021  
+📆 Wednesday, June 09, 2021 - 5:30 AM CEST  
+**[Engineering dCommerce - Introduction](https://docs.google.com/forms/d/e/1FAIpQLSdsDTmjZoCPbttQ8EglWyQo9seiH_dC8WY3n4I9X2i3tKvdaA/viewform)**  
+**TE Academy**  
+Online/live  
+
+📆 Friday, June 04, 2021 - 1:00 PM CEST  
+**[Introduction to Token Engineering](https://www.eventbrite.de/e/te-academy-introduction-to-token-engineering-tickets-157248170511)**  
+**TE Academy**  
+
+Online/live  
+📆 Wednesday, June 02, 2021 - 9:00 AM CEST  
+**[Engineering dCommerce - Introduction](https://docs.google.com/forms/d/e/1FAIpQLSdsDTmjZoCPbttQ8EglWyQo9seiH_dC8WY3n4I9X2i3tKvdaA/viewform)**  
+**TE Academy**  
+Online/live  
+
+
+
+## May 2021  
+📆 Friday, May 28, 2021 - 6:00 PM CEST  
+**[Ecosystem Value Flows - Final Presentations](https://discord.gg/gccFqRJ)**  
+**TE Academy**  
+Online/live 
+
+📆 Friday, May 21, 2021 - 2:00 PM CEST  
+**[Ocean Markets at Balancer Simulations](https://youtu.be/TDG53PTbqhQ)**  
+**TE Academy**  
+Online/live - recording available [here](https://youtu.be/TDG53PTbqhQ)
+
+📆 Friday, May 21, 2021 - 6:30 PM CEST  
+**[Engineering dCommerce - Introduction](https://docs.google.com/forms/d/e/1FAIpQLSdsDTmjZoCPbttQ8EglWyQo9seiH_dC8WY3n4I9X2i3tKvdaA/viewform)**
+**TE Academy**  
+Online/live - recording available [here](https://youtu.be/TDG53PTbqhQ)
+
 
 ## April 2021  
 📆 Tuesday, April 13, 2021 - 9:00 AM CEST  
