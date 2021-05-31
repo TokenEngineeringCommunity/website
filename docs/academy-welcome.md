@@ -8,7 +8,7 @@ sidebar_label: Academy
 The TokenEngineering Academy (TE Academy) offers lectures, workshops, and seminars for anyone interested in this new, emerging field. We invite individuals and project teams to learn, collaborate, and put token engineering into practice. Please get in touch if you'd like to bring your team to TE Academy: <contact@tokenengineering.net>.  
 
 
-## Ocean Protocol
+## Ocean Markets @ Balancer Simulations
 
 > A collaboration of  
 > **[Balancer](https://balancer.finance/)**, **[Ocean Protocol](https://oceanprotocol.com)** and TE Academy.
