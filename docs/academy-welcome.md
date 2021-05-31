@@ -32,7 +32,7 @@ We are looking for co-researchers from a wide range of backgrounds to join this 
 **Time investment:** min. 10 hours/week  
 
 **Skills:** Python, Math & Statistics, solid understanding Balancer Pools/AMMs and smart contracts  
-**Background:** Ideally, you have a background in finance, economics, math, engineering, machine learning or computer science. Additionally, we are open to participants from other disciplines, like social sciences. If you are keen to be part of Balancer research and development, apply! 
+**Background:** Ideally, you have a background in finance, economics, math, engineering, machine learning, or computer science. Additionally, we are open to participants from other disciplines, like social sciences. If you are keen to be part of Balancer research and development, apply! 
 
 **Format:** online/live    
 **Registration:** please apply via this [registration form](https://forms.gle/NBQLYpFL7CmbiXAE8)   
