@@ -7,6 +7,26 @@ sidebar_label: Academy
 
 The TokenEngineering Academy (TE Academy) offers lectures, workshops, and seminars for anyone interested in this new, emerging field. We invite individuals and project teams to learn, collaborate, and put token engineering into practice. Please get in touch if you'd like to bring your team to TE Academy: <contact@tokenengineering.net>.  
 
+## Engineering dCommerce
+
+> A collaboration of  
+> **[Boson Protocol](https://bosonprotocol.io) and TE Academy**
+
+Today, eCommerce happens within closed, monopolized digital platforms. What could those platforms look like if they were founded on permissionless, decentralized protocols? [Boson Protocol](https://www.bosonprotocol.io) is calling this radical, new proposition dCommerce, and we believe its challenges and opportunities are on the leading edge of our Token Engineering field. 
+
+Building the #dCommerce ecosystem requires more than great minds. It calls for applied knowledge, multidisciplinary collaboration, and a community of builders and researchers from [#eCommerce](https://twitter.com/hashtag/eCommerce?src=hashtag_click) to [#Web3](https://twitter.com/hashtag/Web3?src=hashtag_click) coming together to develop such complex yet robust crypto-economic systems.
+
+Engineering dCommerce is a program that gathers exceptional contributors, researchers, and protocols to be catalysts and pioneers of this liminal new field of work. Join us for educational sessions, workshops, and updates on Token Engineering research in this sector.
+
+We invite participants from various backgrounds such as e-commerce, data science and analytics, marketing, digital product, operations and fulfillment, and business finance. This program is the perfect starting point for digital pros looking to enter crypto and build the future of commerce.
+
+Do you have an engineering and/or economics background, or even first experience in Token Engineering? Great, join Engineering dCommerce and put your skills to work in a field that impacts the lives of many.
+
+**Registration:**
+[Register here](https://forms.gle/g3L5WBLCRZLp7ezu8) to participate in our onboarding sessions and further activities we’ll roll out in the course of 2021.  
+**Application deadline:** TUESDAY JUNE 22, 2021, at 6:00 pm CEST  
+**Fee:** free
+
 
 ## Ocean Markets @ Balancer Simulations
 
@@ -34,32 +54,29 @@ We are looking for co-researchers from a wide range of backgrounds to join this 
 **Skills:** Python, Math & Statistics, solid understanding Balancer Pools/AMMs and smart contracts  
 **Background:** Ideally, you have a background in finance, economics, math, engineering, machine learning, or computer science. Additionally, we are open to participants from other disciplines, like social sciences. If you are keen to be part of Balancer research and development, apply! 
 
-**Format:** online/live    
-**Registration:** please apply via this [registration form](https://forms.gle/NBQLYpFL7CmbiXAE8)   
-**Application deadline: Monday, June 7, 2021 6:00 pm CEST**  
-
+**Format:** online/live  
 **Fee:** free - stake on participation 
 
+**Registration:** Applications are closed now but our [sessions are open](https://calendar.google.com/calendar/u/0?cid=NThubWhyaXNjYzc3bWVrbWU2YTMxNWJzY29AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ), feel free to drop by and listen in! 
 
-## Engineering dCommerce
 
-> A collaboration of  
-> **[Boson Protocol](https://bosonprotocol.io) and TE Academy**
+## Introduction to Token Engineering
 
-Today, eCommerce happens within closed, monopolized digital platforms. What could those platforms look like if they were founded on permissionless, decentralized protocols? [Boson Protocol](https://www.bosonprotocol.io) is calling this radical, new proposition dCommerce, and we believe its challenges and opportunities are on the leading edge of our Token Engineering field. 
+This 90 minutes session provides an introduction to Token Engineering. It covers the following topics:  
+- Why Token Engineering?
+- Engineering Ethics
+- Foundations of a new discipline
+- Design goals and steps in the Token Engineering Process
+- Practical application
+- Becoming a Token Engineer
+- TokenEngineering Community overview
+  
+**Dates:**  
+- June 4th 1pm CEST / 7am EDT
+- July 13 9am CEST / 3pm CST  
 
-Building the #dCommerce ecosystem requires more than great minds. It calls for applied knowledge, multidisciplinary collaboration, and a community of builders and researchers from [#eCommerce](https://twitter.com/hashtag/eCommerce?src=hashtag_click) to [#Web3](https://twitter.com/hashtag/Web3?src=hashtag_click) coming together to develop such complex yet robust crypto-economic systems.
-
-Engineering dCommerce is a program that gathers exceptional contributors, researchers, and protocols to be catalysts and pioneers of this liminal new field of work. Join us for educational sessions, workshops, and updates on Token Engineering research in this sector.
-
-We invite participants from various backgrounds such as e-commerce, data science and analytics, marketing, digital product, operations and fulfillment, and business finance. This program is the perfect starting point for digital pros looking to enter crypto and build the future of commerce.
-
-Do you have an engineering and/or economics background, or even first experience in Token Engineering? Great, join Engineering dCommerce and put your skills to work in a field that impacts the lives of many.
-
-**Registration:**
-[Register here](https://forms.gle/g3L5WBLCRZLp7ezu8) to participate in our onboarding sessions and further activities we’ll roll out in the course of 2021.  
-**Application deadline:** TUESDAY JUNE 22, 2021, at 6:00 pm CEST  
-**Fee:** free
+**Registration:**  
+Please register [here](https://www.eventbrite.de/e/te-academy-introduction-to-token-engineering-tickets-157248170511)
 
 
 ## Ecosystem Value Flows
@@ -83,24 +100,6 @@ In case you are interested to take part in the next cohort, please [register her
 
 **Format:** live sessions, online content, mentoring sessions & feedback rounds 
 
-
-## Introduction to Token Engineering
-
-This 90 minutes session provides an introduction to Token Engineering. It covers the following topics:  
-- Why Token Engineering?
-- Engineering Ethics
-- Foundations of a new discipline
-- Design goals and steps in the Token Engineering Process
-- Practical application
-- Becoming a Token Engineer
-- TokenEngineering Community overview
-  
-**Dates:**  
-- June 4th 1pm CEST / 7am EDT
-- July 13 9am CEST / 3pm CST  
-
-**Registration:**  
-Please register [here](https://www.eventbrite.de/e/te-academy-introduction-to-token-engineering-tickets-157248170511)
 
 
 
