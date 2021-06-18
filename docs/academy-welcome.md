@@ -18,12 +18,26 @@ Building the #dCommerce ecosystem requires more than great minds. It calls for a
 
 Engineering dCommerce is a program that gathers exceptional contributors, researchers, and protocols to be catalysts and pioneers of this liminal new field of work. Join us for educational sessions, workshops, and updates on Token Engineering research in this sector.
 
-We invite participants from various backgrounds such as e-commerce, data science and analytics, marketing, digital product, operations and fulfillment, and business finance. This program is the perfect starting point for digital pros looking to enter crypto and build the future of commerce.
+Our program:  
 
+**Engineering dCommerce**  
+Onboarding Session   
+
+**Game Theory - an Introduction**    
+3 workshops  
+- Introduction and Motivation to Game Theory
+- Static Games of Complete Information
+- Dynamic Games of Complete Information
+- Static & Dynamic Games of Incomplete Information
+- Boson’s Exchange Mechanism and Extensions
+- Modelling Situations as Dynamic Games of Incomplete Information
+
+
+We invite participants from various backgrounds such as e-commerce, data science and analytics, marketing, digital product, operations and fulfillment, and business finance. This program is the perfect starting point for digital pros looking to enter crypto and build the future of commerce.
 Do you have an engineering and/or economics background, or even first experience in Token Engineering? Great, join Engineering dCommerce and put your skills to work in a field that impacts the lives of many.
 
 **Registration:**
-[Register here](https://forms.gle/g3L5WBLCRZLp7ezu8) to participate in our onboarding sessions and further activities we’ll roll out in the course of 2021.  
+[Register here](https://forms.gle/g3L5WBLCRZLp7ezu8) to participate in our sessions and further activities we’ll roll out in the course of 2021.  
 **Application deadline:** TUESDAY JUNE 22, 2021, at 6:00 pm CEST  
 **Fee:** free
 
