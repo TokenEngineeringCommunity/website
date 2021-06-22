@@ -38,7 +38,7 @@ Do you have an engineering and/or economics background, or even first experience
 
 **Registration:**
 [Register here](https://forms.gle/g3L5WBLCRZLp7ezu8) to participate in our sessions and further activities we’ll roll out in the course of 2021.  
-**Application deadline:** TUESDAY JUNE 22, 2021, at 6:00 pm CEST  
+**Application deadline:** TUESDAY JUNE 30, 2021, at 6:00 pm CEST  
 **Fee:** free
 
 
