@@ -7,6 +7,43 @@ sidebar_label: Academy
 
 The TokenEngineering Academy (TE Academy) offers lectures, workshops, and seminars for anyone interested in this new, emerging field. We invite individuals and project teams to learn, collaborate, and put token engineering into practice. Please get in touch if you'd like to bring your team to TE Academy: <contact@tokenengineering.net>.  
 
+## OMNIPool Engineering and Simulations
+
+A collaboration of 
+**[HydraDX](https://hydradx.io/)**, **[BlockScience](https://block.science/)** and TE Academy
+
+[HydraDX](https://hydradx.io/) is a cross-chain liquidity protocol managing all assets in one shared liquidity pool. It is powered by Substrate and designed to be interoperable with other networks, including Ethereum-based assets.
+
+HydraDX is being built under a rigorous engineering process, collaborating with [BlockScience](https://block.science/), whose work includes the design and evaluation of economic and ecosystem models based on simulation and analysis. They bring deep expertise in Token Engineering R&D and have pioneered cadCAD - an open-source Python package that assists in the processes of designing, testing, and validating complex systems through simulation.
+
+This research group aims to onboard aspiring token engineers to this development process. Together, we’ll create new insights, develop simulation infrastructure, and validate design choices — accessible and re-usable for the entire DeFi ecosystem.
+
+**What you can expect**
+* start with an introduction to... 
+* Hydra AMMs and the liquidity subsystem
+* the engineering process and system design
+* Generalized Dynamical Systems (state representation, actions, policies, and behaviors)
+* mathematical system specification and reference implementations
+* Parameter Selection under Uncertainty
+* choose your research question, and team up with co-researchers with complementary skills
+* use cadCAD and translate your research direction to simulation code step-by-step
+* get regular feedback and discuss your work with BlockScience mentors and HydraDX team
+
+**Start:** Thursday, August 5, 2021  
+**End:** Thursday, October 28, 2021  
+**Duration:** 12 weeks  
+**Time investment:** min. 10 hours/week, 2-3 meetings per week 
+
+**Skills:** Python, cadCAD, solid understanding of AMMs  
+**Background:** Ideally, you have an educational background in finance, economics, math, engineering, machine learning, or computer science. Additionally, we are open to participants from other disciplines, in particular social sciences. 
+
+**Format:** online/live  
+**Fee:** free  
+**Number of participants:** max. 25  
+
+**Registration:** The number of participants is limited. Please apply via this **[registration form](https://forms.gle/sftRsU3DWqSPJocG7)**  
+**Application deadline: Sunday, July 11, 2021, 6:00 pm CEST**  
+
 ## Engineering dCommerce
 
 > A collaboration of  
@@ -24,7 +61,7 @@ Our program:
 Onboarding Session   
 
 **Game Theory - an Introduction**    
-3 workshops  
+3 workshops - July 08/15/22, 2021
 - Introduction and Motivation to Game Theory
 - Static Games of Complete Information
 - Dynamic Games of Complete Information
@@ -38,7 +75,7 @@ Do you have an engineering and/or economics background, or even first experience
 
 **Registration:**
 [Register here](https://forms.gle/g3L5WBLCRZLp7ezu8) to participate in our sessions and further activities we’ll roll out in the course of 2021.  
-**Application deadline:** TUESDAY JUNE 30, 2021, at 6:00 pm CEST  
+**Application deadline:** TUESDAY JULY 08, 2021, at 6:00 pm CEST  
 **Fee:** free
 
 
