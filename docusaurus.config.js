@@ -1,6 +1,6 @@
 module.exports = {
   title: 'Token Engineering',
-  tagline: 'Because tokens don\'t engineer themselves!',
+  tagline: "Because tokens don't engineer themselves!",
   organizationName: 'tokenengineeringcommunity',
   projectName: 'website',
   baseUrl: '/website/',
@@ -48,51 +48,64 @@ module.exports = {
           items: [
             {
               label: '🦜 Twitter',
-              href: 'https://twitter.com/tokengineering',
+              href: 'https://twitter.com/tokengineering'
             },
             {
               label: '💬 Discord',
-              href: 'https://discord.gg/gHvksh8',
+              href: 'https://discord.gg/gHvksh8'
             },
             {
               label: '💬 Telegram',
-              href: 'https://t.me/TokenEngineering',
+              href: 'https://t.me/TokenEngineering'
             },
             {
               label: '🐈 GitHub',
-              href: 'https://github.com/tokenengineeringcommunity',
-            },
-          ],
+              href: 'https://github.com/tokenengineeringcommunity'
+            }
+          ]
         },
         {
           title: 'Library',
           items: [
             {
               label: '📜 Blog',
-              to: 'blog',
+              to: 'blog'
             },
             {
               label: '📺 YouTube',
-              href: 'https://www.youtube.com/c/TokenEngineering',
+              href: 'https://www.youtube.com/c/TokenEngineering'
             },
             {
               label: '📚 Token Engineering 101',
-              to: 'docs/library-te-101',
+              to: 'docs/library-te-101'
             },
             {
               label: '📖 The Token Engineering Book',
-              to: 'docs/library-te-book',
-            },
-          ],
+              to: 'docs/library-te-book'
+            }
+          ]
         },
+        {
+          title: 'TE Academy',
+          items: [
+            {
+              label: '📖 Privacy Policy',
+              to: 'docs/te-academy-privacypolicy'
+            },
+            {
+              label: '📖 Imprint',
+              to: 'docs/te-academy-imprint'
+            }
+          ]
+        }
       ],
       logo: {
         alt: 'Token Engineering Logo',
         src: '/img/te-logo.png',
-        href: 'https://tokens.engineering',
+        href: 'https://tokens.engineering'
       },
-      copyright: `Copyright © ${new Date().getFullYear()} Token Engineering. <br> <a href="https://docusaurus.io/">🦖 Built with Docusaurus</a>!`,
-    },
+      copyright: `Copyright © ${new Date().getFullYear()} Token Engineering. <br> <a href="https://docusaurus.io/">🦖 Built with Docusaurus</a>!`
+    }
   },
   presets: [
     [
