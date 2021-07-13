@@ -42,7 +42,7 @@ This research group aims to onboard aspiring token engineers to this development
 **Number of participants:** max. 25  
 
 **Registration:** The number of participants is limited. Please apply via this **[registration form](https://forms.gle/sftRsU3DWqSPJocG7)**  
-**Application deadline: Sunday, July 11, 2021, 6:00 pm CEST**  
+**Application deadline: Sunday, July 25, 2021, 6:00 pm CEST**  
 
 ## Engineering dCommerce
 
