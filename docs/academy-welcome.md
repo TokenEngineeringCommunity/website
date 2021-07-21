@@ -61,7 +61,7 @@ Our program:
 Onboarding Session   
 
 **Game Theory - an Introduction**    
-3 workshops - July 08/15/22, 2021
+3 workshops - July 08/15/23, 2021
 - Introduction and Motivation to Game Theory
 - Static Games of Complete Information
 - Dynamic Games of Complete Information
