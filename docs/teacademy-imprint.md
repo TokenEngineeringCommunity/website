@@ -34,7 +34,14 @@ As service providers, we are liable for own contents of these websites according
 Our offer includes links to external third party websites. We do not have influence on the contents of linked websites, therefore we cannot guarantee for those contents. The linked websites had been checked for possible violations of law at the time of the establishment of the link. Illegal contents were not detected at the time of the linking. A permanent monitoring of the contents of linked websites cannot be imposed without reasonable indications that there has been a violation of law. Illegal links will be removed immediately at the time we get knowledge of them.
 
 ### Copyright
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Contents and compilations published on these websites by the providers are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
+    <img alt="Creative Commons License" style={{borderWidth: 0}} src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" />
+</a>
+<br />
+Contents and compilations published on these websites by the providers are licensed under a 
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
+    Creative Commons Attribution-ShareAlike 4.0 International License
+</a>
 
 ### Dispute resolution
 The European Commission provides a platform for online dispute resolution (OS): https://ec.europa.eu/consumers/odr.
