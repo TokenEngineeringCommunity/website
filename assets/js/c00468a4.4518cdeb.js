@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkte_website=self.webpackChunkte_website||[]).push([[353],{3177:function(e){e.exports=JSON.parse('{"allTagsPath":"/website/blog/tags","slug":"facebook","name":"facebook","count":1,"permalink":"/website/blog/tags/facebook"}')}}]);
