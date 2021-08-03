@@ -41,7 +41,7 @@ This research group aims to onboard aspiring token engineers to this development
 **Fee:** free  
 **Number of participants:** max. 25  
 
-**Registration:** Applications are closed now but our [sessions are open](https://www.discord.gg/UEBQUmAg7q), feel free to drop by and listen in!  
+**Registration:** Applications are closed now but our [sessions are open](https://discord.gg/UEBQUmAg7q), feel free to drop by and listen in!  
 
 ## Engineering dCommerce
 
