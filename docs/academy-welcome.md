@@ -123,11 +123,11 @@ This 90 minutes session provides an introduction to Token Engineering. It covers
 - TokenEngineering Community overview
   
 **Dates:**  
-- June 4th 1pm CEST / 7am EDT
-- July 13 9am CEST / 3pm CST  
+- August 9th 6pm CEST 
+- September 14th 10am CEST   
 
 **Registration:**  
-Please register [here](https://www.eventbrite.de/e/te-academy-introduction-to-token-engineering-tickets-157248170511)
+Please register [here](https://www.eventbrite.de/e/introduction-to-token-engineering-tickets-165888309399)
 
 
 ## Ecosystem Value Flows
