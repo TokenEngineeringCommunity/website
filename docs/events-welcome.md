@@ -7,7 +7,25 @@ sidebar_label: Events
 In addition to the events listed below, we host community calls and working sessions that are open to anyone interested.  
 Feel free to drop by!  
 
+
+## September 2021  
+📆 Monday, September 14, 2021 - 10:00 AM CEST  
+**[Introduction to Token Engineering](https://www.eventbrite.de/e/introduction-to-token-engineering-tickets-165888309399)**  
+**TE Academy**  
+Online/live 
+
+## August 2021  
+📆 Monday, Aug 09, 2021 - 6:00 PM CEST  
+**[Introduction to Token Engineering](https://www.eventbrite.de/e/introduction-to-token-engineering-tickets-165888309399)**  
+**TE Academy**  
+Online/live 
+
 ## July 2021  
+📆 Tuesday, July 27, 2021 - 6:00 PM CEST  
+**[Balancer Simulations Final Presentations](https://youtu.be/q0dmFNPDBuw)**  
+**TE Academy**  
+Online/live 
+
 📆 Tuesday, July 13, 2021 - 9:00 AM CEST  
 **[Introduction to Token Engineering](https://www.eventbrite.de/e/te-academy-introduction-to-token-engineering-tickets-157248170511)**  
 **TE Academy**  
