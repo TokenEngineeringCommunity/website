@@ -9,8 +9,8 @@ The TokenEngineering Academy (TE Academy) offers lectures, workshops, and semina
 
 ## OMNIPool Engineering and Simulations
 
-A collaboration of 
-**[HydraDX](https://hydradx.io/)**, **[BlockScience](https://block.science/)** and TE Academy
+> A collaboration of 
+> **[HydraDX](https://hydradx.io/)**, **[BlockScience](https://block.science/)** and TE Academy
 
 [HydraDX](https://hydradx.io/) is a cross-chain liquidity protocol managing all assets in one shared liquidity pool. It is powered by Substrate and designed to be interoperable with other networks, including Ethereum-based assets.
 
