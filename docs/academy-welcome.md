@@ -12,10 +12,10 @@ The TokenEngineering Academy (TE Academy) offers lectures, workshops, and semina
 Today, more and more blockchain projects are relying on decentralized governance as the form of decision-making for their protocol. This means handing power to tokenholders, delegates, or even joining forces and voting with other DAOs.
 
 While this is an exciting trend, we're also faced with new challenges like defining effective voting mechanisms, maximizing community participation, or fighting voter fraud.  
-To tackle these challenges, we need experts in Token Engineering, focusing on governance.
+To tackle these challenges, we need experts in Token Engineering.
 Here, we can draw from fields like Mechanism Design, Operations Research, Psychology, Decisions Science, and Political Science. We can apply data analytics, ML, simulations and formulate accountability feedback loops as we are shaping a new [social reality](https://medium.com/block-science/algorithms-as-policy-44e289d34a65). 
 
-**Incubating the Governauts is an initiative to establish a new branch in Token Engineering.** 
+**Incubating the Governauts is an initiative to establish a new branch in Token Engineering, focusing on governance.** 
 
 Our roadmap:  
 Phase 1 - Gaining Community Support  
