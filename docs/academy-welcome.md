@@ -15,7 +15,7 @@ While this is an exciting trend, we're also faced with new challenges like defin
 To tackle these challenges, we need experts in Token Engineering, focusing on governance.
 Here, we can draw from fields like Mechanism Design, Operations Research, Psychology, Decisions Science, and Political Science. We can apply data analytics, ML, simulations and formulate accountability feedback loops as we are shaping a new [social reality](https://medium.com/block-science/algorithms-as-policy-44e289d34a65). 
 
-Incubating the Governauts is an initiative to establish a new branch in Token Engineering. 
+**Incubating the Governauts is an initiative to establish a new branch in Token Engineering.** 
 
 Our roadmap:  
 Phase 1 - Gaining Community Support  
@@ -27,7 +27,7 @@ Let’s solve problems! We’ll collaborate with a couple of hand-picked project
 Phase 3 - Growing the Governauts  
 Come on board! We’ll open up our activities to a wider community and work together in research groups coming up with new solutions for crypto governance.
 
-Registration:  
+**Registration:**  
 Want to participate in research groups? Excited to learn more about #tokenengineering for governance?  
 [Sign-up here](https://forms.gle/zNNLdi8aUKystz3QA), and receive an invitation once we open up applications for phase 3!
 
