@@ -5,7 +5,51 @@ sidebar_label: Academy
 ---
 ## About
 
-The TokenEngineering Academy (TE Academy) offers lectures, workshops, and seminars for anyone interested in this new, emerging field. We invite individuals and project teams to learn, collaborate, and put token engineering into practice. Please get in touch if you'd like to bring your team to TE Academy: <contact@tokenengineering.net>.  
+The TokenEngineering Academy (TE Academy) offers lectures, workshops, and seminars for anyone interested in this new, emerging field. We invite individuals and project teams to learn, collaborate, and put token engineering into practice. Please get in touch if you'd like to bring your team to TE Academy: <contact@tokenengineering.net>. 
+
+## Incubating Governauts
+Today, more and more protocols and projects are entering decentralization, handing over decision-making power to token holders, to stewards with delegated voting power, or even joining forces in a DAO2DAO structure.
+
+We’re facing new challenges, from defining the best voting mechanism to maximize community participation to fight collusion and fraud.
+To tackle these challenges, we need experts in Token Engineering, focusing on governance.
+Here, we can draw from fields like Mechanism Design, Operations Research, Psychology, Decisions Science, and Political Science. We can apply data analytics, ML, simulations and formulate accountability feedback loops as we are shaping a new [social reality](https://medium.com/block-science/algorithms-as-policy-44e289d34a65). 
+
+Incubating the Governauts is an initiative to establish a new branch in Token Engineering. 
+
+Our roadmap:  
+Phase 1 - Gaining Community Support  
+We start with a [Gitcoin proposal](https://gitcoin.co/grants/2978/incubating-governauts). If you think we need Governauts, or want to become one yourself - show your support, and join our [events](https://twitter.com/governancedao) to discuss today's challenges and most exciting projects.
+
+Phase 2 - Select Cases & Fundraising  
+Let’s solve problems! We’ll collaborate with a couple of hand-picked projects, work on cases and create tangible examples for Governautical superpowers.
+
+Phase 3 - Growing the Governauts  
+Come on board! We’ll open up our activities to a wider community and work together in research groups coming up with new solutions for crypto governance.
+
+Registration:  
+Want to participate in research groups? Excited to learn more about #tokenengineering for governance?  
+[Sign-up here](https://forms.gle/zNNLdi8aUKystz3QA), and receive an invitation once we open up applications for phase 3!
+
+
+## Engineering dCommerce
+
+> A collaboration of  
+> **[Boson Protocol](https://bosonprotocol.io) and TE Academy**
+
+Today, eCommerce happens within closed, monopolized digital platforms. What could those platforms look like if they were founded on permissionless, decentralized protocols? [Boson Protocol](https://www.bosonprotocol.io) is calling this radical, new proposition dCommerce, and we believe its challenges and opportunities are on the leading edge of our Token Engineering field. 
+
+Building the #dCommerce ecosystem requires more than great minds. It calls for applied knowledge, multidisciplinary collaboration, and a community of builders and researchers from [#eCommerce](https://twitter.com/hashtag/eCommerce?src=hashtag_click) to [#Web3](https://twitter.com/hashtag/Web3?src=hashtag_click) coming together to develop such complex yet robust crypto-economic systems.
+
+Engineering dCommerce is a program that gathers exceptional contributors, researchers, and protocols to be catalysts and pioneers of this liminal new field of work. Join us for educational sessions, workshops, and updates on Token Engineering research in this sector.
+
+We invite participants from various backgrounds such as e-commerce, data science and analytics, marketing, digital product, operations and fulfillment, and business finance. This program is the perfect starting point for digital pros looking to enter crypto and build the future of commerce.
+Do you have an engineering and/or economics background, or even first experience in Token Engineering? Great, join Engineering dCommerce and put your skills to work in a field that impacts the lives of many.
+
+**Registration:**
+[Register here](https://forms.gle/g3L5WBLCRZLp7ezu8) to participate in our sessions and further activities we’ll roll out in the course of 2021.  
+**Application deadline:** Friday August 27, 2021, at 6:00 pm CEST  
+**Fee:** free
+
 
 ## OMNIPool Engineering and Simulations
 
@@ -41,58 +85,7 @@ This research group aims to onboard aspiring token engineers to this development
 **Fee:** free  
 **Number of participants:** max. 25  
 
-**Registration:** Applications are closed now but our [sessions are open](https://discord.gg/UEBQUmAg7q), feel free to drop by and listen in!  
-
-## Engineering dCommerce
-
-> A collaboration of  
-> **[Boson Protocol](https://bosonprotocol.io) and TE Academy**
-
-Today, eCommerce happens within closed, monopolized digital platforms. What could those platforms look like if they were founded on permissionless, decentralized protocols? [Boson Protocol](https://www.bosonprotocol.io) is calling this radical, new proposition dCommerce, and we believe its challenges and opportunities are on the leading edge of our Token Engineering field. 
-
-Building the #dCommerce ecosystem requires more than great minds. It calls for applied knowledge, multidisciplinary collaboration, and a community of builders and researchers from [#eCommerce](https://twitter.com/hashtag/eCommerce?src=hashtag_click) to [#Web3](https://twitter.com/hashtag/Web3?src=hashtag_click) coming together to develop such complex yet robust crypto-economic systems.
-
-Engineering dCommerce is a program that gathers exceptional contributors, researchers, and protocols to be catalysts and pioneers of this liminal new field of work. Join us for educational sessions, workshops, and updates on Token Engineering research in this sector.
-
-We invite participants from various backgrounds such as e-commerce, data science and analytics, marketing, digital product, operations and fulfillment, and business finance. This program is the perfect starting point for digital pros looking to enter crypto and build the future of commerce.
-Do you have an engineering and/or economics background, or even first experience in Token Engineering? Great, join Engineering dCommerce and put your skills to work in a field that impacts the lives of many.
-
-**Registration:**
-[Register here](https://forms.gle/g3L5WBLCRZLp7ezu8) to participate in our sessions and further activities we’ll roll out in the course of 2021.  
-**Application deadline:** Friday August 27, 2021, at 6:00 pm CEST  
-**Fee:** free
-
-
-## Ocean Markets @ Balancer Simulations
-
-> A collaboration of  
-> **[Balancer](https://balancer.finance/)**, **[Ocean Protocol](https://oceanprotocol.com)** and TE Academy.
-
-Since its inception in 2020, Balancer has become one of the most important building blocks in DeFi. With the launch of V2 in April 2021, Balancer keeps pushing the boundaries of programmable liquidity and customizable AMM logic. 
-
-As a challenge partner for Balancer Simulations, [Ocean Protocol](https://oceanprotocol.com) will collaborate with researchers to study agent-based models of the Web3 data economy. The researchers will use [TokenSPICE](https://github.com/oceanprotocol/tokenspice2) agent-based simulation with EVM-in-the-loop. Using EVM enables perfect-fidelity models of Balancer V1 and V2 contracts. These models interact with Python-based agents for data suppliers, data consumers, data stakers and speculators. Researchers can compare one-sided with two-sided data staking, model the effect of liquidity mining and other incentives on data supply or demand, and compare Dutch Auctions versus Liquidity Bootstrapping Pools for Initial Data Offerings (IDOs). The results will be accessible and re-usable for the Balancer, Ocean, and Token Engineering communities.
-
-We are looking for co-researchers from a wide range of backgrounds to join this group, to learn and participate!
-
-**What you can expect**
-* start with a structured onboarding to Balancer algorithms and simulations
-* choose your research question, and team up with co-researchers with complementary skills
-* use [TokenSPICE](https://github.com/oceanprotocol/tokenspice2) and try simulation approaches with EVM in the loop
-* get regular feedback and discuss your work with Ocean Protocol and token engineering peers
-* be well-positioned for ongoing funding from OceanDAO for further Token Engineering research  
-
-**Start:** Friday, June 11, 2021  
-**End:**  Wednesday, July 28, 2021  
-**Duration:** 7 weeks  
-**Time investment:** min. 10 hours/week  
-
-**Skills:** Python, Math & Statistics, solid understanding Balancer Pools/AMMs and smart contracts  
-**Background:** Ideally, you have a background in finance, economics, math, engineering, machine learning, or computer science. Additionally, we are open to participants from other disciplines, like social sciences. If you are keen to be part of Balancer research and development, apply! 
-
-**Format:** online/live  
-**Fee:** free - stake on participation 
-
-**Registration:** The program concluded End of July, a recording of the final presentations is available [here](https://youtu.be/q0dmFNPDBuw). 
+**Registration:** Applications are closed now but our [sessions are open](https://discord.gg/UEBQUmAg7q), feel free to drop by and listen in! 
 
 
 ## Introduction to Token Engineering
