@@ -14,9 +14,24 @@ Feel free to drop by!
 **TE Academy**  
 Online/live 
 
+📆 Monday, September 06/13/20/27, 2021 - 5:00 PM CEST  
+**[TokenSPICE weekly hack](https://calendar.google.com/calendar/u/1?cid=Y192MGRoOXQxcnBsOWpxcXQ1YTRzaDk5dXYzb0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)**  
+**TE Academy**  
+Online/live 
+
 ## August 2021  
+📆 Friday, Aug 13, 2021 - 5:00 PM CEST  
+**[Meet the Governauts - Open co-programming](https://calendar.google.com/event?action=TEMPLATE&tmeid=MXZvbmdrZ2FyOTRlMjExamFqN290b2c2OHUgY19nYmU0Y2JwaWhqaHRybGRiamIwOWw2Mzdzb0Bn&tmsrc=c_gbe4cbpihjhtrldbjb09l637so%40group.calendar.google.com)**  
+**TE Academy**  
+Online/live 
+
 📆 Monday, Aug 09, 2021 - 6:00 PM CEST  
 **[Introduction to Token Engineering](https://www.eventbrite.de/e/introduction-to-token-engineering-tickets-165888309399)**  
+**TE Academy**  
+Online/live 
+
+📆 weekly on Mondays, Aug 09/16/23/30, 2021 - 5:00 PM CEST  
+**[TokenSPICE weekly hack](https://calendar.google.com/calendar/u/1?cid=Y192MGRoOXQxcnBsOWpxcXQ1YTRzaDk5dXYzb0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)**  
 **TE Academy**  
 Online/live 
 
