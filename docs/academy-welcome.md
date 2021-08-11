@@ -22,13 +22,14 @@ Phase 1 - Gaining Community Support
 We start with a [Gitcoin proposal](https://gitcoin.co/grants/2978/incubating-governauts). If you think we need Governauts, or want to become one yourself - show your support, and join our [events](https://twitter.com/governancedao) to discuss today's challenges and most exciting projects.
 
 Phase 2 - Select Cases & Fundraising  
-Let’s solve problems! We’ll collaborate with a couple of hand-picked projects, work on cases and create tangible examples for Governautical superpowers.
+Let’s solve problems! We’ll collaborate with a couple of DAOs, work on cases and create tangible examples for Governautical superpowers.
 
 Phase 3 - Growing the Governauts  
 Come on board! We’ll open up our activities to a wider community and work together in research groups coming up with new solutions for crypto governance.
 
-**Registration:**  
+**Pre-Registration:**  
 Want to participate in research groups? Excited to learn more about #tokenengineering for governance?  
+We are looking for participants from a variety of backgrounds, like systems engineering, data science, political science, and more.
 [Sign-up here](https://forms.gle/zNNLdi8aUKystz3QA), and receive an invitation once we open up applications for phase 3!
 
 
