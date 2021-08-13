@@ -9,13 +9,18 @@ Feel free to drop by!
 
 
 ## September 2021  
-📆 Monday, September 14, 2021 - 10:00 AM CEST  
-**[Introduction to Token Engineering](https://www.eventbrite.de/e/introduction-to-token-engineering-tickets-165888309399)**  
+📆 Monday, September 13, 2021 - 8:00 AM UTC   
+**[Introduction to Token Engineering](https://www.eventbrite.de/e/introduction-to-token-engineering-tickets-165888309399)**    
 **TE Academy**  
 Online/live 
 
-📆 Monday, September 06/13/20/27, 2021 - 5:00 PM CEST  
-**[TokenSPICE weekly hack](https://calendar.google.com/calendar/u/1?cid=Y192MGRoOXQxcnBsOWpxcXQ1YTRzaDk5dXYzb0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)**  
+📆 Friday, September 10, 2021 - 3:00 PM UTC   
+**[Governauts - Reward Systems](https://calendar.google.com/event?action=TEMPLATE&tmeid=NjBwamM2dXI0c3R2YjFxNjZjOXZwc2M2bGQgY19nYmU0Y2JwaWhqaHRybGRiamIwOWw2Mzdzb0Bn&tmsrc=c_gbe4cbpihjhtrldbjb09l637so%40group.calendar.google.com)**   
+**TE Academy**  
+Online/live 
+
+📆 Monday, September 06/13/20/27, 2021 - 3:00 PM UTC   
+**[TokenSPICE weekly hack](https://calendar.google.com/calendar/u/1?cid=Y192MGRoOXQxcnBsOWpxcXQ1YTRzaDk5dXYzb0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)**    
 **TE Academy**  
 Online/live 
 
