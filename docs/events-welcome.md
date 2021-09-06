@@ -9,7 +9,7 @@ Feel free to drop by!
 
 
 ## September 2021  
-📆 Monday, September 13, 2021 - 8:00 AM UTC   
+📆 Tuesday, September 14, 2021 - 8:00 AM UTC   
 **[Introduction to Token Engineering](https://www.eventbrite.de/e/introduction-to-token-engineering-tickets-165888309399)**    
 **TE Academy**  
 Online/live 
