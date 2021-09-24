@@ -3,12 +3,33 @@ id: events-welcome
 title: TokenEngineering Events Calendar
 sidebar_label: Events
 ---
-## TokenEngineering Events & Public Working Sessions
+## TokenEngineering Events & Public Lectures
 In addition to the events listed below, we host community calls and working sessions that are open to anyone interested.  
 Feel free to drop by!  
 
+## October 2021  
+📆 Wednesday, October 13, 2021 - 5:00 PM UTC   
+**[Introduction to Token Engineering](https://forms.gle/JvMQNFnNAFpqfrM18)**    
+**TE Academy**  
+Online/live 
+
+📆 Monday, October 04/11/18/25, 2021 - 3:00 PM UTC   
+**[TokenSPICE weekly hack](https://calendar.google.com/calendar/u/1?cid=Y192MGRoOXQxcnBsOWpxcXQ1YTRzaDk5dXYzb0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)**    
+**TE Academy**  
+Online/live 
+
 
 ## September 2021  
+📆 Wednesday, September 29, 2021 - 4:00 PM UTC  
+**[Engineering dCommerce - Introduction](https://docs.google.com/forms/d/e/1FAIpQLSdsDTmjZoCPbttQ8EglWyQo9seiH_dC8WY3n4I9X2i3tKvdaA/viewform)**  
+**TE Academy**  
+Online/live  
+
+📆 Wednesday, September 16, 2021 - 8:00 AM UTC    
+**[Engineering dCommerce - Introduction](https://docs.google.com/forms/d/e/1FAIpQLSdsDTmjZoCPbttQ8EglWyQo9seiH_dC8WY3n4I9X2i3tKvdaA/viewform)**  
+**TE Academy**  
+Online/live  
+
 📆 Tuesday, September 14, 2021 - 8:00 AM UTC   
 **[Introduction to Token Engineering](https://www.eventbrite.de/e/introduction-to-token-engineering-tickets-165888309399)**    
 **TE Academy**  
@@ -17,7 +38,7 @@ Online/live
 📆 Friday, September 10, 2021 - 3:00 PM UTC   
 **[Governauts - Reward Systems](https://calendar.google.com/event?action=TEMPLATE&tmeid=NjBwamM2dXI0c3R2YjFxNjZjOXZwc2M2bGQgY19nYmU0Y2JwaWhqaHRybGRiamIwOWw2Mzdzb0Bn&tmsrc=c_gbe4cbpihjhtrldbjb09l637so%40group.calendar.google.com)**   
 **TE Academy**  
-Online/live 
+Online/live - recording available [here](https://youtube.com/playlist?list=PL-GxJch-YeZevYcK6SPP2cDdpq0A0hJAd)
 
 📆 Monday, September 06/13/20/27, 2021 - 3:00 PM UTC   
 **[TokenSPICE weekly hack](https://calendar.google.com/calendar/u/1?cid=Y192MGRoOXQxcnBsOWpxcXQ1YTRzaDk5dXYzb0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)**    
@@ -28,7 +49,7 @@ Online/live
 📆 Friday, Aug 13, 2021 - 5:00 PM CEST  
 **[Meet the Governauts - Open co-programming](https://calendar.google.com/event?action=TEMPLATE&tmeid=MXZvbmdrZ2FyOTRlMjExamFqN290b2c2OHUgY19nYmU0Y2JwaWhqaHRybGRiamIwOWw2Mzdzb0Bn&tmsrc=c_gbe4cbpihjhtrldbjb09l637so%40group.calendar.google.com)**  
 **TE Academy**  
-Online/live 
+Online/live - recording available [here](https://youtube.com/playlist?list=PL-GxJch-YeZevYcK6SPP2cDdpq0A0hJAd)
 
 📆 Monday, Aug 09, 2021 - 6:00 PM CEST  
 **[Introduction to Token Engineering](https://www.eventbrite.de/e/introduction-to-token-engineering-tickets-165888309399)**  
@@ -83,7 +104,7 @@ Online/live - recording available [here](https://youtu.be/TDG53PTbqhQ)
 📆 Friday, May 21, 2021 - 6:30 PM CEST  
 **[Engineering dCommerce - Introduction](https://docs.google.com/forms/d/e/1FAIpQLSdsDTmjZoCPbttQ8EglWyQo9seiH_dC8WY3n4I9X2i3tKvdaA/viewform)**
 **TE Academy**  
-Online/live - recording available [here](https://youtu.be/TDG53PTbqhQ)
+Online/live
 
 
 ## April 2021  
@@ -136,7 +157,7 @@ Online/live
 📆 Monday, October 12-30, 2020  
 **[Ecosystem Value Flows](https://tokenengineeringcommunity.github.io/website/docs/academy-welcome)**  
 **TE Academy**  
-3 weeks part-time education program, participation limited, applications until Sept 17 via this form: https://forms.gle/Z3GvKpNq1ZReP5yK8  
+3 weeks part-time education program, participation limited
 
 📆 Monday, October 12, 2020 - 7:00 PM CEST  
 **[Introduction to Token Engineering](https://www.eventbrite.de/e/te-academy-introduction-to-token-engineering-tickets-119400846145)**  
@@ -158,7 +179,7 @@ Online/live
 📆 Thursday-Sunday, July 23-26, 2020 [tba]  
 **[Ecosystem Value Flows](https://tokenengineeringcommunity.github.io/website/docs/academy-welcome/#ecosystem-value-flows)**  
 **TE Academy**  
-Online interactive course, participation limited, applications until July 9 via this form: https://forms.gle/JYThPtAHuJdKkrtq8   
+Online interactive course, participation limited
 
 📆 Thursday, July 20, 2020 [tba]    
 **[Introduction to Token Engineering](https://tokenengineeringcommunity.github.io/website/docs/academy-welcome/#introduction-to-token-engineering)**   
@@ -206,12 +227,12 @@ Recording: https://youtu.be/Jf1rjR6dUH4
 Conference
 
 ## February 2020
-📆 Monday, Feb 24, 2020 - 7:00 PM CET 
+📆 Monday, Feb 24, 2020 - 7:00 PM CET  
 **[Legal Design and Token Engineering](https://www.meetup.com/de-DE/Token-Engineering/events/266831535/)**  
 **Token Engineering Global**  
 Meetup   
 
-📆 Friday, January 17, 2020 - 7:00 PM CET
+📆 Friday, January 17, 2020 - 7:00 PM CET  
 **[Quadratic Funding Applied - Let’s Move the Needle!](https://www.meetup.com/de-DE/Token-Engineering/events/267943069/)**  
 **Token Engineering Global**  
 Online Meetup    
