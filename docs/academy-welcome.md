@@ -58,17 +58,7 @@ We are looking for participants from a variety of backgrounds, like systems engi
 
 **Events:**  
 We run a series of events leading towards the research group. Join us for talks. discussions and workshops!  
-
-Friday, Aug 13, 3:00 pm UTC  
-MEET THE GOVERNAUTS - Open co-programming
-
-Friday, Sep 10, 3:00 pm UTC  
-REWARD SYSTEMS - Lecture and panel discussion
-
 You can find all Governauts events at this [calendar](https://calendar.google.com/calendar/u/1?cid=Y19nYmU0Y2JwaWhqaHRybGRiamIwOWw2Mzdzb0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t).
-
-
-
 
 
 ## Engineering dCommerce
