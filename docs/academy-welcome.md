@@ -7,6 +7,30 @@ sidebar_label: Academy
 
 The TokenEngineering Academy (TE Academy) offers lectures, workshops, and seminars for anyone interested in this new, emerging field. We invite individuals and project teams to learn, collaborate, and put token engineering into practice. Please get in touch if you'd like to bring your team to TE Academy: <contact@tokenengineering.net>. 
 
+## Introduction to Token Engineering
+
+> Supported by
+> **[Gnosis](https://gnosis.io/) and [Ethereum Foundation](https://www.devcon.org/en/#road-to-devcon)**
+
+We are back with the first real-world event since almost two years. We can't wait to meet you all in person again, join us at FullNode Berlin!
+Or, alternatively join us via lifestream.
+
+At this event we'll provide you a first introduction to Token Engineering, and share more information on how to become a token engineer yourself.
+
+- Why Token Engineering?
+- Engineering Ethics
+- Foundations of a new discipline
+- Design goals and steps in the Token Engineering Process
+- Practical application
+- Becoming a Token Engineer
+- TokenEngineering Community overview
+  
+**Date:**  
+Wednesday, October 13th 7pm CEST 
+
+**Registration:**  
+Please register [here](https://forms.gle/JvMQNFnNAFpqfrM18)
+
 ## Incubating Governauts
 
 Today, more and more blockchain projects are relying on decentralized governance as the form of decision-making for their protocol. This means handing power to tokenholders, delegates, or even joining forces and voting with other DAOs.
@@ -103,24 +127,6 @@ This research group aims to onboard aspiring token engineers to this development
 
 **Registration:** Applications are closed now but our [sessions are open](https://discord.gg/UEBQUmAg7q), feel free to drop by and listen in! 
 
-
-## Introduction to Token Engineering
-
-This 90 minutes session provides an introduction to Token Engineering. It covers the following topics:  
-- Why Token Engineering?
-- Engineering Ethics
-- Foundations of a new discipline
-- Design goals and steps in the Token Engineering Process
-- Practical application
-- Becoming a Token Engineer
-- TokenEngineering Community overview
-  
-**Dates:**  
-- August 9th 6pm CEST 
-- September 14th 10am CEST   
-
-**Registration:**  
-Please register [here](https://www.eventbrite.de/e/introduction-to-token-engineering-tickets-165888309399)
 
 
 ## Ecosystem Value Flows
