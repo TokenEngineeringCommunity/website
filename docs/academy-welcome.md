@@ -12,7 +12,7 @@ The TokenEngineering Academy (TE Academy) offers lectures, workshops, and semina
 > Supported by
 > **[Gnosis](https://gnosis.io/) and [Ethereum Foundation](https://www.devcon.org/en/#road-to-devcon)**
 
-! [RAI_Workshop](https://github.com/TokenEngineeringCommunity/website/static/img/Logo_Academy.png?raw=true)
+! [RAI_Workshop](https://github.com/TokenEngineeringCommunity/website/static/img/cadcad-logo.png?raw=true)
 
 
 We are back with the first real-world event since almost two years. We can't wait to meet you all in person again, join us at FullNode Berlin!
