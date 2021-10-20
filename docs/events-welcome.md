@@ -23,6 +23,11 @@ Online/live
 **TE Academy**  
 Online/live 
 
+📆 Monday, November 01/08/15/22/29, 2021 - 4:00 PM UTC   
+**[TokenSPICE weekly hack](https://calendar.google.com/calendar/u/1?cid=Y192MGRoOXQxcnBsOWpxcXQ1YTRzaDk5dXYzb0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)**    
+**TE Academy**  
+Online/live 
+
 ## October 2021  
 📆 Wednesday, October 13, 2021 - 5:00 PM UTC   
 **[Introduction to Token Engineering](https://forms.gle/JvMQNFnNAFpqfrM18)**    
@@ -30,7 +35,7 @@ Online/live
 Online/live 
 
 📆 Monday, October 04/11/18/25, 2021 - 3:00 PM UTC   
-**[TokenSPICE weekly hack](https://calendar.google.com/calendar/u/1?cid=Y192MGRoOXQxcnBsOWpxcXQ1YTRzaDk5dXYzb0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)**    
+**[TokenSPICE Weekly Hack](https://calendar.google.com/calendar/u/1?cid=Y192MGRoOXQxcnBsOWpxcXQ1YTRzaDk5dXYzb0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)**    
 **TE Academy**  
 Online/live 
 
@@ -57,7 +62,7 @@ Online/live
 Online/live - recording available [here](https://youtube.com/playlist?list=PL-GxJch-YeZevYcK6SPP2cDdpq0A0hJAd)
 
 📆 Monday, September 06/13/20/27, 2021 - 3:00 PM UTC   
-**[TokenSPICE weekly hack](https://calendar.google.com/calendar/u/1?cid=Y192MGRoOXQxcnBsOWpxcXQ1YTRzaDk5dXYzb0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)**    
+**[TokenSPICE Weekly Hack](https://calendar.google.com/calendar/u/1?cid=Y192MGRoOXQxcnBsOWpxcXQ1YTRzaDk5dXYzb0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)**    
 **TE Academy**  
 Online/live 
 
