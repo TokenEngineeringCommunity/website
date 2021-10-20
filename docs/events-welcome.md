@@ -7,6 +7,22 @@ sidebar_label: Events
 In addition to the events listed below, we host community calls and working sessions that are open to anyone interested.  
 Feel free to drop by!  
 
+## November 2021  
+📆 Thursday, November 18, 2021 - 3:00pm UTC  
+**[RAI Workshop - Modeling the Money God - Session #3](https://forms.gle/ZpBmdwfPm1UPyZcu9)**    
+**TE Academy**  
+Online/live 
+
+📆 Thursday, November 11, 2021 - 3:00pm UTC  
+**[RAI Workshop - Modeling the Money God - Session #2](https://forms.gle/ZpBmdwfPm1UPyZcu9)**    
+**TE Academy**  
+Online/live 
+
+📆 Thursday, November 4, 2021 - 3:00pm UTC  
+**[RAI Workshop - Modeling the Money God - Session #1](https://forms.gle/ZpBmdwfPm1UPyZcu9)**    
+**TE Academy**  
+Online/live 
+
 ## October 2021  
 📆 Wednesday, October 13, 2021 - 5:00 PM UTC   
 **[Introduction to Token Engineering](https://forms.gle/JvMQNFnNAFpqfrM18)**    
