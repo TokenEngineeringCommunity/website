@@ -7,12 +7,37 @@ sidebar_label: Academy
 
 The TokenEngineering Academy (TE Academy) offers lectures, workshops, and seminars for anyone interested in this new, emerging field. We invite individuals and project teams to learn, collaborate, and put token engineering into practice. Please get in touch if you'd like to bring your team to TE Academy: <contact@tokenengineering.net>. 
 
+![RAI_Workshop](/img/RAI_WS.jpg.png)
+## RAI Workshop - Modeling the Money God
+
+> The Token Engineering Academy is partnering with Reflexer Labs and BlockScience to host a 3-session workshop on the RAI protocol cadCAD digital twin.
+
+The recently open sourced model is ripe for exploration and tinkering. These workshops will cover an introduction to the RAI Protocol and a walk-through on how to execute & modify the model itself. 
+
+**Session 1 - Thursday, November 4th, 2021 @ 4pm CET**  
+Introduction to RAI & Operational Digital Twins,  
+and how to run the RAI digital twin model
+
+**Session 2 - Thursday, November 11th 2021 @ 4pm CET**  
+Understanding the RAI Digital Twin,  
+walkthrough data inputs / outputs, and model execution cycle
+
+**Session 3 - Thursday, November 18th 2021 @ 4pm CET**  
+Leveraging the RAI Digital Twin,  
+changing the cadCAD model parameters and introducing the behavioral model
+
+➡️ [Register here](https://forms.gle/ZpBmdwfPm1UPyZcu9) to receive more scheduling information.
+
+Looking for more content? Check out these materials from BlockScience:
+
+- [Video walkthrough](https://www.youtube.com/watch?v=CLOr-xVePJ0) of the repo 
+- Post from the original [launch of RAI](https://medium.com/reflexer-labs/summoning-the-money-god-2a3f3564a5f2)
+- The open-sourced [model on GitHub](https://github.com/BlockScience/reflexer)
+
 ## Introduction to Token Engineering
 
 > Supported by
 > **[Gnosis](https://gnosis.io/) and [Ethereum Foundation](https://www.devcon.org/en/#road-to-devcon)**
-
-![TestImg](/img/blockscience-logo.png)
 
 We are back with the first real-world event since almost two years. We can't wait to meet you all in person again, join us at FullNode Berlin!
 Or, alternatively join us via lifestream.
