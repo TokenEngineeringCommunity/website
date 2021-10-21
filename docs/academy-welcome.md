@@ -7,7 +7,7 @@ sidebar_label: Academy
 
 The TokenEngineering Academy (TE Academy) offers lectures, workshops, and seminars for anyone interested in this new, emerging field. We invite individuals and project teams to learn, collaborate, and put token engineering into practice. Please get in touch if you'd like to bring your team to TE Academy: <contact@tokenengineering.net>. 
 
-![RAI_Workshop](/img/RAI_WS.jpg.png)
+![RAI_Workshop](/img/RAI_WS.jpg)
 ## RAI Workshop - Modeling the Money God
 
 > The Token Engineering Academy is partnering with Reflexer Labs and BlockScience to host a 3-session workshop on the RAI protocol cadCAD digital twin.
