@@ -34,6 +34,11 @@ Online/live
 Online/live 
 
 ## October 2021  
+📆 Thursday, October 28, 2021 - 3:00 pm UTC   
+**[OMNIPool Engineering and Simulations Final Presentations](https://calendar.google.com/event?action=TEMPLATE&tmeid=aHNoMmMwbjZnbWJmYjd1ajQ0MXBvdDJvcDRfMjAyMTEwMjhUMTUwMDAwWiBjXzFlZWhpZjhvdmptYXN2YzdxMjIwZmU3Yzg4QGc&tmsrc=c_1eehif8ovjmasvc7q220fe7c88%40group.calendar.google.com&scp=ALL)**    
+**TE Academy**  
+Online/live 
+
 📆 Wednesday, October 13, 2021 - 5:00 PM UTC   
 **[Introduction to Token Engineering](https://forms.gle/JvMQNFnNAFpqfrM18)**    
 **TE Academy**  
