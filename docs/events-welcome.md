@@ -13,6 +13,11 @@ Feel free to drop by!
 **TE Academy**  
 Online/live 
 
+📆 Tuesday, November 16, 2021 - time to be announced  
+**[Kick-off DAO Rewards Systems](https://forms.gle/VMvjoXAYmQWkedPn9)**    
+**TE Academy**  
+Online/live - limited no. of participants, please apply [here](https://forms.gle/VMvjoXAYmQWkedPn9)
+
 📆 Thursday, November 11, 2021 - 3:00pm UTC  
 **[RAI Workshop - Modeling the Money God - Session #2](https://forms.gle/ZpBmdwfPm1UPyZcu9)**    
 **TE Academy**  
