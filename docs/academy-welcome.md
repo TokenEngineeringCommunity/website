@@ -11,7 +11,7 @@ The TokenEngineering Academy (TE Academy) offers lectures, workshops, and semina
 ## RAI Workshop - Modeling the Money God
 ![RAI_Workshop](/img/RAI_WS.jpg)
 
-> The Token Engineering Academy is partnering with Reflexer Labs and BlockScience to host a 3-session workshop on the RAI protocol cadCAD digital twin.
+_**The Token Engineering Academy is partnering with Reflexer Labs and BlockScience to host a 3-session workshop on the RAI protocol cadCAD digital twin.**_  
 
 The recently open sourced model is ripe for exploration and tinkering. These workshops will cover an introduction to the RAI Protocol and a walk-through on how to execute & modify the model itself. 
 
@@ -35,78 +35,42 @@ Looking for more content? Check out these materials from BlockScience:
 - Post from the original [launch of RAI](https://medium.com/reflexer-labs/summoning-the-money-god-2a3f3564a5f2)
 - The open-sourced [model on GitHub](https://github.com/BlockScience/reflexer)
 
-## Introduction to Token Engineering
+## DAO Rewards Systems
+![Rewards Systems](/img/RewardsSystems_form.jpg)
 
-> Supported by
-> **[Gnosis](https://gnosis.io/) and [Ethereum Foundation](https://www.devcon.org/en/#road-to-devcon)**
-
-We are back with the first real-world event since almost two years. We can't wait to meet you all in person again, join us at FullNode Berlin!
-Or, alternatively join us via lifestream.
-
-At this event we'll provide you a first introduction to Token Engineering, and share more information on how to become a token engineer yourself.
-
-- Why Token Engineering?
-- Engineering Ethics
-- Foundations of a new discipline
-- Design goals and steps in the Token Engineering Process
-- Practical application
-- Becoming a Token Engineer
-- TokenEngineering Community overview
-  
-**Date:**  
-Wednesday, October 13th 7pm CEST 
-
-**Registration:**  
-Please register [here](https://forms.gle/JvMQNFnNAFpqfrM18)
-
-## Incubating Governauts
+_**A Governauts #OpenScience initiative for TokenEngineers & DAOists in collaboration with [OceanDAO](https://oceanprotocol.com/dao) and [Boson Protocol](https://www.bosonprotocol.io/) - apply and come on board as a community co-researcher, or attend our open lectures!**_
 
 Today, more and more blockchain projects are relying on decentralized governance as the form of decision-making for their protocol. This means handing power to tokenholders, delegates, or even joining forces and voting with other DAOs.
 
-While this is an exciting trend, we're also faced with new challenges like defining effective voting mechanisms, maximizing community participation, or fighting voter fraud.  
-To tackle these challenges, we need experts in Token Engineering.
-Here, we can draw from fields like Mechanism Design, Operations Research, Psychology, Decisions Science, and Political Science. We can apply data analytics, ML, simulations and formulate accountability feedback loops as we are shaping a new [social reality](https://medium.com/block-science/algorithms-as-policy-44e289d34a65). 
+While this is an exciting trend, we're also faced with new challenges like defining effective voting mechanisms, maximizing community participation, or fighting voter fraud. To tackle these challenges, we need experts in Token Engineering - the Governauts, as we are shaping a new [social reality](https://medium.com/block-science/algorithms-as-policy-44e289d34a65).
 
-**Incubating the Governauts is an initiative to establish a new branch in Token Engineering, focusing on governance.** 
+**The Governauts Rewards Systems Research Initiative is a 3-months program to explore incentives in a DAO context.**
 
-Our roadmap:  
-Phase 1 - Gaining Community Support  
-We start with a [Gitcoin proposal](https://gitcoin.co/grants/2978/incubating-governauts). If you think we need Governauts, or want to become one yourself - show your support, and join our [events](https://twitter.com/governancedao) to discuss today's challenges and most exciting projects.
+Rewards Systems are a key element for DAOs to grow the ecosystem value, reward contributors, and grant decision-making power (governance tokens) to those who provide value to a DAO.
 
-Phase 2 - Select Cases & Fundraising  
-Let’s solve problems! We’ll collaborate with a couple of DAOs, work on cases and create tangible examples for Governautical superpowers.
+In this program, we'll explore different DAO cases, analyze data, design mechanism improvements and verify our assumptions with experiments in real-DAO environments.
 
-Phase 3 - Growing the Governauts  
-Come on board! We’ll open up our activities to a wider community and work together in research groups coming up with new solutions for crypto governance.
+Here's what you can expect:
 
-**Pre-Registration:**  
-Want to participate in research groups? Excited to learn more about #tokenengineering for governance?  
-We are looking for participants from a variety of backgrounds, like systems engineering, data science, political science, and more.
-[Sign-up here](https://forms.gle/zNNLdi8aUKystz3QA), and receive an invitation once we open up applications for phase 3!
+- get an in-depth introduction to various DAO rewards systems in production, and discuss with DAO stakeholders
+- learn to explore DAO data and verify our assumptions about DAO contributors
+- meet other Governauts and collaborate on new token-based compensation mechanisms  
+- learn how to model rewards systems and apply your cadCAD skills!
 
-**Events:**  
-We run a series of events leading towards the research group. Join us for talks. discussions and workshops!  
-You can find all Governauts events at this [calendar](https://calendar.google.com/calendar/u/1?cid=Y19nYmU0Y2JwaWhqaHRybGRiamIwOWw2Mzdzb0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t).
+**This is a multidisciplinary program!** We welcome co-researchers from many fields, like behavioral economics, (computational) psychology, sociology, game design, engineering, math, data analytics or computer science - and of course: DAOists!  
 
+**Start:** Tuesday, Nov 16, 2021  
+**End:** Thursday, Feb 24, 2022  
+**Duration:** 12 weeks  
 
-## Engineering dCommerce
+**Time investment:** ~15 hours/week on average  
+**Skills:** Data Analysis, Python, Math & Statistics, cadCAD, and/or tokenSPICE most welcome, but not mandatory  
+**Format:** online/live    
 
-> A collaboration of  
-> **[Boson Protocol](https://bosonprotocol.io) and TE Academy**
+**Registration:** The number of participants in this program is limited. Please apply [here](https://forms.gle/VMvjoXAYmQWkedPn9).  
+**Registration deadline:** Sunday, Nov 7, 2021 - 11:59 pm UTC  
 
-Today, eCommerce happens within closed, monopolized digital platforms. What could those platforms look like if they were founded on permissionless, decentralized protocols? [Boson Protocol](https://www.bosonprotocol.io) is calling this radical, new proposition dCommerce, and we believe its challenges and opportunities are on the leading edge of our Token Engineering field. 
-
-Building the #dCommerce ecosystem requires more than great minds. It calls for applied knowledge, multidisciplinary collaboration, and a community of builders and researchers from [#eCommerce](https://twitter.com/hashtag/eCommerce?src=hashtag_click) to [#Web3](https://twitter.com/hashtag/Web3?src=hashtag_click) coming together to develop such complex yet robust crypto-economic systems.
-
-Engineering dCommerce is a program that gathers exceptional contributors, researchers, and protocols to be catalysts and pioneers of this liminal new field of work. Join us for educational sessions, workshops, and updates on Token Engineering research in this sector.
-
-We invite participants from various backgrounds such as e-commerce, data science and analytics, marketing, digital product, operations and fulfillment, and business finance. This program is the perfect starting point for digital pros looking to enter crypto and build the future of commerce.
-Do you have an engineering and/or economics background, or even first experience in Token Engineering? Great, join Engineering dCommerce and put your skills to work in a field that impacts the lives of many.
-
-**Registration:**
-[Register here](https://forms.gle/g3L5WBLCRZLp7ezu8) to participate in our sessions and further activities we’ll roll out in the course of 2021.  
-**Application deadline:** Thursday September 30, 2021, at 6:00 pm CEST  
-**Fee:** free
+**Events:** We run a series of talks and open lectures as part of this research initiative program that is open to anyone interested. Stay tuned for our program announcements via the Governauts on [Twitter](https://Twitter.com/GovernanceDAO) or [Telegram](https://t.me/GovCommons).
 
 
 ## OMNIPool Engineering and Simulations
@@ -146,27 +110,6 @@ This research group aims to onboard aspiring token engineers to this development
 **Registration:** Applications are closed now but our [sessions are open](https://discord.gg/UEBQUmAg7q), feel free to drop by and listen in! 
 
 
-
-## Ecosystem Value Flows
-
-This course picks up where "[Business Model Generation](https://en.wikipedia.org/wiki/Business_Model_Canvas#cite_note-Osterwalder2010-3)" ends. The first phase in Token Model Generation consists of analyzing and specifying the value network of organizations and individuals to be tokenized. We'll start with canvases familiar to business and product architects, with adaptations to help us focus on value flows and motivations as inputs for incentive [mechanism design](https://en.wikipedia.org/wiki/Mechanism_design). We'll train to consciously take the macro and micro perspective, and will apply various methods for visualization and specification. Finally, the value network description will be carried out in [value flow](https://systemic2016.wordpress.com/system-dynamics-stock-and-flow-modelling/) diagrams.  
-
-Course Structure:  
-Module 1: Ecosystem Purpose & Members  
-Module 2: Incentives  
-Module 3: Games for Token Economy Co-Creation  
-Module 4: Value Flows  
-Module 5: Governance  
-
-With this output, you will be ready for the next phases of the Token Model Generation: applying existing cryptoeconomic patterns, adaptations, and new mechanisms.  
-
-**Time investment:** 15-20 hours per week, according to to self-defined learning goals and modules selected 
-
-**Registration:**  
-Round 3 of Ecosystem Value Flows took place in May 2021. The start date of the next cohort is not defined, yet.
-In case you are interested to take part in the next cohort, please [register here](https://forms.gle/qPs7BCjh4tAADpfV7) and we'll inform you as soon as we open up applications again. 
-
-**Format:** live sessions, online content, mentoring sessions & feedback rounds 
 
 
 
