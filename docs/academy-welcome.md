@@ -67,7 +67,7 @@ Here's what you can expect:
 **Skills:** Data Analysis, Python, Math & Statistics, cadCAD, and/or tokenSPICE most welcome, but not mandatory  
 **Format:** online/live    
 
-**Registration:** The number of participants in this program is limited. Please apply [here](https://forms.gle/VMvjoXAYmQWkedPn9).  
+➡️ **Registration:** The number of participants in this program is limited. Please apply [here](https://forms.gle/VMvjoXAYmQWkedPn9).  
 **Registration deadline:** Sunday, Nov 7, 2021 - 11:59 pm UTC  
 
 **Events:** We run a series of talks and open lectures as part of this research initiative program that is open to anyone interested. Stay tuned for our program announcements via the Governauts on [Twitter](https://Twitter.com/GovernanceDAO) or [Telegram](https://t.me/GovCommons).
@@ -75,8 +75,11 @@ Here's what you can expect:
 
 ## OMNIPool Engineering and Simulations
 
-> A collaboration of 
-> **[HydraDX](https://hydradx.io/)**, **[BlockScience](https://block.science/)** and TE Academy
+_**A collaboration of**_
+_**[HydraDX](https://hydradx.io/)**, **[BlockScience](https://block.science/)** and TE Academy**_
+
+➡️ FINAL PRESENTATIONS: Thursday, October 28, 2021 - 3pm UTC  
+➡️ Add to your calendar [here](https://calendar.google.com/event?action=TEMPLATE&tmeid=aHNoMmMwbjZnbWJmYjd1ajQ0MXBvdDJvcDRfMjAyMTEwMjhUMTUwMDAwWiBjXzFlZWhpZjhvdmptYXN2YzdxMjIwZmU3Yzg4QGc&tmsrc=c_1eehif8ovjmasvc7q220fe7c88%40group.calendar.google.com&scp=ALL).
 
 [HydraDX](https://hydradx.io/) is a cross-chain liquidity protocol managing all assets in one shared liquidity pool. It is powered by Substrate and designed to be interoperable with other networks, including Ethereum-based assets.
 
