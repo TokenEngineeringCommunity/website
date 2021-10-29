@@ -36,9 +36,9 @@ Looking for more content? Check out these materials from BlockScience:
 - The open-sourced [model on GitHub](https://github.com/BlockScience/reflexer)
 
 ## DAO Rewards Systems
-![Rewards Systems](/img/RewardsSystems_form.jpg)
+![Rewards Systems](/img/RewardsSystems_wide.jpg)
 
-_**A Governauts #OpenScience initiative for TokenEngineers & DAOists in collaboration with [OceanDAO](https://oceanprotocol.com/dao) and [Boson Protocol](https://www.bosonprotocol.io/) - apply and come on board as a community co-researcher, or attend our open lectures!**_
+_**A Governauts #OpenScience initiative for TokenEngineers & DAOists in collaboration with [OceanDAO](https://oceanprotocol.com/dao), [NearDAO](https://near.org/) and [Boson Protocol](https://www.bosonprotocol.io/) - apply and come on board as a community co-researcher, or attend our open lectures!**_
 
 Today, more and more blockchain projects are relying on decentralized governance as the form of decision-making for their protocol. This means handing power to tokenholders, delegates, or even joining forces and voting with other DAOs.
 
