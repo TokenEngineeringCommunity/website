@@ -9,7 +9,7 @@ Feel free to drop by!
 
 ## December 2021  
 📆 Friday, December 10, 2021 - 12:00noon-07:00pm UTC  
-**[DAO Rewards Systems Gathering](https://forms.gle/GgrVAHVtCDGjjQbb7)**    
+**[DAO Rewards Systems Assemblage](https://forms.gle/GgrVAHVtCDGjjQbb7)**    
 **TE Academy**  
 Online/live 
 
