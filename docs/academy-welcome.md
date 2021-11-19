@@ -23,7 +23,7 @@ Our agenda:
 …plus case presentations and tools!
 
 **Some of the speakers confirmed:**  
-@Owocki / GitcoinDAO
+@Owocki / GitcoinDAO  
 @Liviade / TECommons  
 @pet3rpan / MetaCartel  
 @keikreutler / Zodiac  
@@ -31,9 +31,9 @@ Our agenda:
 @fifthworldzach / Coordinape  
 
 
-**Date:** Friday, Dec 10, 2021
-**Time:** 12:00noon-07:00pm UTC
-**Location:** online
+**Date:** Friday, Dec 10, 2021  
+**Time:** 12:00noon-07:00pm UTC  
+**Location:** online  
 
 ➡️ **Registration:** Register here and receive a calendar invite with all links and the agenda https://forms.gle/GgrVAHVtCDGjjQbb7 
 
