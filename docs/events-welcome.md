@@ -7,6 +7,12 @@ sidebar_label: Events
 In addition to the events listed below, we host community calls and working sessions that are open to anyone interested.  
 Feel free to drop by!  
 
+## December 2021  
+📆 Friday, December 10, 2021 - 12:00noon-07:00pm UTC  
+**[DAO Rewards Systems Gathering](https://forms.gle/GgrVAHVtCDGjjQbb7)**    
+**TE Academy**  
+Online/live 
+
 ## November 2021  
 📆 Thursday, November 18, 2021 - 3:00pm UTC  
 **[RAI Workshop - Modeling the Money God - Session #3](https://forms.gle/ZpBmdwfPm1UPyZcu9)**    
