@@ -7,7 +7,7 @@ sidebar_label: Academy
 
 The TokenEngineering Academy (TE Academy) offers lectures, workshops, and seminars for anyone interested in this new, emerging field. We invite individuals and project teams to learn, collaborate, and put token engineering into practice. Please get in touch if you'd like to bring your team to TE Academy: <contact@tokenengineering.net>. 
 
-## DAO Rewards Systems Gathering
+## DAO Rewards Systems Assemblage
 ![Rewards Systems Gathering](/img/DAO_RS_gathering_wide.jpg)
 
 _*Join us for a full day of talks, discussions and workshops on DAO Rewards Systems - presented by the [Governauts](https://twitter.com/GovernanceDAO), [The DAOist](https://www.thedaoist.co/) and TE Academy!*_
