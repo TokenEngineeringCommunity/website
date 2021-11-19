@@ -7,38 +7,40 @@ sidebar_label: Academy
 
 The TokenEngineering Academy (TE Academy) offers lectures, workshops, and seminars for anyone interested in this new, emerging field. We invite individuals and project teams to learn, collaborate, and put token engineering into practice. Please get in touch if you'd like to bring your team to TE Academy: <contact@tokenengineering.net>. 
 
+## DAO Rewards Systems Gathering
+![Rewards Systems Gathering](/img/DAO_RS_gathering_wide.jpg)
 
-## RAI Workshop - Modeling the Money God
-![RAI_Workshop](/img/RAI_WS.jpg)
+_*Join us for a full day of talks, discussions and workshops on DAO Rewards Systems - presented by the [Governauts](https://twitter.com/GovernanceDAO), [The DAOist](https://www.thedaoist.co/) and TE Academy!*_
 
-_**The Token Engineering Academy is partnering with Reflexer Labs and BlockScience to host a 3-session workshop on the RAI protocol cadCAD digital twin.**_  
+Our agenda:  
+- Defining Success and measuring value add in DAOs
+- The Challenge of Rewards Systems
+- Community Evolution
+- Intrisic/Extrinsic Motivation
+- Information overload and steering activities
+- Ownership Rewards, power distribution and equal opportunitites
+- DAOs and UBI  
+…plus case presentations and tools!
 
-The recently open sourced model is ripe for exploration and tinkering. These workshops will cover an introduction to the RAI Protocol and a walk-through on how to execute & modify the model itself. 
+**Some of the speakers confirmed:**  
+@Owocki / GitcoinDAO
+@Liviade / TECommons  
+@pet3rpan / MetaCartel  
+@keikreutler / Zodiac  
+@duartedao / TheDAOist  
+@fifthworldzach / Coordinape  
 
-**Session 1 - Thursday, November 4th, 2021 @ 4pm CET**  
-Introduction to RAI & Operational Digital Twins,  
-and how to run the RAI digital twin model
 
-**Session 2 - Thursday, November 11th 2021 @ 4pm CET**  
-Understanding the RAI Digital Twin,  
-walkthrough data inputs / outputs, and model execution cycle
+**Date:** Friday, Dec 10, 2021
+**Time:** 12:00noon-07:00pm UTC
+**Location:** online
 
-**Session 3 - Thursday, November 18th 2021 @ 4pm CET**  
-Leveraging the RAI Digital Twin,  
-changing the cadCAD model parameters and introducing the behavioral model
+➡️ **Registration:** Register here and receive a calendar invite with all links and the agenda https://forms.gle/GgrVAHVtCDGjjQbb7 
 
-➡️ [Register here](https://forms.gle/ZpBmdwfPm1UPyZcu9) to receive more scheduling information.
-
-Looking for more content? Check out these materials from BlockScience:
-
-- [Video walkthrough](https://www.youtube.com/watch?v=CLOr-xVePJ0) of the repo 
-- Post from the original [launch of RAI](https://medium.com/reflexer-labs/summoning-the-money-god-2a3f3564a5f2)
-- The open-sourced [model on GitHub](https://github.com/BlockScience/reflexer)
 
 ## DAO Rewards Systems
-![Rewards Systems](/img/RewardsSystems_wide.jpg)
 
-_**A Governauts #OpenScience initiative for TokenEngineers & DAOists in collaboration with [OceanDAO](https://oceanprotocol.com/dao), [NearDAO](https://near.org/) and [Boson Protocol](https://www.bosonprotocol.io/) - apply and come on board as a community co-researcher, or attend our open lectures!**_
+_**A Governauts #OpenScience initiative for TokenEngineers & DAOists in collaboration with [OceanDAO](https://oceanprotocol.com/dao), [NearDAO](https://near.org/), [GnosisDAO](https://gnosis.io/gnosisdao/), [TECommons](https://tecommons.org/) and [Boson Protocol](https://www.bosonprotocol.io/)**_
 
 Today, more and more blockchain projects are relying on decentralized governance as the form of decision-making for their protocol. This means handing power to tokenholders, delegates, or even joining forces and voting with other DAOs.
 
@@ -67,10 +69,17 @@ Here's what you can expect:
 **Skills:** Data Analysis, Python, Math & Statistics, cadCAD, and/or tokenSPICE most welcome, but not mandatory  
 **Format:** online/live    
 
-➡️ **Registration:** The number of participants in this program is limited. Please apply [here](https://forms.gle/VMvjoXAYmQWkedPn9).  
-**Registration deadline:** Sunday, Nov 7, 2021 - 11:59 pm UTC  
+**Registration:** Registrations are closed now - we've selected all community researchers for this program. All work sessions are open for anyone interested - join our Discord to follow the discussion: https://discord.gg/MQngXPct
 
-**Events:** We run a series of talks and open lectures as part of this research initiative program that is open to anyone interested. Stay tuned for our program announcements via the Governauts on [Twitter](https://Twitter.com/GovernanceDAO) or [Telegram](https://t.me/GovCommons).
+
+## RAI Workshop - Modeling the Money God
+
+_**The Token Engineering Academy is partnering with Reflexer Labs and BlockScience to host a 3-session workshop on the RAI protocol cadCAD digital twin.**_  
+
+The recently open sourced model is ripe for exploration and tinkering. These workshops will cover an introduction to the RAI Protocol and a walk-through on how to execute & modify the model itself. 
+
+The RAI Workshop series has been hosted in November 2021 - the recordings of all sessions are available [at our YouTube channel](https://youtube.com/playlist?list=PL-GxJch-YeZerVVV8dY8qU2VkJfbnSfdN)
+
 
 
 ## OMNIPool Engineering and Simulations
@@ -110,7 +119,7 @@ This research group aims to onboard aspiring token engineers to this development
 **Fee:** free  
 **Number of participants:** max. 25  
 
-**Registration:** Applications are closed now but our [sessions are open](https://discord.gg/UEBQUmAg7q), feel free to drop by and listen in! 
+**Registration:** The program concluded in October 2022, but our session recordings are available [here](https://youtube.com/playlist?list=PL-GxJch-YeZfjcwjCwwNSRGjnSBdapOtA), feel free to drop by and listen in! 
 
 
 
