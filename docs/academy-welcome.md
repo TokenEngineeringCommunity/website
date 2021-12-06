@@ -16,26 +16,27 @@ Our agenda:
 - Defining Success and measuring value add in DAOs
 - The Challenge of Rewards Systems
 - Community Evolution
-- Intrisic/Extrinsic Motivation
+- Intrinsic/Extrinsic Motivation
 - Information overload and steering activities
 - Ownership Rewards, power distribution and equal opportunitites
 - DAOs and UBI  
 …plus case presentations and tools!
 
-**Some of the speakers confirmed:**  
+**Our speakers:**  
 @Owocki / GitcoinDAO  
 @Liviade / TECommons  
 @pet3rpan / MetaCartel  
 @keikreutler / Zodiac  
 @duartedao / TheDAOist  
 @fifthworldzach / Coordinape  
+...and many more!
 
 
 **Date:** Friday, Dec 10, 2021  
-**Time:** 12:00noon-07:00pm UTC  
+**Time:** 11:30noon-08:00pm UTC  
 **Location:** online  
 
-➡️ **Registration:** Register here and receive a calendar invite with all links and the agenda https://forms.gle/GgrVAHVtCDGjjQbb7 
+➡️ **Registration:** https://forms.gle/GgrVAHVtCDGjjQbb7 
 
 
 ## DAO Rewards Systems
