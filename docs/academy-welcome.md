@@ -73,6 +73,7 @@ Here's what you can expect:
 
 
 ## RAI Workshop - Modeling the Money God
+![RAI_Workshops](/img/RAI_WS.jpg)
 
 _**The Token Engineering Academy is partnering with Reflexer Labs and BlockScience to host a 3-session workshop on the RAI protocol cadCAD digital twin.**_  
 
@@ -87,8 +88,7 @@ The RAI Workshop series has been hosted in November 2021 - the recordings of all
 _**A collaboration of**_
 _**[HydraDX](https://hydradx.io/)**, **[BlockScience](https://block.science/)** and TE Academy**_
 
-➡️ FINAL PRESENTATIONS: Thursday, October 28, 2021 - 3pm UTC  
-➡️ Add to your calendar [here](https://calendar.google.com/event?action=TEMPLATE&tmeid=aHNoMmMwbjZnbWJmYjd1ajQ0MXBvdDJvcDRfMjAyMTEwMjhUMTUwMDAwWiBjXzFlZWhpZjhvdmptYXN2YzdxMjIwZmU3Yzg4QGc&tmsrc=c_1eehif8ovjmasvc7q220fe7c88%40group.calendar.google.com&scp=ALL).
+➡️ The FINAL PRESENTATIONS of this program took place on Oct 28, 2021. Watch a recording at our [YouTube Channel](https://youtube.com/playlist?list=PL-GxJch-YeZfjcwjCwwNSRGjnSBdapOtA)! 
 
 [HydraDX](https://hydradx.io/) is a cross-chain liquidity protocol managing all assets in one shared liquidity pool. It is powered by Substrate and designed to be interoperable with other networks, including Ethereum-based assets.
 
