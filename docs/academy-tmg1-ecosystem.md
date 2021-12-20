@@ -12,8 +12,6 @@ This course is for individuals or project teams who are
 + in the process of further developing a viable tokenized economy, e.g., based on an initial white paper  
 + looking for tools and a structured process to collaboratively iterate on the system design e.g., with developers, advisors, and the community  
 
-For all details on the schedule, fees, and application process, please check the [course details](https://tokenengineeringcommunity.github.io/website/docs/academy-welcome/). 
-
 The first phase of Ecosystem Value Flow design consists of analyzing and specifying the value network of organizations and individuals. We start with canvases that are familiar to business and platform architects. For the purpose of token engineering design, we adapted these frameworks to help us focus on value flows and motivations as inputs for incentive mechanism design. We'll train to consciously take the macro and micro perspective, and will apply various methods for value flow visualization and specification. Finally, the value network description will be carried out in [Stocks & Flows](https://systemic2016.wordpress.com/system-dynamics-stock-and-flow-modelling/) diagrams.
 
 **Course Structure:**  
@@ -29,3 +27,7 @@ At the end of this course, you will produce an adapted version of Stock & Flow d
 This course focuses on specifying ecosystem value flows and communicating them in a visual language appropriate for domain and technical stakeholders.
 A token engineer will continue by applying existing Cryptoeconomic Patterns, adapting them, and/or creating new mechanisms, observing the changes in the specification, and discussing these with stakeholders.
 In the next stages of Computer-aided Design you or your technical counterpart can further specify the dynamic model using [Differential Specification Syntax](https://community.cadcad.org/t/differential-specification-syntax-key/31) and simulate using [cadCAD](https://cadcad.org/). This process is iterative and aims to make assumptions explicit, stress test, and improve the models.
+
+### Registration
+The dates for the next cohort of this course in 2022 haven't been defined, yet. 
+In case you are interested, please reach out to contact@tokenengineering.net.
