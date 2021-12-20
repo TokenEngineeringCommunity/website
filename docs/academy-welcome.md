@@ -69,7 +69,7 @@ Here's what you can expect:
 **Skills:** Data Analysis, Python, Math & Statistics, cadCAD, and/or tokenSPICE most welcome, but not mandatory  
 **Format:** online/live    
 
-**Registration:** Registrations are closed now - we've selected all community researchers for this program. All work sessions are open for anyone interested - join our Discord to follow the discussion: https://discord.gg/MQngXPct.
+**Registration:** Registrations are closed now - we've selected all community researchers for this program. All work sessions are open for anyone interested - [join our Discord](https://discord.gg/ywNHXzNBfk) to follow the discussion!
 
 
 ## RAI Workshop - Modeling the Money God
