@@ -12,7 +12,7 @@ The TokenEngineering Academy (TE Academy) offers lectures, workshops, and semina
 
 _*A full day of talks, discussions and workshops on DAO Rewards Systems - presented by the [Governauts](https://twitter.com/GovernanceDAO), [The DAOist](https://www.thedaoist.co/) and TE Academy!*_
 
-The DAO Rewards Systems Assemblage took place on Dec 10, 2021. 
+The DAO Rewards Systems Assemblage took place on Dec 10, 2021.  
 Watch the recording of the event at our [YouTube Channel](https://youtu.be/wndDaI-eNgc)!
 
 Our agenda:  
@@ -69,7 +69,7 @@ Here's what you can expect:
 **Skills:** Data Analysis, Python, Math & Statistics, cadCAD, and/or tokenSPICE most welcome, but not mandatory  
 **Format:** online/live    
 
-**Registration:** Registrations are closed now - we've selected all community researchers for this program. All work sessions are open for anyone interested - join our Discord to follow the discussion: https://discord.gg/MQngXPct
+**Registration:** Registrations are closed now - we've selected all community researchers for this program. All work sessions are open for anyone interested - join our Discord to follow the discussion: https://discord.gg/MQngXPct.
 
 
 ## RAI Workshop - Modeling the Money God
@@ -79,7 +79,7 @@ _**The Token Engineering Academy is partnering with Reflexer Labs and BlockScien
 
 The recently open sourced model is ripe for exploration and tinkering. These workshops will cover an introduction to the RAI Protocol and a walk-through on how to execute & modify the model itself. 
 
-The RAI Workshop series has been hosted in November 2021 - the recordings of all sessions are available [at our YouTube channel](https://youtube.com/playlist?list=PL-GxJch-YeZerVVV8dY8qU2VkJfbnSfdN)
+The RAI Workshop series has been hosted in November 2021 - the recordings of all sessions are available [at our YouTube channel](https://youtube.com/playlist?list=PL-GxJch-YeZerVVV8dY8qU2VkJfbnSfdN).
 
 
 
