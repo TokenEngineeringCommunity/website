@@ -10,7 +10,10 @@ The TokenEngineering Academy (TE Academy) offers lectures, workshops, and semina
 ## DAO Rewards Systems Assemblage
 ![Rewards Systems Gathering](/img/DAO_RS_gathering_wide.jpg)
 
-_*Join us for a full day of talks, discussions and workshops on DAO Rewards Systems - presented by the [Governauts](https://twitter.com/GovernanceDAO), [The DAOist](https://www.thedaoist.co/) and TE Academy!*_
+_*A full day of talks, discussions and workshops on DAO Rewards Systems - presented by the [Governauts](https://twitter.com/GovernanceDAO), [The DAOist](https://www.thedaoist.co/) and TE Academy!*_
+
+The DAO Rewards Systems Assemblage took place on Dec 10, 2021. 
+Watch the recording of the event at our [YouTube Channel](https://youtu.be/wndDaI-eNgc)!
 
 Our agenda:  
 - Defining Success and measuring value add in DAOs
@@ -21,6 +24,7 @@ Our agenda:
 - Ownership Rewards, power distribution and equal opportunitites
 - DAOs and UBI  
 …plus case presentations and tools!
+The agenda with all talks and speakers is available [here](https://www.notion.so/te-academy/DAO-Rewards-Systems-Assemblage-784e664e4496482e9ccf5982e8669afa).
 
 **Our speakers:**  
 @Owocki / GitcoinDAO  
@@ -31,12 +35,7 @@ Our agenda:
 @fifthworldzach / Coordinape  
 ...and many more!
 
-
-**Date:** Friday, Dec 10, 2021  
-**Time:** 11:30noon-08:00pm UTC  
-**Location:** online  
-
-➡️ **Registration:** https://forms.gle/GgrVAHVtCDGjjQbb7 
+➡️ **Watch the recording:** https://youtu.be/wndDaI-eNgc 
 
 
 ## DAO Rewards Systems
@@ -120,7 +119,7 @@ This research group aims to onboard aspiring token engineers to this development
 **Fee:** free  
 **Number of participants:** max. 25  
 
-**Registration:** The program concluded in October 2022, but our session recordings are available [here](https://youtube.com/playlist?list=PL-GxJch-YeZfjcwjCwwNSRGjnSBdapOtA), feel free to drop by and listen in! 
+**Registration:** The program concluded in October 2022 - our session recordings are publicly available [here](https://youtube.com/playlist?list=PL-GxJch-YeZfjcwjCwwNSRGjnSBdapOtA).
 
 
 
