@@ -52,7 +52,7 @@ const features = [
     shortDescription: 'Token Engineering Academy',
     description: (
       <>
-        The TokenEngineering Academy (TE Academy) offers lectures, workshops, and seminars in this new, emerging field. Our courses are free and accessible for participants from all around the globe.
+        The TokenEngineering Academy (TE Academy) offers educational programs and #OpenScience collaboration in this new, emerging field. Our courses are free and accessible for participants from all around the globe.
       </>
     ),
   },
