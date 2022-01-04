@@ -27,7 +27,7 @@ const features = [
     title: <>BlockScience</>,
     url: 'https://block.science/',
     imageUrl: 'img/blockscience-logo.png',
-    shortDescription: 'Complex systems engineering',
+    shortDescription: 'Complex Systems Engineering',
     description: (
       <>
         Our focus is to design and build data-driven decision systems for new and legacy businesses leveraging engineering methodologies and academic-grade tools.
@@ -38,7 +38,7 @@ const features = [
     title: <>cadCAD</>,
     url: 'https://cadcad.org/',
     imageUrl: 'img/cadcad-logo.png',
-    shortDescription: 'Complex systems modeling toolkit',
+    shortDescription: 'Complex Systems Modeling Toolkit',
     description: (
       <>
         An open-source Python package that assists in the processes of designing, testing and validating complex systems through simulation.
@@ -46,16 +46,27 @@ const features = [
     ),
   },
   {
-    title: <>cadCAD Edu</>,
-    url: 'https://cadcad.education/',
-    imageUrl: 'img/cadcadedu-logo.png',
-    shortDescription: 'cadCAD Online Education',
+    title: <>TE Academy</>,
+    url: 'https://tokenengineeringcommunity.github.io/website/docs/academy-welcome',
+    imageUrl: 'img/te-logo.png',
+    shortDescription: 'Token Engineering Academy',
     description: (
       <>
-        Our mission is to grow the adoption of cadCAD as the leading open-source Web 3 modeling tool by creating beginner-friendly online courses.
+        The TokenEngineering Academy (TE Academy) offers lectures, workshops, and seminars in this new, emerging field. Our courses are free and accessible for participants from all around the globe.
       </>
     ),
   },
+  {
+    title: <>Longtail Financial</>,
+    url: 'https://www.longtailfinancial.com/',
+    imageUrl: 'img/Longtail_Logo_White_Center_Transparent.png',
+    shortDescription: 'Longtail Financial',
+    description: (
+      <>
+        Elevate your Impact with Token Engineering. We design, model, and verify complex tokenomic systems proven to boost your funding and activate your community.
+      </>
+    ),
+  },bl
   {
     title: <>Commons Stack</>,
     url: 'https://commonsstack.org/',
@@ -68,13 +79,13 @@ const features = [
     ),
   },
   {
-    title: <>TEGG</>,
-    url: 'https://tegg.io/',
-    imageUrl: 'img/tegg-logo.png',
-    shortDescription: 'Token Engineering Global Gathering',
+    title: <>TokenSPICE</>,
+    url: 'https://github.com/tokenspice/tokenspice',
+    imageUrl: 'img/tokenspice_plain.png',
+    shortDescription: 'EVM Agent-Based Token Simulator',
     description: (
       <>
-        TEGG is the global gathering of cryptoeconomic researchers and practitioners. Our aim is to establish a body of theory, practice, tools and a sense of responsibility for building successful and sustainable blockchain token economies.
+        TokenSPICE simulates tokenized ecosystems via an agent-based approach, with EVM in-the-loop.
       </>
     ),
   },
@@ -89,14 +100,25 @@ const features = [
       </>
     ),
   },
-    {
-    title: <>ZIP</>,
-    url: 'https://zip.outlierventures.io/',
-    imageUrl: 'img/zip-logo2.jpg',
-    shortDescription: 'One credit you use across all blockchains, with no price volatility.',
+  {
+    title: <>TEGG</>,
+    url: 'https://tegg.io/',
+    imageUrl: 'img/tegg-logo.png',
+    shortDescription: 'Token Engineering Global Gathering',
     description: (
       <>
-        Zip works across blockchain networks, so you can build on Ethereum today, and Fetch.AI tomorrow, or both at the same time. One credit, all blockchains. 
+        TEGG is the global gathering of cryptoeconomic researchers and practitioners. Our aim is to establish a body of theory, practice, tools and a sense of responsibility for building successful and sustainable blockchain token economies.
+      </>
+    ),
+  },
+{
+    title: <>cadCAD Edu</>,
+    url: 'https://cadcad.education/',
+    imageUrl: 'img/cadcadedu-logo.png',
+    shortDescription: 'cadCAD Online Education',
+    description: (
+      <>
+        Our mission is to grow the adoption of cadCAD as the leading open-source Web 3 modeling tool by creating beginner-friendly online courses.
       </>
     ),
   },
