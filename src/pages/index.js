@@ -66,7 +66,7 @@ const features = [
         Elevate your Impact with Token Engineering. We design, model, and verify complex tokenomic systems proven to boost your funding and activate your community.
       </>
     ),
-  },bl
+  },
   {
     title: <>Commons Stack</>,
     url: 'https://commonsstack.org/',
