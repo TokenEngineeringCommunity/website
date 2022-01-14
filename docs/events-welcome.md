@@ -7,6 +7,12 @@ sidebar_label: Events
 In addition to the events listed below, we host community calls and working sessions that are open to anyone interested.  
 Feel free to drop by!  
 
+## January 2022  
+📆 Wednesday, January 19, 2022 - 15:00pm UTC  
+**[Introduction to TE Academy](https://forms.gle/PDK6toRMG9vXNRAf9)**    
+**TE Academy**  
+Online/live 
+
 ## December 2021  
 📆 Friday, December 10, 2021 - 12:00noon-07:00pm UTC  
 **[DAO Rewards Systems Assemblage](https://forms.gle/GgrVAHVtCDGjjQbb7)**    
