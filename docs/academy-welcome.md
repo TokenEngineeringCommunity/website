@@ -16,9 +16,8 @@ This event is perfect if you are interested in Token Engineering and want to lea
 - About the [Token Engineering Commons](https://tecommons.org/), the community to manage and fund Token Engineering public goods
 - How to get involved with the Token Engineering community
 
-Date: Wednesday, January 19th, 03:00pm UTC
-
-Registration: [https://forms.gle/PDK6toRMG9vXNRAf9](https://forms.gle/PDK6toRMG9vXNRAf9)
+**Date:** Wednesday, January 19th, 03:00pm UTC  
+**Registration:** [https://forms.gle/PDK6toRMG9vXNRAf9](https://forms.gle/PDK6toRMG9vXNRAf9)
 
 ## DAO Rewards Systems
 ![Rewards Systems Gathering](/img/Rewards_Systems_Wide.jpg)
