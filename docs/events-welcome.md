@@ -14,7 +14,7 @@ Feel free to drop by!
 Online/live 
 
 📆 Friday, February 4, 2022 - 4:00pm UTC  
-**[TE Fundamentals AMA Session](https://calendar.google.com/event?action=TEMPLATE&tmeid=N2l1YmpnamduODNtZm8yajVydHZ2dmRyZ3UgY18wcGp1NW82bWJ1NWs2Mm4zOTNwMnQza2w2c0Bn&tmsrc=c_0pju5o6mbu5k62n393p2t3kl6s%40group.calendar.google.com)**    
+**[TE Fundamentals AMA Session](https://calendar.google.com/event?action=TEMPLATE&tmeid=NmEyYjRqcHJ1ODZiYzZlNW5yMHJuMjVjYWUgY192b2F1ZmhvOWF2MmYyN2ZmamcwMXIwNnZkOEBn&tmsrc=c_voaufho9av2f27ffjg01r06vd8%40group.calendar.google.com)**    
 **TE Academy**  
 Online/live 
 
