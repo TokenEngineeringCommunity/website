@@ -7,20 +7,6 @@ sidebar_label: Academy
 
 The TokenEngineering Academy (TE Academy) offers lectures, workshops, and seminars for anyone interested in this new, emerging field. We invite individuals and project teams to learn, collaborate, and put token engineering into practice. Please get in touch if you'd like to bring your team to TE Academy: <contact@tokenengineering.net>. 
 
-## Introduction to Token Engineering
-![IntrotoTE](/img/Intro_Forms.jpg)
-
-This event is perfect if you are interested in Token Engineering and want to learn more about this discipline and our community. We'll provide you a first introduction to Token Engineering, and share more information on how to become a token engineer yourself.
-
-**Our agenda:**
-- What / why Token Engineering?
-- About the TE Academy, the first educational organisation for this new discipline
-- About the [Token Engineering Commons](https://tecommons.org/), the community to manage and fund Token Engineering public goods
-- How to get involved with the Token Engineering community
-
-**Date:** Wednesday, January 19th, 03:00pm UTC  
-**Registration:** [https://forms.gle/PDK6toRMG9vXNRAf9](https://forms.gle/PDK6toRMG9vXNRAf9)
-
 ## DAO Rewards Systems
 ![Rewards Systems Gathering](/img/Rewards_Systems_Wide.jpg)
 
