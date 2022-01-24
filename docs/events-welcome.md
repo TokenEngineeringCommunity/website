@@ -7,6 +7,17 @@ sidebar_label: Events
 In addition to the events listed below, we host community calls and working sessions that are open to anyone interested.  
 Feel free to drop by!  
 
+## February 2022  
+📆 Friday, February 4, 2022 - 4:00pm UTC  
+**[TE Fundamentals AMA Session](https://calendar.google.com/event?action=TEMPLATE&tmeid=N2l1YmpnamduODNtZm8yajVydHZ2dmRyZ3UgY18wcGp1NW82bWJ1NWs2Mm4zOTNwMnQza2w2c0Bn&tmsrc=c_0pju5o6mbu5k62n393p2t3kl6s%40group.calendar.google.com)**    
+**TE Academy**  
+Online/live 
+
+📆 Wednesday, February 2, 2022 - 6:00pm UTC  
+**[cadCAD 1.0/BSci Labs Demo - Alumni Meetup](https://calendar.google.com/event?action=TEMPLATE&tmeid=N2l1YmpnamduODNtZm8yajVydHZ2dmRyZ3UgY18wcGp1NW82bWJ1NWs2Mm4zOTNwMnQza2w2c0Bn&tmsrc=c_0pju5o6mbu5k62n393p2t3kl6s%40group.calendar.google.com)**    
+**TE Academy**  
+Online/live 
+
 ## January 2022  
 📆 Wednesday, January 19, 2022 - 15:00pm UTC  
 **[Introduction to TE Academy](https://forms.gle/PDK6toRMG9vXNRAf9)**    
