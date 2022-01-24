@@ -9,7 +9,7 @@ Feel free to drop by!
 
 ## February 2022  
 📆 Friday, February 24, 2022 - 4:00pm UTC  
-**[DAO Rewards Systems Final Presentations](https://calendar.google.com/event?action=TEMPLATE&tmeid=N2NpZnVlM2EwNmtuOW1jcmNlNmZ2bW9qZnNfMjAyMjAyMjRUMTYwMDAwWiBjX2g5dmNscXM0dHFxNXN2ZHNmM2YxbGVzc2w0QGc&tmsrc=c_h9vclqs4tqq5svdsf3f1lessl4%40group.calendar.google.com&scp=ALL)**    
+**[DAO Rewards Systems Final Presentations](https://calendar.google.com/event?action=TEMPLATE&tmeid=NDk2amxvZTlobWppa3FrZTFqZm8yaHFlMGYgY192b2F1ZmhvOWF2MmYyN2ZmamcwMXIwNnZkOEBn&tmsrc=c_voaufho9av2f27ffjg01r06vd8%40group.calendar.google.com)**    
 **TE Academy**  
 Online/live 
 
