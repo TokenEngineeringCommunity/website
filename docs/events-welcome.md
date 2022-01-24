@@ -8,6 +8,11 @@ In addition to the events listed below, we host community calls and working sess
 Feel free to drop by!  
 
 ## February 2022  
+📆 Friday, February 24, 2022 - 4:00pm UTC  
+**[DAO Rewards Systems Final Presentations](https://calendar.google.com/event?action=TEMPLATE&tmeid=N2NpZnVlM2EwNmtuOW1jcmNlNmZ2bW9qZnNfMjAyMjAyMjRUMTYwMDAwWiBjX2g5dmNscXM0dHFxNXN2ZHNmM2YxbGVzc2w0QGc&tmsrc=c_h9vclqs4tqq5svdsf3f1lessl4%40group.calendar.google.com&scp=ALL)**    
+**TE Academy**  
+Online/live 
+
 📆 Friday, February 4, 2022 - 4:00pm UTC  
 **[TE Fundamentals AMA Session](https://calendar.google.com/event?action=TEMPLATE&tmeid=N2l1YmpnamduODNtZm8yajVydHZ2dmRyZ3UgY18wcGp1NW82bWJ1NWs2Mm4zOTNwMnQza2w2c0Bn&tmsrc=c_0pju5o6mbu5k62n393p2t3kl6s%40group.calendar.google.com)**    
 **TE Academy**  
@@ -18,9 +23,19 @@ Online/live
 **TE Academy**  
 Online/live 
 
+📆 Monday, February 07/14/21/28, 2021 - 4:00 PM UTC   
+**[TokenSPICE weekly hack](https://calendar.google.com/calendar/u/1?cid=Y192MGRoOXQxcnBsOWpxcXQ1YTRzaDk5dXYzb0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)**    
+**TE Academy**  
+Online/live 
+
 ## January 2022  
 📆 Wednesday, January 19, 2022 - 15:00pm UTC  
 **[Introduction to TE Academy](https://forms.gle/PDK6toRMG9vXNRAf9)**    
+**TE Academy**  
+Online/live 
+
+📆 Monday, January 10/17/24/31, 2021 - 4:00 PM UTC   
+**[TokenSPICE weekly hack](https://calendar.google.com/calendar/u/1?cid=Y192MGRoOXQxcnBsOWpxcXQ1YTRzaDk5dXYzb0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)**    
 **TE Academy**  
 Online/live 
 
