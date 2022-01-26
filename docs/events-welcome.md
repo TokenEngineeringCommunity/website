@@ -4,14 +4,19 @@ title: TokenEngineering Events Calendar
 sidebar_label: Events
 ---
 ## TokenEngineering Events & Public Lectures
-In addition to the events listed below, we host community calls and working sessions that are open to anyone interested.  
-Feel free to drop by!  
+We run public events almost every single week and invite anyone interested in Token Engineering. See you there!
 
 ## February 2022  
 📆 Friday, February 24, 2022 - 4:00pm UTC  
 **[DAO Rewards Systems Final Presentations](https://calendar.google.com/event?action=TEMPLATE&tmeid=NDk2amxvZTlobWppa3FrZTFqZm8yaHFlMGYgY192b2F1ZmhvOWF2MmYyN2ZmamcwMXIwNnZkOEBn&tmsrc=c_voaufho9av2f27ffjg01r06vd8%40group.calendar.google.com)**    
 **TE Academy**  
 Online/live 
+
+📆 Wednesday, February 16, 2022 - 6:00pm UTC  
+**[Introduction to Token Engineering](https://forms.gle/tnjzPNDGrYsatUyD9)**    
+**TE Academy**  
+Online/live 
+
 
 📆 Friday, February 4, 2022 - 4:00pm UTC  
 **[TE Fundamentals AMA Session](https://calendar.google.com/event?action=TEMPLATE&tmeid=NmEyYjRqcHJ1ODZiYzZlNW5yMHJuMjVjYWUgY192b2F1ZmhvOWF2MmYyN2ZmamcwMXIwNnZkOEBn&tmsrc=c_voaufho9av2f27ffjg01r06vd8%40group.calendar.google.com)**    
@@ -30,7 +35,7 @@ Online/live
 
 ## January 2022  
 📆 Wednesday, January 19, 2022 - 15:00pm UTC  
-**[Introduction to TE Academy](https://forms.gle/PDK6toRMG9vXNRAf9)**    
+**[Introduction to Token Engineering](https://forms.gle/PDK6toRMG9vXNRAf9)**    
 **TE Academy**  
 Online/live 
 
