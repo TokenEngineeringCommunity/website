@@ -7,17 +7,35 @@ sidebar_label: Academy
 
 The TokenEngineering Academy (TE Academy) offers lectures, workshops, and seminars for anyone interested in this new, emerging field. We invite individuals and project teams to learn, collaborate, and put token engineering into practice. Please get in touch if you'd like to bring your team to TE Academy: <contact@tokenengineering.net>. 
 
+## Token Engineering Fundamentals
+![TE Fundamentals](/img/TEF_Wide.png)
+
+**Supported by [TE Commons](https://tecommons.org/) and [1kx](https://1kx.network)**
+
+TE Academy builds the first comprehensive education & certification program in Token Engineering!  
+This course will be offered online and is accessible to interested students around the globe. In parallel to the online course, we'll offer online study groups, where students can learn together, meet their peers, and prepare for the examination. Graduates will have the chance to participate in matchmaking activities to meet interesting crypto projects and pick up a token engineering engagement right after the course.
+
+**Curriculum Overview:**
+- Crypto-economic Systems
+- The Engineering Design Process
+- Introductions to Economics, Mathematics, Systems Theory, Simulations and Scientific Computing for Token Engineers
+- Selected examples of cryptoeconomic systems and components
+- Computer-aided, Token-based Governance
+
+**Fees:** free   
+**Start Date:** Q3/2022  
+**Duration:** Learn at your own pace and be ready for examination after around 4 months.  
+**More details:** xxxxx  
+
+#### ➡️ [Pre-registration is open - sign-up now and get ready for the program!](https://forms.gle/QEUQwryyp3crYv8g9)
+
+
 ## DAO Rewards Systems
 ![Rewards Systems Gathering](/img/Rewards_Systems_Wide.jpg)
 
 _**A Governauts #OpenScience initiative for TokenEngineers & DAOists in collaboration with [OceanDAO](https://oceanprotocol.com/dao), [NearDAO](https://near.org/), [GnosisDAO](https://gnosis.io/gnosisdao/), [TECommons](https://tecommons.org/) and [Boson Protocol](https://www.bosonprotocol.io/)**_
 
-Today, more and more blockchain projects are relying on decentralized governance as the form of decision-making for their protocol. This means handing power to tokenholders, delegates, or even joining forces and voting with other DAOs.
-
-While this is an exciting trend, we're also faced with new challenges like defining effective voting mechanisms, maximizing community participation, or fighting voter fraud. To tackle these challenges, we need experts in Token Engineering - the Governauts, as we are shaping a new [social reality](https://medium.com/block-science/algorithms-as-policy-44e289d34a65).
-
-**The Governauts Rewards Systems Research Initiative is a 3-months program to explore incentives in a DAO context.**
-
+The Governauts Rewards Systems Research Initiative is a 3-months program to explore incentives in a DAO context.
 Rewards Systems are a key element for DAOs to grow the ecosystem value, reward contributors, and grant decision-making power (governance tokens) to those who provide value to a DAO.
 
 In this program, we'll explore different DAO cases, analyze data, design mechanism improvements and verify our assumptions with experiments in real-DAO environments.
@@ -39,15 +57,15 @@ Here's what you can expect:
 **Skills:** Data Analysis, Python, Math & Statistics, cadCAD, and/or tokenSPICE most welcome, but not mandatory  
 **Format:** online/live    
 
-**Registration:** Registrations are closed now - we've selected all community researchers for this program. All work sessions are open for anyone interested - [join our Discord](https://discord.gg/ywNHXzNBfk) to follow the discussion!
-
+**Registration:** Registrations are closed now - we've selected all community researchers for this program.  
+➡️  **Final Presentations:** Thursday, Feb 24, 2022 - 4:00pm UTC - [Add to your calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=NDk2amxvZTlobWppa3FrZTFqZm8yaHFlMGYgY192b2F1ZmhvOWF2MmYyN2ZmamcwMXIwNnZkOEBn&tmsrc=c_voaufho9av2f27ffjg01r06vd8%40group.calendar.google.com)
 
 ## DAO Rewards Systems Assemblage
 
 _*A full day of talks, discussions and workshops on DAO Rewards Systems - presented by the [Governauts](https://twitter.com/GovernanceDAO), [The DAOist](https://www.thedaoist.co/) and TE Academy!*_
 
 The DAO Rewards Systems Assemblage took place on Dec 10, 2021.  
-Watch the recording of the event at our [YouTube Channel](https://youtu.be/wndDaI-eNgc)!
+➡️ Watch the recording of the event at our [YouTube Channel](https://youtu.be/wndDaI-eNgc)!
 
 Our agenda:  
 - Defining Success and measuring value add in DAOs
