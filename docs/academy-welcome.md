@@ -25,7 +25,7 @@ This course will be offered online and is accessible to interested students arou
 **Fees:** free   
 **Start Date:** Q3/2022  
 **Duration:** Learn at your own pace and be ready for examination after around 4 months.  
-**More details:** xxxxx  
+**Find all details in this [overview](https://medium.com/tokenengineering/token-engineering-fundamentals-49b15b42fa5).**
 
 #### ➡️ [Pre-registration is open - sign-up now and get ready for the program!](https://forms.gle/QEUQwryyp3crYv8g9)
 
