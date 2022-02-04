@@ -10,7 +10,7 @@ The TokenEngineering Academy (TE Academy) offers lectures, workshops, and semina
 ## Token Engineering Fundamentals
 ![TE Fundamentals](/img/TEF_Wide.png)
 
-**Supported by [TE Commons](https://tecommons.org/) and [1kx](https://1kx.network)**
+**Supported by [TE Commons](https://tecommons.org/) and [1kx](http://www.1kx.network)**
 
 TE Academy builds the first comprehensive education & certification program in Token Engineering!  
 This course will be offered online and is accessible to interested students around the globe. In parallel to the online course, we'll offer online study groups, where students can learn together, meet their peers, and prepare for the examination. Graduates will have the chance to participate in matchmaking activities to meet interesting crypto projects and pick up a token engineering engagement right after the course.
