@@ -7,13 +7,18 @@ sidebar_label: Events
 We run public events almost every single week and invite anyone interested in Token Engineering. See you there!
 
 ## February 2022  
-📆 Friday, February 24, 2022 - 4:00pm UTC  
+📆 Thursday, February 24, 2022 - 4:00pm UTC  
 **[DAO Rewards Systems Final Presentations](https://calendar.google.com/event?action=TEMPLATE&tmeid=NDk2amxvZTlobWppa3FrZTFqZm8yaHFlMGYgY192b2F1ZmhvOWF2MmYyN2ZmamcwMXIwNnZkOEBn&tmsrc=c_voaufho9av2f27ffjg01r06vd8%40group.calendar.google.com)**    
 **TE Academy**  
 Online/live 
 
+📆 Thursday, February 17, 2022 - 4:25pm MST / 11:25pm UTC  
+**[DAO Rewards Systems - Learnings from a TE Community Research Initiative](https://schellingpoint.gitcoin.co/)** at Schelling Point/ETHDenver  
+**Schelling Point / Gitcoin DAO**  
+On site
+
 📆 Wednesday, February 16, 2022 - 6:00pm UTC  
-**[Introduction to Token Engineering](https://forms.gle/tnjzPNDGrYsatUyD9)**    
+**[Introduction to Token Engineering](https://forms.gle/tnjzPNDGrYsatUyD9)** live from ETHDenver!   
 **TE Academy**  
 Online/live 
 
