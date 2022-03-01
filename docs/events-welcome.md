@@ -6,6 +6,17 @@ sidebar_label: Events
 ## TokenEngineering Events & Public Lectures
 We run public events almost every single week and invite anyone interested in Token Engineering. See you there!
 
+## March 2022  
+📆 Wednesday, March 9, 2022 - 8:00am UTC  
+**[Introduction to Token Engineering](https://forms.gle/tnjzPNDGrYsatUyD9)**      
+**TE Academy**  
+Online/live 
+
+📆 Friday, March 4, 2022 - 6:00pm UTC  
+**[Enseñanzas como bien público - TE Academy live at TheDAOist CDMX Mexico City](https://www.thedaoist.co/event/mexico)**      
+**TE Academy**    
+Live 
+
 ## February 2022  
 📆 Thursday, February 24, 2022 - 4:00pm UTC  
 **[DAO Rewards Systems Final Presentations](https://calendar.google.com/event?action=TEMPLATE&tmeid=NDk2amxvZTlobWppa3FrZTFqZm8yaHFlMGYgY192b2F1ZmhvOWF2MmYyN2ZmamcwMXIwNnZkOEBn&tmsrc=c_voaufho9av2f27ffjg01r06vd8%40group.calendar.google.com)**    
