@@ -5,7 +5,7 @@ sidebar_label: Academy
 ---
 ## About
 
-The TokenEngineering Academy (TE Academy) offers lectures, workshops, and seminars for anyone interested in this new, emerging field. We invite individuals and project teams to learn, collaborate, and put token engineering into practice. Please get in touch if you'd like to bring your team to TE Academy: <contact@tokenengineering.net>. 
+The TokenEngineering Academy (TE Academy) offers lectures, workshops, and seminars for anyone interested in this new, emerging field. We invite individuals and project teams to learn, collaborate, and put token engineering into practice. 
 
 ## Token Engineering Fundamentals
 ![TE Fundamentals](/img/TEF_Wide.png)
@@ -30,10 +30,43 @@ This course will be offered online and is accessible to interested students arou
 #### ➡️ [Pre-registration is open - sign-up now and get ready for the program!](https://forms.gle/QEUQwryyp3crYv8g9)
 
 
+## Token Engineering 360
+![TE 360](/img/TE 360_wide.jpg)
+
+**Supported by [TE Commons](https://tecommons.org/) and [1kx](http://www.1kx.network)**
+
+In this series of sessions you’ll gain a 360-degree overview on Token Engineering and crypto-economic systems.
+We’ll discuss challenges and opportunities from many angles, based on writings of major thought leaders in the space: [Vitalik Buterin](https://twitter.com/VitalikButerin), [Trent McConaghy](https://twitter.com/trentmc0), [Michael Zargham](https://twitter.com/mzargham), [Joel Monegro](https://twitter.com/jmonegro) and others.
+
+**Here’s what you can expect:**  
+- 6 sessions, 1 hour per week plus individual learning time  
+- Meet other aspiring Token Engineers  
+- Discuss and sharpen your understanding about:  
+    - The power of incentives  
+    - Building economic systems  
+    - Decentralization and permissionless systems  
+    - Governance as capital 
+    - Engineering Ethics  
+   
+**Take part:** This program is open to anyone interested in Token Engineering. [Add this program to your calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=NWlyaDlodDZ2YzFqcjFwdWdmOW1kdGI1cGdfMjAyMjAzMTZUMTMwMDAwWiBjX3ZvYXVmaG85YXYyZjI3ZmZqZzAxcjA2dmQ4QGc&tmsrc=c_voaufho9av2f27ffjg01r06vd8%40group.calendar.google.com&scp=ALL) and come by!   
+No registration, no application required.  
+
+**Want to become a Token Engineer?** 
+With this program, you can prepare yourself for studying TE Fundamentals. Learn more about the first comprehensive education and certification program in Token Engineering and sign up [here](https://medium.com/tokenengineering/token-engineering-fundamentals-49b15b42fa5). 
+
+**Fees:** free   
+**Start Date:** Wednesday, March 16, 2022  
+**Add this to your [calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=NWlyaDlodDZ2YzFqcjFwdWdmOW1kdGI1cGdfMjAyMjAzMTZUMTMwMDAwWiBjX3ZvYXVmaG85YXYyZjI3ZmZqZzAxcjA2dmQ4QGc&tmsrc=c_voaufho9av2f27ffjg01r06vd8%40group.calendar.google.com&scp=ALL)**
+
+
+
 ## DAO Rewards Systems
 ![Rewards Systems Gathering](/img/Rewards_Systems_Wide.jpg)
 
 _**A Governauts #OpenScience initiative for TokenEngineers & DAOists in collaboration with [OceanDAO](https://oceanprotocol.com/dao), [NearDAO](https://near.org/), [GnosisDAO](https://gnosis.io/gnosisdao/), [TECommons](https://tecommons.org/) and [Boson Protocol](https://www.bosonprotocol.io/)**_
+
+The DAO Rewards Systems Research Initiative concluded on February 24,2022.  
+➡️ Watch the recording of the final presentations at our [YouTube Channel](https://youtu.be/srdpA3jNPlc)!
 
 The Governauts Rewards Systems Research Initiative is a 3-months program to explore incentives in a DAO context.
 Rewards Systems are a key element for DAOs to grow the ecosystem value, reward contributors, and grant decision-making power (governance tokens) to those who provide value to a DAO.
@@ -52,13 +85,8 @@ Here's what you can expect:
 **Start:** Tuesday, Nov 16, 2021  
 **End:** Thursday, Feb 24, 2022  
 **Duration:** 12 weeks  
-
-**Time investment:** ~15 hours/week on average  
 **Skills:** Data Analysis, Python, Math & Statistics, cadCAD, and/or tokenSPICE most welcome, but not mandatory  
 **Format:** online/live    
-
-**Registration:** Registrations are closed now - we've selected all community researchers for this program.  
-➡️  **Final Presentations:** Thursday, Feb 24, 2022 - 4:00pm UTC - [Add to your calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=NDk2amxvZTlobWppa3FrZTFqZm8yaHFlMGYgY192b2F1ZmhvOWF2MmYyN2ZmamcwMXIwNnZkOEBn&tmsrc=c_voaufho9av2f27ffjg01r06vd8%40group.calendar.google.com)
 
 ## DAO Rewards Systems Assemblage
 
