@@ -29,9 +29,8 @@ This course will be offered online and is accessible to interested students arou
 
 #### ➡️ [Pre-registration is open - sign-up now and get ready for the program!](https://forms.gle/QEUQwryyp3crYv8g9)
 
-
 ## Token Engineering 360
-![TE 360](/img/TE 360_wide.jpg)
+![TokenEngineering360](/img/TE360_wide.jpg) 
 
 **Supported by [TE Commons](https://tecommons.org/) and [1kx](http://www.1kx.network)**
 
@@ -63,10 +62,10 @@ With this program, you can prepare yourself for studying TE Fundamentals. Learn 
 ## DAO Rewards Systems
 ![Rewards Systems Gathering](/img/Rewards_Systems_Wide.jpg)
 
-_**A Governauts #OpenScience initiative for TokenEngineers & DAOists in collaboration with [OceanDAO](https://oceanprotocol.com/dao), [NearDAO](https://near.org/), [GnosisDAO](https://gnosis.io/gnosisdao/), [TECommons](https://tecommons.org/) and [Boson Protocol](https://www.bosonprotocol.io/)**_
+_**A Governauts #OpenScience initiative for TokenEngineers & DAOists in collaboration with [OceanDAO](https://oceanprotocol.com/dao), [NearDAO](https://near.org/), [GnosisDAO](https://gnosis.io/gnosisdao/), [TECommons](https://tecommons.org/) and [Boson Protocol](https://www.bosonprotocol.io/)**_  
 
 The DAO Rewards Systems Research Initiative concluded on February 24,2022.  
-➡️ Watch the recording of the final presentations at our [YouTube Channel](https://youtu.be/srdpA3jNPlc)!
+➡️ Watch the recording of the final presentations at our [YouTube Channel](https://youtu.be/srdpA3jNPlc)!  
 
 The Governauts Rewards Systems Research Initiative is a 3-months program to explore incentives in a DAO context.
 Rewards Systems are a key element for DAOs to grow the ecosystem value, reward contributors, and grant decision-making power (governance tokens) to those who provide value to a DAO.
@@ -87,6 +86,8 @@ Here's what you can expect:
 **Duration:** 12 weeks  
 **Skills:** Data Analysis, Python, Math & Statistics, cadCAD, and/or tokenSPICE most welcome, but not mandatory  
 **Format:** online/live    
+
+➡️ Watch the recording of the final presentations at our [YouTube Channel](https://youtu.be/srdpA3jNPlc)!  
 
 ## DAO Rewards Systems Assemblage
 
