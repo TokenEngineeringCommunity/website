@@ -51,7 +51,7 @@ We’ll discuss challenges and opportunities from many angles, based on writings
 No registration, no application required.  
 
 **Want to become a Token Engineer?** 
-With this program, you can prepare yourself for studying TE Fundamentals. Learn more about the first comprehensive education and certification program in Token Engineering and sign up [here](https://medium.com/tokenengineering/token-engineering-fundamentals-49b15b42fa5). 
+With this program, you can prepare yourself for studying TE Fundamentals. Learn more about the first [comprehensive education and certification program in Token Engineering](https://medium.com/tokenengineering/token-engineering-fundamentals-49b15b42fa5) and sign up now! 
 
 **Fees:** free   
 **Start Date:** Wednesday, March 16, 2022  
