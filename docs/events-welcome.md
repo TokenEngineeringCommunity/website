@@ -7,23 +7,38 @@ sidebar_label: Events
 We run public events almost every single week and invite anyone interested in Token Engineering to join us. See you there!
 
 ## April 2022  
-📆 Wednesday, April 6/13/20/27, 2021 - 1:00 PM UTC   
-**[Token Engineering 360](https://calendar.google.com/event?action=TEMPLATE&tmeid=NWlyaDlodDZ2YzFqcjFwdWdmOW1kdGI1cGdfMjAyMjAzMTZUMTMwMDAwWiBjX3ZvYXVmaG85YXYyZjI3ZmZqZzAxcjA2dmQ4QGc&tmsrc=c_voaufho9av2f27ffjg01r06vd8%40group.calendar.google.com&scp=ALL)**    
+📆 Friday, April 1, 2022 - 3:00pm UTC  
+**[Introduction to Token Engineering](https://forms.gle/tnjzPNDGrYsatUyD9)**      
 **TE Academy**  
 Online/live 
 
-📆 Monday, March 4/11/18/25, 2021 - 4:00 PM UTC   
+📆 Monday, April 4, 2022 - 4:00 PM UTC   
 **[TokenSPICE weekly hack](https://calendar.google.com/calendar/u/1?cid=Y192MGRoOXQxcnBsOWpxcXQ1YTRzaDk5dXYzb0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)**    
 **TE Academy**  
 Online/live 
 
+📆 Wednesday, April 6/13/20/27, 2022 - 1:00 PM UTC   
+**[Token Engineering 360](https://calendar.google.com/calendar/u/0?cid=Y192b2F1ZmhvOWF2MmYyN2ZmamcwMXIwNnZkOEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)**    
+**TE Academy**  
+Online/live 
+
+📆 Friday, April 7, 2022 - 9:00am UTC  
+**[TE Fundamentals AMA Session](https://calendar.google.com/event?action=TEMPLATE&tmeid=MTk0NDNrdTNjc244NHEybXRoMmx2MzV2cnEgY192b2F1ZmhvOWF2MmYyN2ZmamcwMXIwNnZkOEBn&tmsrc=c_voaufho9av2f27ffjg01r06vd8%40group.calendar.google.com)**      
+**TE Academy**  
+Online/live 
+
+📆 Monday and Tuesday, April 18-19, 2022  
+**[Global Governance Gathering - DAOist Amsterdam](https://kolektivo.notion.site/The-DAOist-s-Global-Governance-Gathering-91d0893ea42442c686aa3dec25dc3598)**      
+**TE Academy**    
+Conference 
+
 ## March 2022  
-📆 Wednesday, March 16/23/30, 2021 - 1:00 PM UTC   
+📆 Wednesday, March 16/23/30, 2022 - 1:00 PM UTC   
 **[Token Engineering 360](https://calendar.google.com/event?action=TEMPLATE&tmeid=NWlyaDlodDZ2YzFqcjFwdWdmOW1kdGI1cGdfMjAyMjAzMTZUMTMwMDAwWiBjX3ZvYXVmaG85YXYyZjI3ZmZqZzAxcjA2dmQ4QGc&tmsrc=c_voaufho9av2f27ffjg01r06vd8%40group.calendar.google.com&scp=ALL)**    
 **TE Academy**  
 Online/live 
 
-📆 Monday, March 14/21/28, 2021 - 4:00 PM UTC   
+📆 Monday, March 14/21/28, 2022 - 4:00 PM UTC   
 **[TokenSPICE weekly hack](https://calendar.google.com/calendar/u/1?cid=Y192MGRoOXQxcnBsOWpxcXQ1YTRzaDk5dXYzb0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)**    
 **TE Academy**  
 Online/live 
