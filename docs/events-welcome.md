@@ -12,12 +12,12 @@ We run public events almost every single week and invite anyone interested in To
 **TE Academy**  
 Online/live 
 
-📆 Monday, April 4, 2022 - 4:00 PM UTC   
-**[TokenSPICE weekly hack](https://calendar.google.com/calendar/u/1?cid=Y192MGRoOXQxcnBsOWpxcXQ1YTRzaDk5dXYzb0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)**    
+📆 Monday, April 4, 2022 - 3:00 PM UTC   
+**[TokenSPICE monthly hack](https://calendar.google.com/calendar/u/1?cid=Y192MGRoOXQxcnBsOWpxcXQ1YTRzaDk5dXYzb0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)**    
 **TE Academy**  
 Online/live 
 
-📆 Wednesday, April 6/13/20/27, 2022 - 1:00 PM UTC   
+📆 Wednesday, April 6/13/20/27, 2022 - 12:00 PM UTC   
 **[Token Engineering 360](https://calendar.google.com/calendar/u/0?cid=Y192b2F1ZmhvOWF2MmYyN2ZmamcwMXIwNnZkOEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)**    
 **TE Academy**  
 Online/live 
