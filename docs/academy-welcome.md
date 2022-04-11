@@ -60,6 +60,7 @@ With this program, you can prepare yourself for studying TE Fundamentals. Learn 
 ➡️ Watch the recordings of past sessions at our [YouTube Channel](https://youtube.com/playlist?list=PL-GxJch-YeZeprcq0w6B90oBdieE22IdD)!  
 
 ## Token Engineering Hard Skills
+![TokenEngineeringHardSkills](/img/TEHardskillsWide.jpg) 
 
 **Presented by TE Academy and [TE Commons](https://tecommons.org/)**
 
@@ -75,14 +76,12 @@ game economy modeling, forecasting and optimisation.
 **What you can expect:**
 In this event, we’ll discuss application cases for Machinatios.io in the Token Engineering sector.
 
-**Take part!**
-- **Date:** Wednesday, April 27, 2022 - 2:00 pm UTC
-- **Format:** online/live
-- **Fees:** free
-- ➡️ **[Register now](https://forms.gle/XHdZTA3Af4gsrfkc6)**
+**Take part!**  
+**Date:** Wednesday, April 27, 2022 - 2:00 pm UTC  
+**Format:** online/live  
+**Fees:** free  
+➡️ **[Register now](https://forms.gle/XHdZTA3Af4gsrfkc6)**  
 
-**Want to become a Token Engineer?** 
-With this program, you can prepare yourself for studying TE Fundamentals. Learn more about the first [comprehensive education and certification program in Token Engineering](https://medium.com/tokenengineering/token-engineering-fundamentals-49b15b42fa5) and sign up now! 
 
 ## DAO Rewards Systems
 ![Rewards Systems Gathering](/img/Rewards_Systems_Wide.jpg)
