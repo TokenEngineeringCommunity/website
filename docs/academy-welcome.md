@@ -57,7 +57,32 @@ With this program, you can prepare yourself for studying TE Fundamentals. Learn 
 **Start Date:** Wednesday, March 16, 2022  
 **Add this to your [calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=NWlyaDlodDZ2YzFqcjFwdWdmOW1kdGI1cGdfMjAyMjAzMTZUMTMwMDAwWiBjX3ZvYXVmaG85YXYyZjI3ZmZqZzAxcjA2dmQ4QGc&tmsrc=c_voaufho9av2f27ffjg01r06vd8%40group.calendar.google.com&scp=ALL)**
 
+➡️ Watch the recordings of past sessions at our [YouTube Channel](https://youtube.com/playlist?list=PL-GxJch-YeZeprcq0w6B90oBdieE22IdD)!  
 
+## Token Engineering Hard Skills
+
+**Presented by TE Academy and [TE Commons](https://tecommons.org/)**
+
+We invite all advanced Token Engineers for another TE Hard Skills event in April - meet cryptoeconomic researchers, dive into case studies or see presentations of tools and modelling approaches!
+
+**Our guests this time: [Machinations](https://machinations.io/)**  
+
+Founded in 2018, Machinations.io (https://twitter.com/machinationsio  ) is a platform to design and predict game economies & systems for premium, free-to-play, and play-to-earn games. Machinations originated as a PhD research at the University of Amsterdam in 2012 by one of the co-founders.
+
+It has since spread organically through more than 400 academic institutions across the planet. With an open community building in public and rolling out integrations with the most popular telemetry providers & markets, the platform is set to become the standard for
+game economy modeling, forecasting and optimisation.
+
+**What you can expect:**
+In this event, we’ll discuss application cases for Machinatios.io in the Token Engineering sector.
+
+**Take part!**
+- **Date:** Wednesday, April 27, 2022 - 2:00 pm UTC
+- **Format:** online/live
+- **Fees:** free
+- ➡️ **[Register now](https://forms.gle/XHdZTA3Af4gsrfkc6)**
+
+**Want to become a Token Engineer?** 
+With this program, you can prepare yourself for studying TE Fundamentals. Learn more about the first [comprehensive education and certification program in Token Engineering](https://medium.com/tokenengineering/token-engineering-fundamentals-49b15b42fa5) and sign up now! 
 
 ## DAO Rewards Systems
 ![Rewards Systems Gathering](/img/Rewards_Systems_Wide.jpg)
