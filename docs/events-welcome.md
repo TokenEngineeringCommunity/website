@@ -32,6 +32,11 @@ Online/live
 **TE Academy**    
 Conference 
 
+📆 Wednesday, April 27, 2022 - 2:00 pm UTC  
+**[Token Engineering Hard Skills feat. Machinations.io](https://forms.gle/XHdZTA3Af4gsrfkc6)**      
+**TE Academy**    
+Online/live 
+
 ## March 2022  
 📆 Wednesday, March 16/23/30, 2022 - 1:00 PM UTC   
 **[Token Engineering 360](https://calendar.google.com/event?action=TEMPLATE&tmeid=NWlyaDlodDZ2YzFqcjFwdWdmOW1kdGI1cGdfMjAyMjAzMTZUMTMwMDAwWiBjX3ZvYXVmaG85YXYyZjI3ZmZqZzAxcjA2dmQ4QGc&tmsrc=c_voaufho9av2f27ffjg01r06vd8%40group.calendar.google.com&scp=ALL)**    
