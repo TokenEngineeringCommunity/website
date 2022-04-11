@@ -6,6 +6,12 @@ sidebar_label: Events
 ## TokenEngineering Events & Public Lectures
 We run public events almost every single week and invite anyone interested in Token Engineering to join us. See you there!
 
+## May 2022  
+📆 Thursday, May 5, 2022 - 5:00pm UTC  
+**[Introduction to Token Engineering](https://forms.gle/tnjzPNDGrYsatUyD9)**      
+**TE Academy**  
+Online/live 
+
 ## April 2022  
 📆 Friday, April 1, 2022 - 3:00pm UTC  
 **[Introduction to Token Engineering](https://forms.gle/tnjzPNDGrYsatUyD9)**      
