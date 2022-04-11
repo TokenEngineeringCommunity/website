@@ -73,7 +73,7 @@ Founded in 2018, Machinations.io (https://twitter.com/machinationsio  ) is a
 It has since spread organically through more than 400 academic institutions across the planet. With an open community building in public and rolling out integrations with the most popular telemetry providers & markets, the platform is set to become the standard for
 game economy modeling, forecasting and optimisation.
 
-**What you can expect:**
+**What you can expect:**  
 In this event, we’ll discuss application cases for Machinatios.io in the Token Engineering sector.
 
 **Take part!**  
