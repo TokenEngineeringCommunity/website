@@ -13,17 +13,18 @@ We run public events almost every single week and invite anyone interested in To
 Online/live 
 
 ## April 2022  
-📆 Friday, April 1, 2022 - 3:00pm UTC  
-**[Introduction to Token Engineering](https://forms.gle/tnjzPNDGrYsatUyD9)**      
-**TE Academy**  
+
+📆 Wednesday, April 27, 2022 - 2:00 pm UTC  
+**[Token Engineering Hard Skills feat. Machinations.io](https://forms.gle/XHdZTA3Af4gsrfkc6)**      
+**TE Academy**    
 Online/live 
 
-📆 Monday, April 4, 2022 - 3:00 PM UTC   
-**[TokenSPICE monthly hack](https://calendar.google.com/calendar/u/1?cid=Y192MGRoOXQxcnBsOWpxcXQ1YTRzaDk5dXYzb0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)**    
-**TE Academy**  
-Online/live 
+📆 Monday and Tuesday, April 18-19, 2022  
+**[Global Governance Gathering - DAOist Amsterdam](https://kolektivo.notion.site/The-DAOist-s-Global-Governance-Gathering-91d0893ea42442c686aa3dec25dc3598)**      
+**TE Academy**    
+Conference 
 
-📆 Wednesday, April 6/13/20/27, 2022 - 12:00 PM UTC   
+📆 Wednesday, April 6/13, 2022 - 12:00 PM UTC   
 **[Token Engineering 360](https://calendar.google.com/calendar/u/0?cid=Y192b2F1ZmhvOWF2MmYyN2ZmamcwMXIwNnZkOEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)**    
 **TE Academy**  
 Online/live 
@@ -33,14 +34,14 @@ Online/live
 **TE Academy**  
 Online/live 
 
-📆 Monday and Tuesday, April 18-19, 2022  
-**[Global Governance Gathering - DAOist Amsterdam](https://kolektivo.notion.site/The-DAOist-s-Global-Governance-Gathering-91d0893ea42442c686aa3dec25dc3598)**      
-**TE Academy**    
-Conference 
+📆 Monday, April 4, 2022 - 3:00 PM UTC   
+**[TokenSPICE monthly hack](https://calendar.google.com/calendar/u/1?cid=Y192MGRoOXQxcnBsOWpxcXQ1YTRzaDk5dXYzb0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)**    
+**TE Academy**  
+Online/live 
 
-📆 Wednesday, April 27, 2022 - 2:00 pm UTC  
-**[Token Engineering Hard Skills feat. Machinations.io](https://forms.gle/XHdZTA3Af4gsrfkc6)**      
-**TE Academy**    
+📆 Friday, April 1, 2022 - 3:00pm UTC  
+**[Introduction to Token Engineering](https://forms.gle/tnjzPNDGrYsatUyD9)**      
+**TE Academy**  
 Online/live 
 
 ## March 2022  
