@@ -46,18 +46,21 @@ We’ll discuss challenges and opportunities from many angles, based on writings
     - Decentralization and permissionless systems  
     - Governance as capital 
     - Engineering Ethics  
+
+**TE360 Around the Globe**
+- With members of our community around the globe, we're going to start a series of events in local hubs.
+- They will happen in local languages and with the best time zones for each hub.
+- Come by to discuss cryptoeconomics and learn more about perpectives in India, Brazil, New Zealand/APAC and more! 
    
-**Take part:** This program is open to anyone interested in Token Engineering. [Add this program to your calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=NWlyaDlodDZ2YzFqcjFwdWdmOW1kdGI1cGdfMjAyMjAzMTZUMTMwMDAwWiBjX3ZvYXVmaG85YXYyZjI3ZmZqZzAxcjA2dmQ4QGc&tmsrc=c_voaufho9av2f27ffjg01r06vd8%40group.calendar.google.com&scp=ALL) and come by!   
-No registration, no application required.  
+**Fees:** free! No registration, no application required.
+**Start Date:** Wednesday, March 16, 2022  
+**Take part:** This program is open to anyone interested in Token Engineering. Learn more about local hubs and find out how to join each session at [TE360 Global Overview](https://www.notion.so/te-academy/Goals-TE360-Local-Hubs-996d6b12e2404ddf902fc5be41c92123).
+ 
+
+➡️ Watch the recordings of past sessions at our [YouTube Channel](https://youtube.com/playlist?list=PL-GxJch-YeZeprcq0w6B90oBdieE22IdD)!  
 
 **Want to become a Token Engineer?** 
 With this program, you can prepare yourself for studying TE Fundamentals. Learn more about the first [comprehensive education and certification program in Token Engineering](https://medium.com/tokenengineering/token-engineering-fundamentals-49b15b42fa5) and sign up now! 
-
-**Fees:** free   
-**Start Date:** Wednesday, March 16, 2022  
-**Add this to your [calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=NWlyaDlodDZ2YzFqcjFwdWdmOW1kdGI1cGdfMjAyMjAzMTZUMTMwMDAwWiBjX3ZvYXVmaG85YXYyZjI3ZmZqZzAxcjA2dmQ4QGc&tmsrc=c_voaufho9av2f27ffjg01r06vd8%40group.calendar.google.com&scp=ALL)**
-
-➡️ Watch the recordings of past sessions at our [YouTube Channel](https://youtube.com/playlist?list=PL-GxJch-YeZeprcq0w6B90oBdieE22IdD)!  
 
 ## Token Engineering Hard Skills
 ![TokenEngineeringHardSkills](/img/TEHardskillsWide.jpg) 
