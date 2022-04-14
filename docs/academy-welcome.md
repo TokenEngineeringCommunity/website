@@ -38,7 +38,7 @@ In this series of sessions you’ll gain a 360-degree overview on Token Engineer
 We’ll discuss challenges and opportunities from many angles, based on writings of major thought leaders in the space: [Vitalik Buterin](https://twitter.com/VitalikButerin), [Trent McConaghy](https://twitter.com/trentmc0), [Michael Zargham](https://twitter.com/mzargham), [Joel Monegro](https://twitter.com/jmonegro) and others.
 
 **Here’s what you can expect:**  
-- 6 sessions, 1 hour per week plus individual learning time  
+- 5 sessions, 1 hour per week plus individual learning time  
 - Meet other aspiring Token Engineers  
 - Discuss and sharpen your understanding about:  
     - The power of incentives  
@@ -52,8 +52,8 @@ We’ll discuss challenges and opportunities from many angles, based on writings
 - They will happen in local languages and with the best time zones for each hub.
 - Come by to discuss cryptoeconomics and learn more about perpectives in India, Brazil, New Zealand/APAC and more! 
    
-**Fees:** free! No registration, no application required. 
-**Start Date:** Wednesday, March 16, 2022  
+**Fees:** free! No registration, no application required.   
+**Start Date:** Find all session dates, times and links in the overview below.  
 **Take part:** This program is open to anyone interested in Token Engineering. Learn more about local hubs and find out how to join each session at [TE360 Global Overview](https://www.notion.so/te-academy/Global-Overview-TE360-5d339406ebc1459384b609d460a87681).
  
 
@@ -80,7 +80,7 @@ game economy modeling, forecasting and optimisation.
 In this event, we’ll discuss application cases for Machinatios.io in the Token Engineering sector.
 
 **Take part!**  
-**Date:** Wednesday, April 27, 2022 - 2:00 pm UTC  
+**Date:** Wednesday, April 27, 2022 - 2:00 pm UTC   
 **Format:** online/live  
 **Fees:** free  
 ➡️ **[Register now](https://forms.gle/XHdZTA3Af4gsrfkc6)**  
