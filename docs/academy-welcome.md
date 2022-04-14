@@ -52,9 +52,9 @@ We’ll discuss challenges and opportunities from many angles, based on writings
 - They will happen in local languages and with the best time zones for each hub.
 - Come by to discuss cryptoeconomics and learn more about perpectives in India, Brazil, New Zealand/APAC and more! 
    
-**Fees:** free! No registration, no application required.
+**Fees:** free! No registration, no application required. 
 **Start Date:** Wednesday, March 16, 2022  
-**Take part:** This program is open to anyone interested in Token Engineering. Learn more about local hubs and find out how to join each session at [TE360 Global Overview](https://www.notion.so/te-academy/Goals-TE360-Local-Hubs-996d6b12e2404ddf902fc5be41c92123).
+**Take part:** This program is open to anyone interested in Token Engineering. Learn more about local hubs and find out how to join each session at [TE360 Global Overview](https://www.notion.so/te-academy/Global-Overview-TE360-5d339406ebc1459384b609d460a87681).
  
 
 ➡️ Watch the recordings of past sessions at our [YouTube Channel](https://youtube.com/playlist?list=PL-GxJch-YeZeprcq0w6B90oBdieE22IdD)!  
@@ -71,7 +71,7 @@ We invite all advanced Token Engineers for another TE Hard Skills event in April
 
 **Our guests this time: [Machinations](https://machinations.io/)**  
 
-Founded in 2018, Machinations.io (https://twitter.com/machinationsio  ) is a platform to design and predict game economies & systems for premium, free-to-play, and play-to-earn games. Machinations originated as a PhD research at the University of Amsterdam in 2012 by one of the co-founders.
+Founded in 2018, [Machinations](https://twitter.com/machinationsio) is a platform to design and predict game economies & systems for premium, free-to-play, and play-to-earn games. Machinations originated as a PhD research at the University of Amsterdam in 2012 by one of the co-founders.
 
 It has since spread organically through more than 400 academic institutions across the planet. With an open community building in public and rolling out integrations with the most popular telemetry providers & markets, the platform is set to become the standard for
 game economy modeling, forecasting and optimisation.
