@@ -83,7 +83,7 @@ In this event, we’ll discuss application cases for Machinatios.io in the Token
 **Date:** Wednesday, April 27, 2022 - 2:00 pm UTC   
 **Format:** online/live  
 **Fees:** free  
-➡️ **[Register now](https://forms.gle/XHdZTA3Af4gsrfkc6)**  
+➡️ **[Watch the recording](https://youtu.be/DNGvEWzGEQM)**  
 
 
 ## DAO Rewards Systems
