@@ -7,34 +7,64 @@ sidebar_label: Events
 We run public events almost every single week and invite anyone interested in Token Engineering to join us. See you there!
 
 ## June 2022 
+📆 Every Saturday, June 4/11/18/25, 2022 - 5:30am UTC  
+**[TE360 - Rajath](https://www.notion.so/te-academy/beab4ea4740f4bf49c76226c7a071017?v=1ab74d2ac24e4a2887ee5acd519d9011)**  
+**TE Academy**  
+Online/live 
+
 📆 Friday, June 3, 2022 - 11:00am UTC  
 **[TE360 - The Finneys](https://www.notion.so/te-academy/245078994a0c421ca64e7d1bf9785153?v=bca56febea324ad2bcd434d68279dc3c)**      
 **TE Academy**  
 In Person/ Online 
 
 📆 Wednesday, June 1, 2022 - 7:00pm UTC  
-**[TE360 - Elinor Ostrom](https://www.notion.so/te-academy/698722c67e4d438dbc4089e0ff9dc783?v=e34b4f70e2934ef6bbe6fbce002ac9c7)**      
+**[TE360 - Elinor Ostrom](https://www.notion.so/te-academy/698722c67e4d438dbc4089e0ff9dc783?v=e34b4f70e2934ef6bbe6fbce002ac9c7)**     
 **TE Academy**  
 Online/live 
 
+📆 Wednesday, June 01 and 08, 2022 - 11:00am UTC  
+**[TE360 - UK](https://www.notion.so/te-academy/297b0a4c0455409b8bd838210f6c4016?v=f9a644f67c684fde97dfe54558f49d7f)**      
+**TE Academy**  
+Online/live 
+
+📆 Tuesday, June 7, 2022 - 7:00pm UTC  
+**[TE360 - Italy](https://www.notion.so/te-academy/4bc767d08cc0403181fa8a389aeab602?v=83792926d1ed483eae50adde114425de)**     
+**TE Academy**  
+In Person/ Online 
+
 ## May 2022 
+📆 Saturday, May 28, 2022 - 5:30am UTC  
+**[TE360 - Rajath](https://www.notion.so/te-academy/beab4ea4740f4bf49c76226c7a071017?v=1ab74d2ac24e4a2887ee5acd519d9011)**     
+**TE Academy**  
+Online/ Live
+
+📆 Every Wednesday, May 11/18/25, 2022 - 11:00am UTC  
+**[TE360 - UK](https://www.notion.so/te-academy/297b0a4c0455409b8bd838210f6c4016?v=f9a644f67c684fde97dfe54558f49d7f)**      
+**TE Academy**  
+Online/live 
+
+📆 Every Tuesday, May 10/17/24, 2022 - 7:00pm UTC  
+**[TE360 - Italy](https://www.notion.so/te-academy/4bc767d08cc0403181fa8a389aeab602?v=83792926d1ed483eae50adde114425de)**     
+**TE Academy**  
+In Person/ Online 
+
 📆 Every Friday, May 6/13/20/27, 2022 - 11:00am UTC  
 **[TE360 - The Finneys](https://www.notion.so/te-academy/245078994a0c421ca64e7d1bf9785153?v=bca56febea324ad2bcd434d68279dc3c)**      
 **TE Academy**  
 In Person/ Online 
 
-📆 Every Tuesday, May 3/10/17/24, 2022 - 10:00am UTC  
-**[TE360 - APAC](https://www.notion.so/te-academy/3aef8cc35675460c887e69bc1c2fc4a5?v=183e78aea6d34844a34efe7f5be6529c)**      
+📆 Thursday, May 5, 2022 - 5:00pm UTC  
+**[Introduction to Token Engineering](https://forms.gle/tnjzPNDGrYsatUyD9)**      
 **TE Academy**  
 Online/live 
 
 📆 Every Wednesday, May 4/11/18/25, 2022 - 7:00pm UTC  
-**[TE360 - Elinor Ostrom](https://www.notion.so/te-academy/698722c67e4d438dbc4089e0ff9dc783?v=e34b4f70e2934ef6bbe6fbce002ac9c7)**      
+**[TE360 - Elinor Ostrom](https://www.notion.so/te-academy/698722c67e4d438dbc4089e0ff9dc783?v=e34b4f70e2934ef6bbe6fbce002ac9c7)**     
 **TE Academy**  
 Online/live 
 
-📆 Thursday, May 5, 2022 - 5:00pm UTC  
-**[Introduction to Token Engineering](https://forms.gle/tnjzPNDGrYsatUyD9)**      
+📆 Every Tuesday, May 3/10/17/24, 2022 - 7:00am UTC  
+**[TE360 - APAC](https://www.notion.so/te-academy/3aef8cc35675460c887e69bc1c2fc4a5?v=183e78aea6d34844a34efe7f5be6529c)**      
 **TE Academy**  
 Online/live 
 
