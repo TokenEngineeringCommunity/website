@@ -8,9 +8,9 @@ sidebar_label: Academy
 The TokenEngineering Academy (TE Academy) offers lectures, workshops, and seminars for anyone interested in this new, emerging field. We invite individuals and project teams to learn, collaborate, and put token engineering into practice. 
 
 ## Token Engineering Fundamentals
-![TE Fundamentals](/img/TEF_Wide.png)
+![TE Fundamentals](/img/TEF_Wide_042022.jpg)
 
-**Supported by [TE Commons](https://tecommons.org/) and [1kx](http://www.1kx.network)**
+**Supported by [1kx](http://www.1kx.network), [TE Commons](https://tecommons.org/), and [ConsenSys](https://consensys.net/)**
 
 TE Academy builds the first comprehensive education & certification program in Token Engineering!  
 This course will be offered online and is accessible to interested students around the globe. In parallel to the online course, we'll offer online study groups, where students can learn together, meet their peers, and prepare for the examination. Graduates will have the chance to participate in matchmaking activities to meet interesting crypto projects and pick up a token engineering engagement right after the course.
@@ -30,9 +30,9 @@ This course will be offered online and is accessible to interested students arou
 #### ➡️ [Pre-registration is open - sign-up now and get ready for the program!](https://forms.gle/QEUQwryyp3crYv8g9)
 
 ## Token Engineering 360
-![TokenEngineering360](/img/TE360_wide.jpg) 
+![TokenEngineering360](/img/TE_360_Wide_042022.jpg) 
 
-**Supported by [TE Commons](https://tecommons.org/) and [1kx](http://www.1kx.network)**
+**Supported by [1kx](http://www.1kx.network), [TE Commons](https://tecommons.org/), and [ConsenSys](https://consensys.net/)**
 
 In this series of sessions you’ll gain a 360-degree overview on Token Engineering and crypto-economic systems.
 We’ll discuss challenges and opportunities from many angles, based on writings of major thought leaders in the space: [Vitalik Buterin](https://twitter.com/VitalikButerin), [Trent McConaghy](https://twitter.com/trentmc0), [Michael Zargham](https://twitter.com/mzargham), [Joel Monegro](https://twitter.com/jmonegro) and others.
