@@ -27,7 +27,7 @@ Online/live
 **TE Academy**  
 Online/live 
 
-📆 Tuesday, June 7, 2022 - 5:00pm UTC  
+📆 Tuesdays, June 7 and 14, 2022 - 5:00pm UTC  
 **[TE360 - Italy](https://www.notion.so/te-academy/4bc767d08cc0403181fa8a389aeab602?v=83792926d1ed483eae50adde114425de)**     
 **TE Academy**  
 In Person/ Online 
@@ -43,7 +43,7 @@ Online/ Live
 **TE Academy**  
 Online/live 
 
-📆 Every Tuesday, May 10/17/24, 2022 - 5:00pm UTC  
+📆 Every Tuesday, May 17/ 24/ 31, 2022 - 5:00pm UTC  
 **[TE360 - Italy](https://www.notion.so/te-academy/4bc767d08cc0403181fa8a389aeab602?v=83792926d1ed483eae50adde114425de)**     
 **TE Academy**  
 In Person/ Online 
