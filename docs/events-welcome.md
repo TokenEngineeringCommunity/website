@@ -12,6 +12,11 @@ We run public events almost every single week and invite anyone interested in To
 **TE Academy**  
 Online/live 
 
+📆 Friday, June 10, 2022 - 4:00pm UTC  
+**[Introduction to Token Engineering in Spanish](https://forms.gle/tnjzPNDGrYsatUyD9)**      
+**TE Academy**  
+Online/live 
+
 📆 Friday, June 3, 2022 - 2:00pm UTC  
 **[TE360 - The Finneys](https://www.notion.so/te-academy/245078994a0c421ca64e7d1bf9785153?v=bca56febea324ad2bcd434d68279dc3c)**      
 **TE Academy**  
