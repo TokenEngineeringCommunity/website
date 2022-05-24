@@ -30,9 +30,9 @@ This course will be offered online and is accessible to interested students arou
 #### ➡️ [Pre-registration is open - sign-up now and get ready for the program!](https://forms.gle/QEUQwryyp3crYv8g9)
 
 ## Token Engineering 360
-![TokenEngineering360](/img/TE_360_Wide_042022.jpg) 
+![TokenEngineering360](/img/TE_360_Wide_052022.jpg) 
 
-**Supported by [1kx](http://www.1kx.network), [TE Commons](https://tecommons.org/), and [ConsenSys](https://consensys.net/)**
+**Supported by [Ethereum Foundation/Road to DevCon](https://devcon.org/en/#road-to-devcon), [1kx](http://www.1kx.network), [TE Commons](https://tecommons.org/), and [ConsenSys](https://consensys.net/)**
 
 In this series of sessions you’ll gain a 360-degree overview on Token Engineering and crypto-economic systems.
 We’ll discuss challenges and opportunities from many angles, based on writings of major thought leaders in the space: [Vitalik Buterin](https://twitter.com/VitalikButerin), [Trent McConaghy](https://twitter.com/trentmc0), [Michael Zargham](https://twitter.com/mzargham), [Joel Monegro](https://twitter.com/jmonegro) and others.
@@ -48,9 +48,9 @@ We’ll discuss challenges and opportunities from many angles, based on writings
     - Engineering Ethics  
 
 **TE360 Around the Globe**
-- With members of our community around the globe, we're going to start a series of events in local hubs.
-- They will happen in local languages and with the best time zones for each hub.
-- Come by to discuss cryptoeconomics and learn more about perpectives in India, Brazil, New Zealand/APAC and more! 
+- With our local hosts around the globe
+- meet your local peers, in your native language
+- discuss cryptoeconomics and learn more about perpectives in India, Brazil, New Zealand/APAC and more! 
    
 **Fees:** free! No registration, no application required.   
 **Start Date:** Find all session dates, times and links in the overview below.  
