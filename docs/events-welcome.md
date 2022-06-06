@@ -7,6 +7,13 @@ sidebar_label: Events
 We run public events almost every single week and invite anyone interested in Token Engineering to join us. See you there!
 
 ## June 2022 
+
+📆 Thursday, June 23, 2022 - 3:00pm UTC to 4:30pm UTC   
+Diving Deeper - TE Guest Lectures:      
+**[Computational Social Choice (COMSOC) and Crypto - Session #1](https://forms.gle/G9qu2UQtGTjPEWzP9)**      
+**TE Academy**  
+Online/live 
+
 📆 Every Saturday, June 4/11/18/25, 2022 - 5:30am UTC  
 **[TE360 - Rajath](https://www.notion.so/te-academy/beab4ea4740f4bf49c76226c7a071017?v=1ab74d2ac24e4a2887ee5acd519d9011)**  
 **TE Academy**  
