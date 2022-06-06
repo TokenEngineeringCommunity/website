@@ -10,7 +10,7 @@ We run public events almost every single week and invite anyone interested in To
 
 📆 Thursday, June 23, 2022 - 3:00pm UTC to 4:30pm UTC   
 Diving Deeper - TE Guest Lectures:      
-**[Computational Social Choice (COMSOC) and Crypto - Session #1](https://forms.gle/G9qu2UQtGTjPEWzP9)**      
+**[Computational Social Choice and Crypto - Session #1](https://forms.gle/G9qu2UQtGTjPEWzP9)**      
 **TE Academy**  
 Online/live 
 
