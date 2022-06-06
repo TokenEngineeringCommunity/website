@@ -7,6 +7,44 @@ sidebar_label: Academy
 
 The TokenEngineering Academy (TE Academy) offers lectures, workshops, and seminars for anyone interested in this new, emerging field. We invite individuals and project teams to learn, collaborate, and put token engineering into practice. 
 
+## Computational Social Choice and Crypto       
+![ComSoc_wide](https://user-images.githubusercontent.com/97741572/172261780-f8fd8568-4109-40f9-8c2a-a0db3b64ad89.jpeg)
+
+#DivingDeeper - Guest Lectures at TE Academy    
+**Presented by TE Academy**
+
+Social choice deals with designing and analysing algorithmic and game-theoretic that are applicable for making community decisions that respect the preferences of the community members. This includes tasks as varied as **how to divide resources among agents, match agents to resources, and make joint decisions that are acceptable and beneficial to the community as a whole.** Such algorithms are crucial in crypto both for network-level operations such as selecting a validator committee and reaching a voting-based consensus and governance-level operations such as changing a protocol or deciding on how to use a DAO treasury.
+
+This series of lectures will provide a general overview of the field and present some of its classical theoretical results.
+
+**Our Guest: [Assistant Professor Nimrod Talmon, PhD](https://in.bgu.ac.il/en/Pages/Nimrod-Talmon.aspx)**    
+Ben-Gurion University, Israel
+
+Nimrod Talmon is a tenured assistant professor in Ben-Gurion University and a consultant for technological companies in the crypto sector. His main research is in the intersection of computational social choice, combinatorial optimization, and decentralized governance in the context of decentralized autonomous organizations. He is regularly publishing in venues such as AAAI, IJCAI, and AAMAS, and serving in the program committee of these conferences. He has an Erdos number 3, Sabbath number 7, and, arguably, Bacon number 6.
+
+**What you can expect:**  
+- Three sessions, 90 mins each
+- Additional reading materials
+- Meet and discuss with other aspiring Token Engineers
+- Discuss and sharpen your understanding about:
+    - COMSOC general overview
+    - Preference aggregation and voting systems
+    - The governance scalability problem
+
+**Start Date:**    
+Session 1: Thursday, June 23, 2021 - 3:00pm UTC    
+Session 2+3: September 2021, TBD
+**Format:** online/live  
+**Fees:** free    
+**Register:** [Please sign up via this form!](https://forms.gle/Ai8m74rQTKzLGpua8)
+
+**Requirements:** This program is open to anyone interested in Token Engineering, DAO voting systems, and any form of selection and ranking systems.    
+No prior knowledge is required. However, students without a background in Game Theory, Economics, or Maths can expect a steep learning curve. But don’t panic; we’ll provide additional reading material.    
+**We strongly recommend this program to students who have signed up for TE Fundamentals.**
+
+**Want to become a Token Engineer?** Learn more about the [first comprehensive education and certification program in Token Engineering.](https://medium.com/tokenengineering/token-engineering-fundamentals-49b15b42fa5) Sign up now!
+
+
 ## Token Engineering Fundamentals
 ![TE Fundamentals](/img/TEF_Wide_042022.jpg)
 
