@@ -13,7 +13,7 @@ The TokenEngineering Academy (TE Academy) offers lectures, workshops, and semina
 #DivingDeeper - Guest Lectures at TE Academy    
 **Presented by TE Academy**
 
-Social choice deals with designing and analysing algorithmic and game-theoretic that are applicable for making community decisions that respect the preferences of the community members. This includes tasks as varied as **how to divide resources among agents, match agents to resources, and make joint decisions that are acceptable and beneficial to the community as a whole.** Such algorithms are crucial in crypto both for network-level operations such as selecting a validator committee and reaching a voting-based consensus and governance-level operations such as changing a protocol or deciding on how to use a DAO treasury.
+Social choice deals with designing and analysing algorithmic and game-theoretic principles that are applicable for making community decisions that respect the preferences of the community members. This includes tasks as varied as **how to divide resources among agents, match agents to resources, and make joint decisions that are acceptable and beneficial to the community as a whole.** Such algorithms are crucial in crypto both for network-level operations such as selecting a validator committee and reaching a voting-based consensus and governance-level operations such as changing a protocol or deciding on how to use a DAO treasury.
 
 This series of lectures will provide a general overview of the field and present some of its classical theoretical results.
 
