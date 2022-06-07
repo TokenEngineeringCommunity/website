@@ -7,7 +7,7 @@ sidebar_label: Academy
 
 The TokenEngineering Academy (TE Academy) offers lectures, workshops, and seminars for anyone interested in this new, emerging field. We invite individuals and project teams to learn, collaborate, and put token engineering into practice. 
 
-## Computational Social Choice and Crypto       
+## Computational Social Choice (COMSOC) and Crypto       
 ![ComSoc_wide](https://user-images.githubusercontent.com/97741572/172261780-f8fd8568-4109-40f9-8c2a-a0db3b64ad89.jpeg)
 
 #DivingDeeper - Guest Lectures at TE Academy    
