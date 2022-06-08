@@ -17,7 +17,7 @@ Social choice deals with designing and analysing algorithmic and game-theoretic 
 
 This series of lectures will provide a general overview of the field and present some of its classical theoretical results.
 
-**Our Guest: [Assistant Professor Nimrod Talmon, PhD](https://in.bgu.ac.il/en/Pages/Nimrod-Talmon.aspx)**    
+**Our Guest: [Assistant Professor Nimrod Talmon, PhD](https://sites.google.com/view/zutot)**    
 Ben-Gurion University, Israel
 
 Nimrod Talmon is a tenured assistant professor in Ben-Gurion University and a consultant for technological companies in the crypto sector. His main research is in the intersection of computational social choice, combinatorial optimization, and decentralized governance in the context of decentralized autonomous organizations. He is regularly publishing in venues such as AAAI, IJCAI, and AAMAS, and serving in the program committee of these conferences. He has an Erdös number 3, Sabbath number 7, and, arguably, Bacon number 6.
