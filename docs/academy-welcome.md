@@ -32,8 +32,8 @@ Nimrod Talmon is a tenured assistant professor in Ben-Gurion University and a co
     - The governance scalability problem
 
 **Start Date:**    
-Session 1: Thursday, June 23, 2021 - 3:00pm UTC    
-Session 2+3: September 2021, TBD    
+Session 1: Thursday, June 23, 2022 - 3:00pm UTC    
+Session 2+3: September 2022, TBD    
 **Format:** online/live   
 **Fees:** free    
 **Register:** [Please sign up via this form!](https://forms.gle/Ai8m74rQTKzLGpua8)
