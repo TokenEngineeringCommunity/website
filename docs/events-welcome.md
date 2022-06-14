@@ -6,11 +6,48 @@ sidebar_label: Events
 ## TokenEngineering Events & Public Lectures
 We run public events almost every single week and invite anyone interested in Token Engineering to join us. See you there!
 
+## July 2022 
+
+📆 Thursday, July 14, 2022 - 2:00pm UTC  
+**[Introduction to Token Engineering](https://forms.gle/tnjzPNDGrYsatUyD9)**      
+**TE Academy**  
+Online/live
+
+📆 Wednesdays, July 6 and 13, 2022 - 10:00pm UTC  
+**[TE360 - LATAM](https://www.notion.so/te-academy/245078994a0c421ca64e7d1bf9785153?v=bca56febea324ad2bcd434d68279dc3c)**  
+**TE Academy**  
+Online/live 
+
+📆 Every Tuesday, July 5/ 12/ 19/ 26, 2022 - 2:00pm UTC  
+**[TE360 - Engenharia de Tokens Aplicada](https://www.notion.so/te-academy/31e5d37e7a4341e395e498fbe0888a7b?v=ce16ee3a6a9b44748802b85ff3725a77)**  
+**TE Academy**  
+Online/live 
+
+📆 Tuesdays, July 5 and 12, 2022 - 7:00am UTC  
+**[TE360 - APAC](https://www.notion.so/te-academy/3aef8cc35675460c887e69bc1c2fc4a5?v=183e78aea6d34844a34efe7f5be6529c)**      
+**TE Academy**  
+Online/live 
+
 ## June 2022 
+
+📆 Tuesdays, June 21 and 28, 2022 - 2:00pm UTC  
+**[TE360 - Engenharia de Tokens Aplicada](https://www.notion.so/te-academy/31e5d37e7a4341e395e498fbe0888a7b?v=ce16ee3a6a9b44748802b85ff3725a77)**  
+**TE Academy**  
+Online/live 
+
+📆 Wednesdays, June 15/22/29, 2022 - 10:00pm UTC  
+**[TE360 - LATAM](https://www.notion.so/te-academy/245078994a0c421ca64e7d1bf9785153?v=bca56febea324ad2bcd434d68279dc3c)**  
+**TE Academy**  
+Online/live 
 
 📆 Thursday, June 23, 2022 - 3:00pm UTC to 4:30pm UTC   
 Diving Deeper - TE Guest Lectures:      
 **[Computational Social Choice and Crypto - Session #1](https://forms.gle/G9qu2UQtGTjPEWzP9)**      
+**TE Academy**  
+Online/live 
+
+📆 Every Tuesday, June 7/ 14/ 21/ 28, 2022 - 7:00am UTC  
+**[TE360 - APAC](https://www.notion.so/te-academy/3aef8cc35675460c887e69bc1c2fc4a5?v=183e78aea6d34844a34efe7f5be6529c)**      
 **TE Academy**  
 Online/live 
 
@@ -39,7 +76,7 @@ Online/live
 **TE Academy**  
 Online/live 
 
-📆 Tuesdays, June 7 and 14, 2022 - 5:00pm UTC  
+📆 Tuesdays, June 7 and 21, 2022 - 5:00pm UTC  
 **[TE360 - Italy](https://www.notion.so/te-academy/4bc767d08cc0403181fa8a389aeab602?v=83792926d1ed483eae50adde114425de)**     
 **TE Academy**  
 In Person/ Online 
