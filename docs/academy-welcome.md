@@ -11,7 +11,7 @@ The TokenEngineering Academy (TE Academy) offers lectures, workshops, and semina
 ![ComSoc_wide](https://user-images.githubusercontent.com/97741572/172261780-f8fd8568-4109-40f9-8c2a-a0db3b64ad89.jpeg)
 
 #DivingDeeper - Guest Lectures at TE Academy    
-**Presented by TE Academy**
+**Presented by TE Academy and [SCRF – Smart Contract Research Forum](https://www.smartcontractresearch.org/t/new-to-the-forum-start-here/1162)**
 
 Social choice deals with designing and analysing algorithmic and game-theoretic principles that are applicable for making community decisions that respect the preferences of the community members. This includes tasks as varied as **how to divide resources among agents, match agents to resources, and make joint decisions that are acceptable and beneficial to the community as a whole.** Such algorithms are crucial in crypto both for network-level operations such as selecting a validator committee and reaching a voting-based consensus and governance-level operations such as changing a protocol or deciding on how to use a DAO treasury.
 
