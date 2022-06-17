@@ -46,9 +46,9 @@ No prior knowledge is required. However, students without a background in Game T
 
 
 ## Token Engineering Fundamentals
-![TE Fundamentals](/img/TEF_Wide_042022.jpg)
+![TE Fundamentals](/img/TEF_Wide_062022.jpg)
 
-**Supported by [1kx](http://www.1kx.network), [TE Commons](https://tecommons.org/), and [ConsenSys](https://consensys.net/)**
+**Supported by [1kx](http://www.1kx.network), [TE Commons](https://tecommons.org/), [CryptoPlaza](https://cryptoplaza.es/), and [ConsenSys](https://consensys.net/)**
 
 TE Academy builds the first comprehensive education & certification program in Token Engineering!  
 This course will be offered online and is accessible to interested students around the globe. In parallel to the online course, we'll offer online study groups, where students can learn together, meet their peers, and prepare for the examination. Graduates will have the chance to participate in matchmaking activities to meet interesting crypto projects and pick up a token engineering engagement right after the course.
@@ -68,9 +68,9 @@ This course will be offered online and is accessible to interested students arou
 #### ➡️ [Pre-registration is open - sign-up now and get ready for the program!](https://forms.gle/QEUQwryyp3crYv8g9)
 
 ## Token Engineering 360
-![TokenEngineering360](/img/TE_360_Wide_052022.jpg) 
+![TokenEngineering360](/img/TE_360_062022.jpg) 
 
-**Supported by [Ethereum Foundation/Road to DevCon](https://devcon.org/en/#road-to-devcon), [1kx](http://www.1kx.network), [TE Commons](https://tecommons.org/), and [ConsenSys](https://consensys.net/)**
+**Supported by [Ethereum Foundation/Road to DevCon](https://devcon.org/en/#road-to-devcon), [1kx](http://www.1kx.network), [TE Commons](https://tecommons.org/), [CryptoPlaza](https://cryptoplaza.es/), and [ConsenSys](https://consensys.net/)**
 
 In this series of sessions you’ll gain a 360-degree overview on Token Engineering and crypto-economic systems.
 We’ll discuss challenges and opportunities from many angles, based on writings of major thought leaders in the space: [Vitalik Buterin](https://twitter.com/VitalikButerin), [Trent McConaghy](https://twitter.com/trentmc0), [Michael Zargham](https://twitter.com/mzargham), [Joel Monegro](https://twitter.com/jmonegro) and others.
