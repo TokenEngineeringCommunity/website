@@ -168,7 +168,7 @@ const features = [
   },
   {
     title: <>Giveth</>,
-    url: 'https://www.https://giveth.io/',
+    url: 'https://giveth.io/',
     imageUrl: 'img/giveth-logo.png',
     shortDescription: 'Building the Future of Giving',
     description: (
