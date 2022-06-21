@@ -8,7 +8,7 @@ sidebar_label: Academy
 The TokenEngineering Academy (TE Academy) offers lectures, workshops, and seminars for anyone interested in this new, emerging field. We invite individuals and project teams to learn, collaborate, and put token engineering into practice. 
 
 ## Computational Social Choice and Crypto       
-![ComSoc_wide](https://user-images.githubusercontent.com/97741572/172261780-f8fd8568-4109-40f9-8c2a-a0db3b64ad89.jpeg)
+![ComSoc_wide](/img/ComSoc_06-2022_wide.jpg)
 
 #DivingDeeper - Guest Lectures at TE Academy    
 **Presented by TE Academy and [SCRF – Smart Contract Research Forum](https://www.smartcontractresearch.org/t/new-to-the-forum-start-here/1162)**
