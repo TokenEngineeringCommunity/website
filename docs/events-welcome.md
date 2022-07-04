@@ -6,6 +6,13 @@ sidebar_label: Events
 ## TokenEngineering Events & Public Lectures
 We run public events almost every single week and invite anyone interested in Token Engineering to join us. See you there!
 
+## August 2022 
+
+📆 Mondays, August 1 and 8, 2022 - 10:00pm UTC  
+**[TE360 - Elinor Ostrom](https://www.notion.so/te-academy/698722c67e4d438dbc4089e0ff9dc783?v=e34b4f70e2934ef6bbe6fbce002ac9c7)**  
+**TE Academy**  
+Online/live 
+
 ## July 2022 
 
 📆 Thursday, July 14, 2022 - 2:00pm UTC  
@@ -25,6 +32,11 @@ Online/live
 
 📆 Tuesdays, July 5 and 12, 2022 - 7:00am UTC  
 **[TE360 - APAC](https://www.notion.so/te-academy/3aef8cc35675460c887e69bc1c2fc4a5?v=183e78aea6d34844a34efe7f5be6529c)**      
+**TE Academy**  
+Online/live 
+
+📆 Every Monday, July 4/ 11/ 18/ 25, 2022 - 10:00pm UTC  
+**[TE360 - Elinor Ostrom](https://www.notion.so/te-academy/698722c67e4d438dbc4089e0ff9dc783?v=e34b4f70e2934ef6bbe6fbce002ac9c7)**  
 **TE Academy**  
 Online/live 
 
