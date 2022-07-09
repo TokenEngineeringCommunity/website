@@ -15,6 +15,11 @@ Online/live
 
 ## July 2022 
 
+📆 Wednesday, July 27, 2022 - Multi-events from 7:00am UTC until 7:30pm UTC  
+**[TE Academy Birthday](https://forms.gle/V8fRWqYab3rnwMsH6)**      
+**TE Academy**  
+Online/live
+
 📆 Thursday, July 14, 2022 - 2:00pm UTC  
 **[Introduction to Token Engineering](https://forms.gle/tnjzPNDGrYsatUyD9)**      
 **TE Academy**  
