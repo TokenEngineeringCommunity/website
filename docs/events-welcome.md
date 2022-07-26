@@ -8,13 +8,13 @@ We run public events almost every single week and invite anyone interested in To
 
 ## August 2022 
 
-📆 Every Tuesday, August 9/ 16/ 23/ 30, 2022 - 5:00pm UTC
+📆 Every Tuesday, August 9/ 16/ 23/ 30, 2022 - 5:00pm UTC    
 **cadCAD Study Group**      
 **TE Academy**  
-Online/live
-[Discord Voice Channel](https://discord.gg/Kr8y2udwVu)
+Online/live    
+On [Discord Voice Channel](https://discord.gg/Kr8y2udwVu)
 
-📆 Friday, August 12, 2022 - 8:00am UTC
+📆 Friday, August 12, 2022 - 8:00am UTC    
 **[Introduction to Token Engineering](https://forms.gle/tnjzPNDGrYsatUyD9)**      
 **TE Academy**  
 Online/live
