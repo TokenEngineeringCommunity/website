@@ -36,7 +36,7 @@ Online/live - In English
 📆 Every Wednesday, September 14/ 21/ 28 - 4:00pm UTC    
 **[TE Fundamentals Study Group - Back to Basics](https://te-academy.notion.site/Back-to-Basics-bdbe95d4042a4017b41bef624590f0fe)**      
 **TE Academy**  
-Online/live    
+Online/live - In English     
 
 📆 Every Wednesday, September 14/ 21/ 28 - 4:00 PM UTC    
 **[TE Fundamentals Study Group - Italy](https://te-academy.notion.site/TE-Fundamentals-Italy-bca3c9dc87f64fdbb39690b33267a4aa)**      
@@ -66,7 +66,7 @@ Online/live - In English
 📆 Every Tuesday, September 1/ 8/ 13/ 20/ 27, 2022 - 5:00pm UTC    
 **Introduction to Complex Systems with Tokens Study Group**      
 **TE Academy**  
-Online/live    
+Online/live - In English    
 On [Discord Voice Channel](https://discord.gg/Kr8y2udwVu)
 
 ## August 2022 
@@ -74,17 +74,17 @@ On [Discord Voice Channel](https://discord.gg/Kr8y2udwVu)
 📆 Thursdays, August 18 and 25, 2022 - 4:00pm UTC    
 **[Machinations Study Group](https://www.notion.so/te-academy/Machinations-Study-Group-ffd9f44920c94589b005810af7272b17)**    
 **TE Academy**  
-Online/live    
+Online/live - In English    
 
 📆 Every Wednesday, August 7/ 14/ 21/ 28, 2022 - 4:00pm UTC    
 **[TE Fundamentals Study Group - Back to Basics](https://te-academy.notion.site/Back-to-Basics-bdbe95d4042a4017b41bef624590f0fe)**      
 **TE Academy**  
-Online/live   
+Online/live - In English   
 
 📆 Every Tuesday, August 9/ 16/ 23/ 30, 2022 - 5:00pm UTC    
 **Introduction to Complex Systems with Tokens Study Group**      
 **TE Academy**  
-Online/live    
+Online/live - In English    
 On [Discord Voice Channel](https://discord.gg/Kr8y2udwVu)
 
 📆 Friday, August 12, 2022 - 8:00am UTC    
