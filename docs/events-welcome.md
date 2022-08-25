@@ -8,12 +8,12 @@ We run public events almost every single week and invite anyone interested in To
 
 ## September 2022 
 
-📆 Every Friday, September 16/ 23/ 30 - 6:00 PM UTC    
+📆 Every Friday, September 16/ 23/ 30 - 5:00 PM UTC    
 **[TE Fundamentals Study Group - Blacksmith](https://te-academy.notion.site/Token-Blacksmith-Study-Group-b3cf2cfc4e7c4056b48bc91e4380cd56)**      
 **TE Academy**  
 Online/live - In English
 
-📆 Every Friday, September 16/ 23/ 30 - 6:00 PM UTC    
+📆 Every Friday, September 16/ 23/ 30 - 2:00 PM UTC    
 **[TE Fundamentals Study Club - For Visual Learners](https://te-academy.notion.site/TE-Study-Club-for-visual-learners-4cf06eb245f34c44b1c1b5bd32cc76e5)**      
 **TE Academy**  
 Online/live - In English
@@ -33,7 +33,7 @@ Online/live - In Spanish
 **TE Academy**  
 Online/live - In English
 
-📆 Every Wednesday, September 14/ 21/ 28 - 4:00pm UTC    
+📆 Every Wednesday, September 14/ 21/ 28 - 4:00PM UTC    
 **[TE Fundamentals Study Group - Back to Basics](https://te-academy.notion.site/Back-to-Basics-bdbe95d4042a4017b41bef624590f0fe)**      
 **TE Academy**  
 Online/live - In English     
