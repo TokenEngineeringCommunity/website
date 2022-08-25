@@ -53,6 +53,11 @@ Online/live  - In Turkish
 **TE Academy**  
 Online/live
 
+📆 Mondays, September 5 and 12, 2022 - 8:00pm UTC  
+**[TE360 - Spain](https://te-academy.notion.site/2f54594388ca49f48beedc5ae2700cfa?v=cbcea9e31308489fb996e1174bba0403)**  
+**TE Academy**  
+Online/live - In Spanish
+
 📆 Wednesday, September 7 - 6:00 PM UTC    
 **[Introduction to Token Engineering in SPANISH](https://forms.gle/tnjzPNDGrYsatUyD9)**      
 **TE Academy**  
@@ -70,6 +75,16 @@ Online/live - In English
 On [Discord Voice Channel](https://discord.gg/Kr8y2udwVu)
 
 ## August 2022 
+
+📆 Mondays, August 15/ 22/ 29, 2022 - 8:00pm UTC  
+**[TE360 - Spain](https://te-academy.notion.site/2f54594388ca49f48beedc5ae2700cfa?v=cbcea9e31308489fb996e1174bba0403)**  
+**TE Academy**  
+Online/live - In Spanish
+
+📆 Thursdays, August 18 and 25, 2022 - 4:00pm UTC    
+**[Machinations Study Group](https://www.notion.so/te-academy/Machinations-Study-Group-ffd9f44920c94589b005810af7272b17)**    
+**TE Academy**  
+Online/live - In English 
 
 📆 Thursdays, August 18 and 25, 2022 - 4:00pm UTC    
 **[Machinations Study Group](https://www.notion.so/te-academy/Machinations-Study-Group-ffd9f44920c94589b005810af7272b17)**    
