@@ -76,15 +76,15 @@ On [Discord Voice Channel](https://discord.gg/Kr8y2udwVu)
 
 ## August 2022 
 
+📆 Every Wednesday, August 10/ 17/ 24/ 31, 2022 - 10:00pm UTC  
+**[TE360 - LATAM](https://www.notion.so/te-academy/245078994a0c421ca64e7d1bf9785153?v=bca56febea324ad2bcd434d68279dc3c)**  
+**TE Academy**  
+Online/live 
+
 📆 Mondays, August 15/ 22/ 29, 2022 - 8:00pm UTC  
 **[TE360 - Spain](https://te-academy.notion.site/2f54594388ca49f48beedc5ae2700cfa?v=cbcea9e31308489fb996e1174bba0403)**  
 **TE Academy**  
 Online/live - In Spanish
-
-📆 Thursdays, August 18 and 25, 2022 - 4:00pm UTC    
-**[Machinations Study Group](https://www.notion.so/te-academy/Machinations-Study-Group-ffd9f44920c94589b005810af7272b17)**    
-**TE Academy**  
-Online/live - In English 
 
 📆 Thursdays, August 18 and 25, 2022 - 4:00pm UTC    
 **[Machinations Study Group](https://www.notion.so/te-academy/Machinations-Study-Group-ffd9f44920c94589b005810af7272b17)**    
@@ -124,7 +124,7 @@ Online/live
 **TE Academy**  
 Online/live
 
-📆 Wednesdays, July 6 and 13, 2022 - 10:00pm UTC  
+📆 Every Wednesday, July 6/ 13/ 20, 2022 - 10:00pm UTC  
 **[TE360 - LATAM](https://www.notion.so/te-academy/245078994a0c421ca64e7d1bf9785153?v=bca56febea324ad2bcd434d68279dc3c)**  
 **TE Academy**  
 Online/live 
