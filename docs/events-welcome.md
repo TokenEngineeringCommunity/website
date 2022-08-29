@@ -43,6 +43,11 @@ Online/live - In English
 **TE Academy**  
 Online/live/in person - In Italian
 
+📆 Wednesday, September 14 - 8:00 AM UTC    
+**[#DivingDeeper Guest Lectures: Computational Social Choice](https://forms.gle/gJJiiMUae9MuE1Y59)**      
+**TE Academy**  
+Online/live/ In Person
+
 📆 Every Tuesday, September 13/ 20/ 27 - 6:00 PM UTC    
 **[TE Fundamentals Study Group - Turkish (Türkçe)](https://te-academy.notion.site/Turkish-Study-Group-T-rk-e-06c2adc05efc49ed93556bfd2d9eb3cf)**      
 **TE Academy**  
