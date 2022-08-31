@@ -7,6 +7,18 @@ sidebar_label: Academy
 
 The TokenEngineering Academy (TE Academy) offers lectures, workshops, and seminars for anyone interested in this new, emerging field. We invite individuals and project teams to learn, collaborate, and put token engineering into practice. 
 
+## Token Engineering @BerlinBlockchainWeek 2022 (BBW2022)
+
+We'll be part of the BerlinBlockchainWeek program with a string of events thoughtout the week of September 12-18.
+
+**What you can expect:**
+- TE Fundamentals Early Access: we'll launch the first module of TE Fundamentals on Sept 12.
+- COMSOC: The second session in this series of lectures about designing DAO Voting Mechanisms with take place on Sept 14.
+- DAO Intelligence: Join us for a workshop at [Dappcon](https://www.dappcon.io/#About) on Sept 13.
+- Token Engineering [Re:Generate](https://www.eventbrite.com/e/regenerate-tickets-393010935287): Discuss regenerative economies with token engineers on Sept 15.  
+ 
+#### ➡️ More details: Find the full schedule for Token Engineering @ BBW2022 events soon here.
+
 ## Token Engineering Fundamentals
 ![TE Fundamentals](/img/TEF_Wide_062022.jpg)
 
@@ -18,12 +30,12 @@ This course will be offered online and is accessible to interested students arou
 **Curriculum Overview:**
 - Crypto-economic Systems
 - The Engineering Design Process
-- Introductions to Economics, Mathematics, Systems Theory, Simulations and Scientific Computing for Token Engineers
-- Selected examples of cryptoeconomic systems and components
+- Introductions to Game Theory, Mathematics, Systems Theory, Simulations and Scientific Computing for Token Engineers
 - Computer-aided, Token-based Governance
 
 **Fees:** free   
-**Start Date:** Q3/2022  
+**Start Date:** October 2022  
+**Start Date:** Join a study group and get early access from September 12, 2022. We'll launch study groups during the TE events at BerlinBlockchainWeek (see above).  
 **Duration:** Learn at your own pace and be ready for examination after around 4 months.  
 **Find all details in this [overview](https://medium.com/tokenengineering/token-engineering-fundamentals-49b15b42fa5).**
 
