@@ -12,10 +12,10 @@ The TokenEngineering Academy (TE Academy) offers lectures, workshops, and semina
 We'll be part of the BerlinBlockchainWeek program with a string of events thoughtout the week of September 12-18.
 
 **What you can expect:**
-- TE Fundamentals Early Access: we'll launch the first module of TE Fundamentals on Sept 12. Read more about the [first comprehensive education and certification program in token engineering](https://medium.com/tokenengineering/token-engineering-fundamentals-49b15b42fa5).
-- COMSOC: The second session in this series of lectures about [designing Voting Mechanisms](https://tokenengineeringcommunity.github.io/website/docs/academy-welcome#computational-social-choice-and-crypto) with take place on Sept 14.
-- DAO Intelligence: Join us for a workshop at [Dappcon](https://www.dappcon.io/#About) on Sept 13.
-- Token Engineering [Re:Generate](https://www.eventbrite.com/e/regenerate-tickets-393010935287): Discuss regenerative economies with token engineers on Sept 15.  
+- **TE Fundamentals Early Access:** we'll launch the first module of TE Fundamentals on Sept 12. Read more about the [first comprehensive education and certification program in token engineering](https://medium.com/tokenengineering/token-engineering-fundamentals-49b15b42fa5).
+- **COMSOC:** The second session in this series of lectures about [designing Voting Mechanisms](https://tokenengineeringcommunity.github.io/website/docs/academy-welcome#computational-social-choice-and-crypto) with take place on Sept 14.
+- **DAO Intelligence:** Join us for a workshop at [Dappcon](https://www.dappcon.io/#About) on Sept 13.
+- **Token Engineering [Re:Generate](https://www.eventbrite.com/e/regenerate-tickets-393010935287):** Discuss regenerative economies with token engineers on Sept 15.  
  
 #### ➡️ More details: Find the detailed schedule for Token Engineering @ BBW2022 events in the next days here.
 
