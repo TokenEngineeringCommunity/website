@@ -14,11 +14,16 @@ We'll be part of the BerlinBlockchainWeek program with a string of events though
 
 **What you can expect:**
 - **TE Fundamentals Early Access:** We'll launch the first module of TE Fundamentals on Sept 12. Read more about the [first comprehensive education and certification program in token engineering](https://medium.com/tokenengineering/token-engineering-fundamentals-49b15b42fa5).
+- **Engineering Ethics, Introduction & Conversation with MZ & Students:** Join a special session with Michael Zargham to discuss [Engineering Ethics in Web3](https://medium.com/token-engineering-commons/engineering-ethics-in-web3-18d981278018). This session will be recorded and later will compose TE Fundamentals Module 1 course.       
 - **COMSOC:** The second session in this series of lectures about [designing Voting Mechanisms](https://tokenengineeringcommunity.github.io/website/docs/academy-welcome#computational-social-choice-and-crypto) with take place on Sept 14.
 - **DAO Intelligence:** Join us for a workshop at [Dappcon](https://www.dappcon.io/#About) on Sept 13.
 - **Token Engineering [Re:Generate](https://www.eventbrite.com/e/regenerate-tickets-393010935287):** Discuss regenerative economies with token engineers on Sept 15.  
  
-#### ➡️ More details: Find the detailed schedule for Token Engineering @ BBW2022 events in the next days here.
+**Take part!** You can join us online or in person.        
+- Online: Link in the [calendar invite](https://calendar.google.com/calendar/u/0?cid=Y192b2F1ZmhvOWF2MmYyN2ZmamcwMXIwNnZkOEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t).       
+- In Person: If you are in Berlin, go to [Full Node](https://goo.gl/maps/Bt2VsGoBPzfG61No8). Arrive early! There are limited spaces, it's first come, first serve.   
+
+#### ➡️ More details: Add the detailed schedule for Token Engineering @ BBW2022 events [here](https://calendar.google.com/calendar/u/0?cid=Y192b2F1ZmhvOWF2MmYyN2ZmamcwMXIwNnZkOEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t).       
 
 ## Token Engineering Fundamentals
 ![TE Fundamentals](/img/TEF_Wide_062022.jpg)
