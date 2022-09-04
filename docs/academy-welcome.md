@@ -29,7 +29,7 @@ Join a special session with Michael Zargham to discuss [Engineering Ethics in We
 
 **DAO Intelligence:**  
 Join us for a workshop at [Dappcon](https://www.dappcon.io/#About) on Sept 13.  
-📆 Tuesday, September 13 – time tbd  
+📆 Tuesday, September 13 – 04:15pm Berlin time 
 at [Dappcon 2022](https://www.dappcon.io)   
 📍 [Radialsystem, Berlin](https://g.page/radialsystem?share)  _ticket required, more [here](https://www.dappcon.io/#About)_  
 
