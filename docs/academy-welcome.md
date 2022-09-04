@@ -44,7 +44,7 @@ Discuss regenerative economies with token engineers on Sept 15.
 📆 Thursday, September 15 – time tbd   
 📍 [Full Node, Berlin](https://goo.gl/maps/Bt2VsGoBPzfG61No8) _ticket required, see [here](https://www.eventbrite.com/e/regenerate-tickets-393010935287)_  
 
-#### ➡️ More details: We've prepared a calendar with all events Token Engineering @ BBW2022 events, [add it to your calendar](https://calendar.google.com/calendar/u/0?cid=Y192b2F1ZmhvOWF2MmYyN2ZmamcwMXIwNnZkOEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)!
+#### ➡️ More details: We've prepared an overview with all events Token Engineering @ BBW2022 events, [add it to your calendar](https://calendar.google.com/calendar/u/0?cid=Y192b2F1ZmhvOWF2MmYyN2ZmamcwMXIwNnZkOEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)!
 
 ## Token Engineering Fundamentals
 ![TE Fundamentals](/img/TEF_Wide_062022.jpg)
