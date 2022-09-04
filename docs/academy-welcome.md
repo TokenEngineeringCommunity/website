@@ -12,18 +12,39 @@ The TokenEngineering Academy (TE Academy) offers lectures, workshops, and semina
 
 We'll be part of the BerlinBlockchainWeek program with a string of events thoughtout the week of September 12-18.
 
-**What you can expect:**
-- **TE Fundamentals Early Access:** We'll launch the first module of TE Fundamentals on Sept 12. Read more about the [first comprehensive education and certification program in token engineering](https://medium.com/tokenengineering/token-engineering-fundamentals-49b15b42fa5).
-- **Engineering Ethics, Introduction & Conversation with MZ & Students:** Join a special session with Michael Zargham to discuss [Engineering Ethics in Web3](https://medium.com/token-engineering-commons/engineering-ethics-in-web3-18d981278018). This session will be recorded and later will compose TE Fundamentals Module 1 course.       
-- **COMSOC:** The second session in this series of lectures about [designing Voting Mechanisms](https://tokenengineeringcommunity.github.io/website/docs/academy-welcome#computational-social-choice-and-crypto) with take place on Sept 14.
-- **DAO Intelligence:** Join us for a workshop at [Dappcon](https://www.dappcon.io/#About) on Sept 13.
-- **Token Engineering [Re:Generate](https://www.eventbrite.com/e/regenerate-tickets-393010935287):** Discuss regenerative economies with token engineers on Sept 15.  
- 
-**Take part!** You can join us online or in person.        
-- Online: Link in the [calendar invite](https://calendar.google.com/calendar/u/0?cid=Y192b2F1ZmhvOWF2MmYyN2ZmamcwMXIwNnZkOEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t).       
-- In Person: If you are in Berlin, go to [Full Node](https://goo.gl/maps/Bt2VsGoBPzfG61No8). Arrive early! There are limited spaces, it's first come, first serve.   
+What you can expect:
 
-#### ➡️ More details: Add the detailed schedule for Token Engineering @ BBW2022 events [here](https://calendar.google.com/calendar/u/0?cid=Y192b2F1ZmhvOWF2MmYyN2ZmamcwMXIwNnZkOEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t).       
+**TE Fundamentals Early Access:**   
+🔥We'll launch the first module of TE Fundamentals on Sept 12. Read more about the [first comprehensive education and certification program in token engineering](https://medium.com/tokenengineering/token-engineering-fundamentals-49b15b42fa5).  
+📆 Monday, September 12 – 09:00am UTC (11:00am Berlin time) and a second session at  
+📆 Monday, September 12 – 02:00pm UTC (04:00pm Berlin time)  
+📍 [Full Node, Berlin](https://goo.gl/maps/Bt2VsGoBPzfG61No8) _no ticket required, but seats are very limited, come early to secure your spot!_  
+📺 [Join online](https://calendar.google.com/calendar/u/0?cid=Y192b2F1ZmhvOWF2MmYyN2ZmamcwMXIwNnZkOEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)  
+
+**Engineering Ethics, Introduction & Conversation with Michael Zargham & Students:**  
+Join a special session with Michael Zargham to discuss [Engineering Ethics in Web3](https://medium.com/token-engineering-commons/engineering-ethics-in-web3-18d981278018). This session will be recorded and be part of the TE Fundamentals Module 1 course.    
+📆 Monday, September 12 – 12:00noon UTC (02:00pm Berlin time)  
+📍 [Full Node, Berlin](https://goo.gl/maps/Bt2VsGoBPzfG61No8) _no ticket required, but seats are very limited, come early to secure your spot!_  
+📺 [Join online](https://calendar.google.com/calendar/u/0?cid=Y192b2F1ZmhvOWF2MmYyN2ZmamcwMXIwNnZkOEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)  
+
+**DAO Intelligence:**  
+Join us for a workshop at [Dappcon](https://www.dappcon.io/#About) on Sept 13.  
+📆 Tuesday, September 13 – time tbd  
+at [Dappcon 2022](https://www.dappcon.io)   
+📍 [Radialsystem, Berlin](https://g.page/radialsystem?share)  _ticket required, more [here](https://www.dappcon.io/#About)_  
+
+**COMSOC:**  
+The second session in this series of lectures about [designing Voting Mechanisms](https://tokenengineeringcommunity.github.io/website/docs/academy-welcome#computational-social-choice-and-crypto) with take place on Sept 14.  
+📆 Wednesday, September 14 – 08:00am UTC (10:00am Berlin time)  
+📍 [Full Node, Berlin](https://goo.gl/maps/Bt2VsGoBPzfG61No8) – _no ticket required, but seats are very limited, come early to secure your spot!_  
+📺 [Join online](https://calendar.google.com/calendar/u/0?cid=Y192b2F1ZmhvOWF2MmYyN2ZmamcwMXIwNnZkOEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)  
+
+**Token Engineering [Re:Generate](https://www.eventbrite.com/e/regenerate-tickets-393010935287):**  
+Discuss regenerative economies with token engineers on Sept 15.    
+📆 Thursday, September 15 – time tbd   
+📍 [Full Node, Berlin](https://goo.gl/maps/Bt2VsGoBPzfG61No8) _ticket required, see [here](https://www.eventbrite.com/e/regenerate-tickets-393010935287)_  
+
+#### ➡️ More details: We've prepared a calendar with all events Token Engineering @ BBW2022 events, [add it to your calendar](https://calendar.google.com/calendar/u/0?cid=Y192b2F1ZmhvOWF2MmYyN2ZmamcwMXIwNnZkOEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)!
 
 ## Token Engineering Fundamentals
 ![TE Fundamentals](/img/TEF_Wide_062022.jpg)
