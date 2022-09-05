@@ -54,7 +54,7 @@ Online/live/ In Person
 Online/live  - In Turkish
 
 📆 Monday, September 12 - 8:00 AM UTC    
-**[TE Fundamentals Module 1 Early Release via Study Groups](https://www.notion.so/te-academy/TE-Fundamentals-Study-Groups-f804dba0577e44578f56c853c20cc91d)**      
+**[TE Fundamentals Early Release via Study Groups](https://tokenengineeringcommunity.github.io/website/docs/academy-welcome#about)**      
 **TE Academy**  
 Online/live
 
