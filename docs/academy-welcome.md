@@ -10,7 +10,7 @@ The TokenEngineering Academy (TE Academy) offers lectures, workshops, and semina
 ## Token Engineering @BerlinBlockchainWeek 2022 (BBW2022)
 ![TE Fundamentals](/img/TEA_BBW2022.jpg)
 
-We'll be part of the BerlinBlockchainWeek program with a string of events thoughtout the week of September 12-18.
+We'll be part of the BerlinBlockchainWeek program with a string of events throughout the week of September 12-18.
 
 What you can expect:
 
@@ -34,7 +34,7 @@ at [Dappcon 2022](https://www.dappcon.io)
 📍 [Radialsystem, Berlin](https://g.page/radialsystem?share)  _ticket required, more [here](https://www.dappcon.io/#About)_  
 
 **COMSOC:**  
-The second session in this series of lectures about [designing Voting Mechanisms](https://tokenengineeringcommunity.github.io/website/docs/academy-welcome#computational-social-choice-and-crypto) with Nimrod Talmon! 
+The second session in this series of lectures about [designing Voting Mechanisms](https://tokenengineeringcommunity.github.io/website/docs/academy-welcome#computational-social-choice-and-crypto) with Nimrod Talmon!       
 📆 Wednesday, September 14 – 08:00am UTC (10:00am Berlin time)  
 📍 [Full Node, Berlin](https://goo.gl/maps/Bt2VsGoBPzfG61No8) – _no ticket required, but seats are very limited, come early to secure your spot!_  
 📺 [Join online](https://calendar.google.com/calendar/u/0?cid=Y192b2F1ZmhvOWF2MmYyN2ZmamcwMXIwNnZkOEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)  
