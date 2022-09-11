@@ -26,6 +26,7 @@ Join a special session with Michael Zargham to discuss [Engineering Ethics in We
 📆 Monday, September 12 – 12:00noon UTC (02:00pm Berlin time)  
 📍 [Full Node, Berlin](https://goo.gl/maps/Bt2VsGoBPzfG61No8) _no ticket required, but seats are very limited, come early to secure your spot!_  
 📺 [Join online](https://calendar.google.com/calendar/u/0?cid=Y192b2F1ZmhvOWF2MmYyN2ZmamcwMXIwNnZkOEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)  
+🔁 [Add your question to the discussion](https://app.sli.do/event/mrGgqS7zkZo6MZDQBxEVhp/live/questions)
 
 **DAO Intelligence:**  
 Join us for a workshop at [Dappcon](https://www.dappcon.io/#About) on Sept 13.  
