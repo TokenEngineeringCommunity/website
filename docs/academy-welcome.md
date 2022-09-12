@@ -24,7 +24,7 @@ What you can expect:
 **Engineering Ethics, Introduction & Conversation with Michael Zargham & Students:**  
 Join a special session with Michael Zargham to discuss [Engineering Ethics in Web3](https://medium.com/token-engineering-commons/engineering-ethics-in-web3-18d981278018). This session will be recorded and be part of the TE Fundamentals Module 1 course.    
 📆 Monday, September 12 – 12:00noon UTC (02:00pm Berlin time)  
-📍 [Full Node, Berlin](https://goo.gl/maps/Bt2VsGoBPzfG61No8) _no ticket required, but seats are very limited, come early to secure your spot!_  
+📍 [Full Node, Berlin](https://goo.gl/maps/Bt2VsGoBPzfG61No8) – Main entrance TR C _no ticket required, but seats are very limited, come early to secure your spot!_  
 📺 [Join online](https://calendar.google.com/calendar/u/0?cid=Y192b2F1ZmhvOWF2MmYyN2ZmamcwMXIwNnZkOEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)  
 🔁 [Add your question to the discussion](https://app.sli.do/event/mrGgqS7zkZo6MZDQBxEVhp/live/questions)
 
@@ -37,7 +37,7 @@ at [Dappcon 2022](https://www.dappcon.io)
 **COMSOC:**  
 The second session in this series of lectures about [designing Voting Mechanisms](https://tokenengineeringcommunity.github.io/website/docs/academy-welcome#computational-social-choice-and-crypto) with Nimrod Talmon!       
 📆 Wednesday, September 14 – 08:00am UTC (10:00am Berlin time)  
-📍 [Full Node, Berlin](https://goo.gl/maps/Bt2VsGoBPzfG61No8) – _no ticket required, but seats are very limited, come early to secure your spot!_  
+📍 [Full Node, Berlin](https://goo.gl/maps/Bt2VsGoBPzfG61No8) – Main entrance TR C _no ticket required, but seats are very limited, come early to secure your spot!_  
 📺 [Join online](https://calendar.google.com/calendar/u/0?cid=Y192b2F1ZmhvOWF2MmYyN2ZmamcwMXIwNnZkOEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)  
 
 **Token Engineering [Re:Generate](https://www.eventbrite.com/e/regenerate-tickets-393010935287):**  
