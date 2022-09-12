@@ -18,7 +18,7 @@ What you can expect:
 🔥We'll launch the first module of TE Fundamentals on Sept 12. Read more about the [first comprehensive education and certification program in token engineering](https://medium.com/tokenengineering/token-engineering-fundamentals-49b15b42fa5).  
 📆 Monday, September 12 – 09:00am UTC (11:00am Berlin time) and a second session at  
 📆 Monday, September 12 – 02:00pm UTC (04:00pm Berlin time)  
-📍 [Full Node, Berlin](https://goo.gl/maps/Bt2VsGoBPzfG61No8) _no ticket required, but seats are very limited, come early to secure your spot!_  
+📍 [Full Node, Berlin](https://goo.gl/maps/Bt2VsGoBPzfG61No8) – Main entrance TR C _no ticket required, but seats are very limited, come early to secure your spot!_  
 📺 [Join online](https://calendar.google.com/calendar/u/0?cid=Y192b2F1ZmhvOWF2MmYyN2ZmamcwMXIwNnZkOEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)  
 
 **Engineering Ethics, Introduction & Conversation with Michael Zargham & Students:**  
