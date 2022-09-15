@@ -6,7 +6,7 @@ sidebar_label: Our Community
 
 ## Meet the Token Engineering Community
 Our Discord channel is the place to be: meet community members, follow the current discussions, and stay up to date.
-Join our Discord here: https://discord.gg/mFcqFwGhpy  
+Join our Discord here: https://dsc.gg/te-academy           
 We host weekly calls that are open to anyone. Just check out our [community calendar](https://calendar.google.com/calendar/embed?src=5mkep1ad1j860k6g7i7fr8plq0%40group.calendar.google.com&ctz=Europe%2FBerlin), and feel free to drop by and say hello!
 
 ## Our community channels:
