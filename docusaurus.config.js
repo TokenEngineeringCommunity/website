@@ -52,7 +52,7 @@ module.exports = {
             },
             {
               label: '💬 Discord',
-              href: 'https://discord.gg/gHvksh8'
+              href: 'https://dsc.gg/te-academy'
             },
             {
               label: '💬 Telegram',
