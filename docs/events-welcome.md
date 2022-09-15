@@ -8,50 +8,10 @@ We run public events almost every single week and invite anyone interested in To
 
 ## September 2022 
 
-📆 Every Friday, September 16/ 23/ 30 - 5:00 PM UTC    
-**[TE Fundamentals Study Group - Blacksmith](https://te-academy.notion.site/Token-Blacksmith-Study-Group-b3cf2cfc4e7c4056b48bc91e4380cd56)**      
-**TE Academy**  
-Online/live - In English
-
-📆 Every Friday, September 16/ 23/ 30 - 2:00 PM UTC    
-**[TE Fundamentals Study Club - For Visual Learners](https://te-academy.notion.site/TE-Study-Club-for-visual-learners-4cf06eb245f34c44b1c1b5bd32cc76e5)**      
-**TE Academy**  
-Online/live - In English
-
-📆 Every Thursday, September 15/ 22/ 29 - 10:00 AM UTC    
-**[TE Fundamentals Grupo de Estudio - Ariiellus](https://te-academy.notion.site/Ariiellus-Grupo-de-Estudio-42bbec3d6cda40fdbab17fcc458818a0)**      
-**TE Academy**  
-Online/live - In Spanish
-
-📆 Every Thursday, September 15/ 22/ 29 - 6:00 PM UTC    
-**[TE Fundamentals Study Group - Metacivica](https://te-academy.notion.site/Metacivica-Study-group-ca852ac8645e4fc1b7fa72ace4150359)**      
-**TE Academy**  
-Online/live - In Spanish
-
-📆 Every Thursday, September 15/ 22/ 29 - 4:00 PM UTC    
-**[TE Fundamentals Study Group - Africa](https://te-academy.notion.site/Africa-Study-Group-TE-Fundamentals-1b4c0e8f93694c9e9bba9d526a6fe7fc)**      
-**TE Academy**  
-Online/live - In English
-
-📆 Every Wednesday, September 14/ 21/ 28 - 4:00PM UTC    
-**[TE Fundamentals Study Group - Back to Basics](https://te-academy.notion.site/Back-to-Basics-bdbe95d4042a4017b41bef624590f0fe)**      
-**TE Academy**  
-Online/live - In English     
-
-📆 Every Wednesday, September 14/ 21/ 28 - 4:00 PM UTC    
-**[TE Fundamentals Study Group - Italy](https://te-academy.notion.site/TE-Fundamentals-Italy-bca3c9dc87f64fdbb39690b33267a4aa)**      
-**TE Academy**  
-Online/live/in person - In Italian
-
 📆 Wednesday, September 14 - 8:00 AM UTC    
 **[#DivingDeeper Guest Lectures: Computational Social Choice](https://forms.gle/gJJiiMUae9MuE1Y59)**      
 **TE Academy**  
 Online/live/ In Person
-
-📆 Every Tuesday, September 13/ 20/ 27 - 6:00 PM UTC    
-**[TE Fundamentals Study Group - Turkish (Türkçe)](https://te-academy.notion.site/Turkish-Study-Group-T-rk-e-06c2adc05efc49ed93556bfd2d9eb3cf)**      
-**TE Academy**  
-Online/live  - In Turkish
 
 📆 Monday, September 12 - 8:00 AM UTC    
 **[TE Fundamentals Early Release via Study Groups](https://tokenengineeringcommunity.github.io/website/docs/academy-welcome#about)**      
