@@ -7,6 +7,12 @@ sidebar_label: Academy
 
 The TokenEngineering Academy (TE Academy) offers lectures, workshops, and seminars for anyone interested in this new, emerging field. We invite individuals and project teams to learn, collaborate, and put token engineering into practice. 
 
+## The new home of TE Academy is now live at [tokenengineering.net](https://tokenengineering.net/)
+![TE Academy Page](/img/tokenengineeringnet-new.jpg)
+Join the TE Academy and begin your journey as a Token Engineer!
+Study, contribute to open-source knowledge & tools, and apply your skills to solve the most exciting challenges in Web3.
+Sign up for courses, set up your token engineering profile and earn your proof-of-knowledge NFTs!
+
 ## Token Engineering @BerlinBlockchainWeek 2022 (BBW2022)
 ![TE Fundamentals](/img/TEA_BBW2022.jpg)
 
